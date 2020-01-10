@@ -9,7 +9,7 @@
 * I'm rubbish at the hat game
 * The way to win at the hat game tends to be to make your opponent "go inside" - so they respond the actual content of the scene rather than stay with the game.  This is a lot like the "I need you to tell me exactly what you're going to do to solve this problem" attack that you get a lot from sociopaths.
 
-![A hat]("/assets/hat.jpg" "A Hat")
+![A hat]("../assets/hat.jpg" "A Hat")
 
 **A Hat**
 
