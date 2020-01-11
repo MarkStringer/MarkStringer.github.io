@@ -1,4 +1,10 @@
-#Software Like Water [1][2]
+---
+title: "Software Like Water"
+layout: post 
+---
+
+
+# Software Like Water [1][2]
 I'm not really a big fan of war. I've never been in one, don't want to be in one and I'm very clear that when it comes to war, I really have no idea what I'm talking about.  In the past, I've given other people a hard time for talking about war as if it is the same thing as software.  It is very important to understand that it isn't the same. This is just another metaphor that we're using to explore how to handle the massive levels of uncertainly and complexity that we have to deal with when we're dealing with software development.  Over the last few days I've found myself getting very excited explaining one of Boyd's big breakthroughs - Energy-Manoeuvrability Theory, which combines an understanding of Thermodynamics with dog-fighting strategies and fighter plane design.
 
 And I've been reading John Boyd's later thinking on blitzkrieg and guerrilla tactics - and thinking about software development.  To really, really simplify this.  There are two major approaches to warfare [2] - "Traditional Warfare" - everything is commanded and controlled from the centre.  The forces are massed and lined up against the enemy and they move in-step - with a single front.  The idea is that side with the most men (they're still mostly men), money and guns wins.  This is what Boyd calls "Hey Diddle Diddle, straight up the middle."
@@ -23,6 +29,6 @@ The generals wanted *faster* planes - even though what country's defence needed 
 
 In software development, the generals seem to want something similar - they want to see software developed according to plans - on time and to budget and complying with standards.
 
-[1]I've been on holiday for two weeks.  I spent the first week letting my brain rest, reading endless [Lawrence Block]( http://www.amazon.co.uk/Lawrence-Block/e/B000AQ4YK6/ref=sr_tc_2_0?qid=1440313461&sr=8-2-ent) novels.  Then I did some re-reading - I re-read "No One Would Listen" by Harry Markopoulos and I re-read ["Boyd: The Fighter Pilot Who Changed the Art of War"](http://www.amazon.co.uk/dp/0316796883/ref=cm_sw_r_tw_dp_-1w2vb0BS2YB7) by Robert Coram and that brought me onto ["Mind of War"](http://www.amazon.co.uk/dp/B006Q2GIDO/ref=cm_sw_r_tw_dp_M3w2vb16VX1PD) - another book about John Boyd.  I'll probably end up reading ["The Pentagon Wars"](http://www.amazon.co.uk/dp/1612516009/ref=cm_sw_r_tw_dp_n5w2vb1V1P2QN), which is another book about John Boyd and his circle.  Oh, and I ate roughly my own body weight in pork gyros.
+[1]I've been on holiday for two weeks.  I spent the first week letting my brain rest, reading endless Lawrence Block novels.  Then I did some re-reading - I re-read "No One Would Listen" by Harry Markopoulos and I re-read "Boyd: The Fighter Pilot Who Changed the Art of War" by Robert Coram and that brought me onto "Mind of War" - another book about John Boyd.  I'll probably end up reading "The Pentagon Wars", which is another book about John Boyd and his circle.  Oh, and I ate roughly my own body weight in pork gyros.
 
 [2] One thing I've been saying for a long time is that one of the main jobs of talking about, thinking about and actually *doing* software project management is coming up with helpful metaphors for software development. One thing that I've just realised over the last few days of reading is something that I vaguely got a long time ago - but it's taken me until now to have it really sink in. All we have is metaphors - we don't have any *real* world beyond the metaphors.  The metaphors are it. And yes, I know, "software like water" isn't a metaphor, it's a simile.  All we have is metaphors, similes and pedantry.

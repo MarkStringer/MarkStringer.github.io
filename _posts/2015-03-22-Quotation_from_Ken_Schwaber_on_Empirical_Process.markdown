@@ -1,3 +1,8 @@
+---
+title: "Quotation from Ken Schwaber on Empirical Process"
+layout: post 
+---
+
 
 Fri, 11 Jul 2014 10:03:56 
 

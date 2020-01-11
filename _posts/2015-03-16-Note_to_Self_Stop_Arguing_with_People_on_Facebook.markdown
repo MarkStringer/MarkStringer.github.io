@@ -1,4 +1,10 @@
-#Note to Self - Stop Arguing with People on Facebook
+---
+title: "Note to Self - Stop Arguing with People on Facebook"
+layout: post 
+---
+
+
+# Note to Self - Stop Arguing with People on Facebook
 I've totally had it with arguing with people on Facebook.  I just took the trouble to dig by "Oblique Strategies"[1] cards out of a drawer and look for the one that's pertinent to the situation I find myself in.
 
 >**Discover the recipes you are using and abandon them**

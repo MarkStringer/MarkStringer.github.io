@@ -1,5 +1,10 @@
+---
+title: "Ken Schwaber of Tools" 
+layout: post 
+---
 
-Fri, 11 Jul 2014 12:38:17 
+
+## Fri, 11 Jul 2014 12:38:17 
 
 # Quotation from Ken Schwaber - Really? You think?
 

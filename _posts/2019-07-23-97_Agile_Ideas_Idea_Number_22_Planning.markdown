@@ -1,3 +1,9 @@
+---
+title: "Agile Ideas - Planning"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 22 
 # Planning 
 

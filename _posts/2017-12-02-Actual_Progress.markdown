@@ -1,3 +1,8 @@
+---
+title: "Actual Progress"
+layout: post 
+---
+
 # Actual Progress
 
 >>" I fled Him, down the nights and down the days;
@@ -43,8 +48,8 @@ Actual progress rarely responds to:
 *Accusations of a negative attitude
 	
 So what *does* actual progress respond to?
-*Acknowledgement
-*Understanding
-*Focus on removing barriers
-*Recognition of barriers
-*Acceptance of barriers that can't be removed
+* Acknowledgement
+* Understanding
+* Focus on removing barriers
+* Recognition of barriers
+* Acceptance of barriers that can't be removed

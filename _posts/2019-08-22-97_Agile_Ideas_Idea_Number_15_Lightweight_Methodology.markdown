@@ -1,3 +1,9 @@
+---
+title: "Lightweight Methodology"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 15 
 # Lightweight Methodology
 

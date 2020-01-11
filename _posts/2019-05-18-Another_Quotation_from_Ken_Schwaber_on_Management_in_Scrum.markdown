@@ -1,5 +1,10 @@
+---
+title: "Another Quotation from Ken Schwaber - on Managemnt in Scrum"
+layout: post 
+---
 
-Fri, 11 Jul 2014 18:18:38 
+
+## Fri, 11 Jul 2014 18:18:38 
 
 # Another Quotation from Ken Schwaber - on Management in Scrum
 

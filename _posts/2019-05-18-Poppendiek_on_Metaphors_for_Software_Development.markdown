@@ -1,5 +1,9 @@
+---
+title: "Poppendiek on Metaphors for Software Development"
+layout: post 
+---
 
-Mon, 15 Sep 2014 10:14:21 
+## Mon, 15 Sep 2014 10:14:21 
 
 # Poppendiek on Metaphors for Software Development
 

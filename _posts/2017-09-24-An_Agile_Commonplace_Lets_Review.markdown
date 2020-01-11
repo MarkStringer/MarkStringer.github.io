@@ -1,4 +1,10 @@
-#An Agile Commonplace - Let's Review
+---
+title: "An Agile Commonplace - Let's Review"
+layout: post 
+---
+
+
+# An Agile Commonplace - Let's Review
 
 So the idea of having a commonplace came from reading Steve Johnson's book "Where Good Ideas Come From."
 

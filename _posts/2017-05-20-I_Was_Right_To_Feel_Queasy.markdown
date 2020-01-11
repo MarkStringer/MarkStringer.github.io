@@ -1,6 +1,11 @@
+---
+title: "I Was Right to Feel Queasy"
+layout: post 
+---
+
 # I Was Right to Feel Queasy
 
-So before Christmas I wrote a post - ["A Queasy Epiphany"](A%20Queasy%20Epiphany.htm) . I'd been asked to write a bid (for a 
+So before Christmas I wrote a post - "A Queasy Epiphany". I'd been asked to write a bid (for a 
 company that I don't work for any more) saying how we would govern multiple teams.  Rather than than try to make something up I 
 queasily reached for SAFE and wrote using SAFE terms how we would approach governing a project that had more than one team.
 

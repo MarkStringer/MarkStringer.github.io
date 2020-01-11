@@ -1,3 +1,8 @@
+---
+title: "A Nearly Perfect Day"
+layout: post 
+---
+
 # A Nearly Perfect Day
 
 Feeling good.  I should remember this feeling - I've got another feeling that it's going to be a long winter.  We've been holidaying on the Greek island of Milos and this morning we went to a rocky beach which had cliffs you could dive from into the water.  And I did this about seven times.

@@ -1,5 +1,11 @@
-#Improvisational Theatre and Project Management - what have they got in common?  
-##- the need to make it up as you go along - Part 3
+---
+title: "Improvisational Theatre and Project Management?"
+layout: post 
+---
+
+
+# Improvisational Theatre and Project Management - what have they got in common?  
+## - the need to make it up as you go along - Part 3
 ### Yes and.  Yes AND?
 
 >Not knowing is the nearest approximation to the truth - (Zen Buddhist saying)
@@ -17,7 +23,7 @@ As with so many things when you're advocating change, you need to be careful to 
 
 I think in project management the "Yes and" principle (let's call it) applies in two different ways.  One is in saying "Yes and" to bosses and single stakeholders.  And the other is in - I know this sounds a bit weird, but it's very true.  In saying "Yes and" to reality.
 
-###"Yes and" Senior Stakeholders
+### "Yes and" Senior Stakeholders
 
 In a way, the saying "Yes and" to bosses and senior stakeholders, is the easier of the two.  It's just important to understand that "Yes and" isn't just "Yes."  For example, in an Agile approach to managing projects, one of the wonders of having a product backlog is that you can agree to add anything to it - **and** then you can see how much it costs and how it needs to be prioritised relative to everything else in the project.
 

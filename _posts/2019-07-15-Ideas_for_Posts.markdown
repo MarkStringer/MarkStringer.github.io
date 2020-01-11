@@ -1,4 +1,9 @@
-#Ideas for Posts
+---
+title: "Ideas for Posts"
+layout: post 
+---
+
+# Ideas for Posts
 * Get a Vision, Act, Change the Vision, Change the Action, Repeat
 * Early vs Late Wittgenstein, Waterfall vs Agile
 * Same

@@ -1,4 +1,10 @@
-﻿Version - 0.1 - Aristotle
+﻿---
+title: "Delivering the Impossible - Chapter 2"
+layout: post 
+---
+
+
+Version - 0.1 - Aristotle
 # Delivering the Impossible [Working title]
 
 # Chapter 2 

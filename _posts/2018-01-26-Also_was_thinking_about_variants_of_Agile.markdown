@@ -1,3 +1,8 @@
+---
+title: "Variants of Agile"
+layout: post 
+---
+
 
 Tue, 24 Jun 2014 09:08:49 
 

@@ -1,3 +1,7 @@
+---
+title: "The Imaginary Tug of War"
+layout: post 
+---
 
 Mon, 9 Jun 2014 07:07:50 
 

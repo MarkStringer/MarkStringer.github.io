@@ -1,8 +1,14 @@
-# Why I hate Agile *
+---
+title: "Why I hate Agile"
+layout: post 
+---
 
-\* Note: I don't hate Agile. Agile literally changed my life. 
 
-But I don't work as a developer on Agile teams.  
+# Why I hate Agile 
+
+***Note: I don't hate Agile. Agile literally changed my life. 
+
+But I don't work as a developer on Agile teams.***
 
 This is a series of complaints from a friend of mine who's been working as a developer on Agile projects for years and years. I've attempted to find some answers and then I'll give him a chance to respond. 
 

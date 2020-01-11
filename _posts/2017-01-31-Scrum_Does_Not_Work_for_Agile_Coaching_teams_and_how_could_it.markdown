@@ -1,3 +1,9 @@
+---
+title: "Scrum Does Not Work for Agile Coaching Teams - and How Could it?"
+layout: post 
+---
+
+
 # Scrum Does not Work for Agile Coaching Teams - and How Could it?
 
 This is one that took me a long time to realise.

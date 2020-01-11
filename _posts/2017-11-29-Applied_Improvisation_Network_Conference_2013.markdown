@@ -1,3 +1,9 @@
+---
+title: "The Whole Cortex Lights Up"
+layout: post 
+---
+
+
 
 # The Whole Cortex Lights Up
 ## Four Days in Berlin at the Applied Improvisation Network Conference

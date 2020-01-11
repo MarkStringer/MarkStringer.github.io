@@ -1,6 +1,12 @@
-19/09/2015
+---
+title: "Herrenmoral and Sklavenmoral"
+layout: post 
+---
 
-There's this little bit in the [New Confessions by William Boyd]( http://www.amazon.co.uk/dp/0141046910/ref=cm_sw_r_tw_dp_tlt.vb12Y8C64) where a character who's a Jewish refugee has become a big shot producer in Hollywood - and someone - maybe a young starlet-in-embryo - voices the opinion that you should always tell the truth, no matter what.  The Jewish refugee-turned-big-shot-producer examines the gold rings on his hand, takes a draw on his cigar and says "If I'd have believed that, I'd be a lampshade." And there we have the crux of a problem that's not likely to go away anytime soon - what's "right", and what has to be done to win/survive aren't the same thing.
+
+# 19/09/2015
+
+There's this little bit in the New Confessions by William Boyd where a character who's a Jewish refugee has become a big shot producer in Hollywood - and someone - maybe a young starlet-in-embryo - voices the opinion that you should always tell the truth, no matter what.  The Jewish refugee-turned-big-shot-producer examines the gold rings on his hand, takes a draw on his cigar and says "If I'd have believed that, I'd be a lampshade." And there we have the crux of a problem that's not likely to go away anytime soon - what's "right", and what has to be done to win/survive aren't the same thing.
 
 So this Jeremy Corbyn thing is interesting. There seem to be two main strands of thought in response to a politician who wants to improve the lot of the poor and not kill people in illegal wars.
 

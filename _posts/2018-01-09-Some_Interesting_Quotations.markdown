@@ -1,3 +1,9 @@
+---
+title: "Some Interest Quotations"
+layout: post 
+---
+
+
 # Some Interesting Quotations
 
 **No, I don't like work. I had rather laze about and think of all the fine things that can be done. I don't like work - no man does - but I like what is in the work, the chance to find yourself. Your own reality - for yourself, not for others - what no other man can ever know. They can only see the mere show, and never can tell what it really means.**

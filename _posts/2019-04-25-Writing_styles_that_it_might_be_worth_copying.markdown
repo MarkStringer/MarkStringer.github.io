@@ -3,7 +3,7 @@
 So I was watching a programme on youtube about the Beatles and the musicology of their songs. Howard Goodall was saying that something like Tomorrow Never Knows had 4 or 5 different completely innovative ideas in it, at the same time it was a blend of lots and lots of different musical styles. Chord sequences from all over the place, the cadences of hymns, the Dorian mode of English folk songs.
 
 He was also saying that one of the reasons that Beatles could move so fluidly between all these different styles was that they had played so many of them, literally day in and day out when they were in Hamburg before they started to be famous.
-
+  
 This of course picks up on the idea of writing everyday, but also possibly another idea of trying to write in lots of different styles.
 
 Anyway enough of the preamble.  Styles that I find amazingly readable.

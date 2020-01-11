@@ -1,3 +1,9 @@
+---
+title: "Taking Time Off From Carpet Bombing Cambodia"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 1
 # The Stand-Up Meeting
 

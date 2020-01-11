@@ -1,14 +1,20 @@
-#Sources of Governance
+---
+title: "Sources of Governance"
+layout: post 
+---
+
+
+# Sources of Governance
 ![Sources of Governance](SourcesOfGovernance.png)
 
-##Sources of Power (Energy)
+## Sources of Power (Energy)
 * Money
 * Time
 * Connections
 * Education
 * Intelligence
 
-##Sources of Control (Direction)
+## Sources of Control (Direction)
 * How energy is directed
 * What do you spend time on
 * Who do you spend time with
@@ -16,7 +22,7 @@
 * What problems do you focus on solving
 * (Something about control being related to equilibrium and balance)
 
-##Sources of Friction
+## Sources of Friction
 * Ignorance
 * Tiredness
 * Illness
@@ -24,14 +30,14 @@
 * Alienation
 * Obligation
 
-##Brakes
+## Brakes
 * Resign
 * Leave
 * Save
 * Cut Ties
 * Avoid
 
-##Sources of Feedback
+## Sources of Feedback
 * Pain
 * Pleasure
 * Money

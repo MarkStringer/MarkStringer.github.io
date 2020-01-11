@@ -1,4 +1,10 @@
-#Yeah - About that Transparency.
+---
+title: "Yeah - About That Transparency"
+layout: post 
+---
+
+
+# Yeah - About that Transparency.
 So one of the fundamental principles of empirical process, and Agile is supposed to be an empirical process, is transparency.  Transparency is so important to empirical process, it's often called one of the *pillars* of empirical process.
 
 But you can have too much of it. Here are some examples. 

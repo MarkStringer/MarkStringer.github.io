@@ -1,4 +1,10 @@
-﻿#SAFE is Post-Fact Agile and How Could it Be Otherwise
+﻿---
+title: "SAFE is Post-Fact Agile"
+layout: post 
+---
+
+
+# SAFE is Post-Fact Agile and How Could it Be Otherwise
 
 **"If you can hear the truth you've spoken twisted by knaves to make a trap for fools"**
 

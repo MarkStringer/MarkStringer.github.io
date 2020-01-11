@@ -1,4 +1,9 @@
-#More Stuff from Clown School - Sitting on a Chair
+---
+title: "Taking Time Off From Carpet Bombing Cambodia"
+layout: post 
+---
+
+# More Stuff from Clown School - Sitting on a Chair
 
 So this Sunday was the last session of this particular course and clown school, and like other three weeks, we did a series of *very* simple exercises that were much more thought provoking than they looked like they should be.
 

@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - Poke Yoke"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 8 
 # Poke Yoke 
 

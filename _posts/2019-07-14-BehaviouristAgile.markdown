@@ -1,3 +1,8 @@
+---
+title: "Agile and Behaviourism"
+layout: post 
+---
+
 I've been thinking about Behaviourist approaches to Agile transformation - and wondering why nobody has said much about this before. A few things to consider:
 
 * I worked with two teams just recently that were described by other people as being "beaten down."
@@ -6,7 +11,7 @@ I've been thinking about Behaviourist approaches to Agile transformation - and w
 
 * Common feedback on courses and workshops is that the material hasn't been tailored to the specific circumstances of the particular project that the attendees are working on. When I first started, somebody made this very clear to me saying "I want you to tell me exactly what I can do to make sure my project doesn't fail."
 
-By sheer luck I ended up sitting on an aeroplane next to a very intense young man who was reading a book about behaviourism. And it lead me to read this book by [Aubrey Daniels](http://www.amazon.co.uk/Bringing-Out-Best-People-Reinforcement/dp/0071351450/ref=sr_1_1?ie=UTF8&qid=1419942775&sr=8-1&keywords=aubrey+daniels) and to start to think about something called "Operant Conditioning" and how it might be working on the kinds of projects that we call "Agile Transformations."
+By sheer luck I ended up sitting on an aeroplane next to a very intense young man who was reading a book about behaviourism. And it lead me to read this book by Aubrey Daniels and to start to think about something called "Operant Conditioning" and how it might be working on the kinds of projects that we call "Agile Transformations."
 
 In operant conditioning there are four ways to get your subjects (normally these subjects were laboratory animals) - to learn.
 

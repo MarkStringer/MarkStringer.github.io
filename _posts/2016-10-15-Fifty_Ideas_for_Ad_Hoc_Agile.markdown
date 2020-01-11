@@ -1,4 +1,10 @@
-Fifty Ideas for Ad Hoc Agile
+---
+title: "Fifty Ideas for Ad Hoc Agile"
+layout: post 
+---
+
+
+# Fifty Ideas for Ad Hoc Agile
 
 1.  A printer template for stories
 2.  “Slower”

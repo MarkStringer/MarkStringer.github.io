@@ -1,4 +1,10 @@
-#Some Thoughts About Walking
+---
+title: "Some Thoughts about Walking"
+layout: post 
+---
+
+
+# Some Thoughts About Walking
 I did a lot of walking in 2016. Over ninety miles in July - probably more than that in August and September and nearly one hundred and fifty in October. 
 
 I like walking. It's free (just about, it costs a bit in shoe leather and sore feet). And it doesn't require any special equipment. It's not jogging, it's not tough-mudding, it's not triathling (verb non-transitive, to blow mucous out of every orifice).

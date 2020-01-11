@@ -1,5 +1,10 @@
+---
+title: "Destructive Feedback"
+layout: post 
+---
 
-Tue, 30 Dec 2014 00:48:18 
+
+## Tue, 30 Dec 2014 00:48:18 
 
 # Destructive Feedback
 

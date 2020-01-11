@@ -1,3 +1,9 @@
+---
+title: "Agile Ideas - What is It?"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 2
 # What Is it?
 

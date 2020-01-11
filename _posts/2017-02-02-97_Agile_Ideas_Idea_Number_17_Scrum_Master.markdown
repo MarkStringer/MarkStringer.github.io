@@ -1,3 +1,9 @@
+---
+title: "Agile Idea - Scrum Master"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 17 
 # Scrum Master
 

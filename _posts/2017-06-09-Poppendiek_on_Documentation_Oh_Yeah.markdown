@@ -1,5 +1,10 @@
+---
+title: "Poppendiek on Documentation"
+layout: post 
+---
 
-Mon, 15 Sep 2014 11:17:24 
+
+## Mon, 15 Sep 2014 11:17:24 
 
 # Poppendiek on Documentation - Oh Yeah!
 

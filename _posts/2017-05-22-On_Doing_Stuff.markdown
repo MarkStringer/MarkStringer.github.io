@@ -1,5 +1,9 @@
+---
+title: "On Doing Stuff"
+layout: post 
+---
 
-Sun, 28 Dec 2014 23:45:22 
+## Sun, 28 Dec 2014 23:45:22 
 
 # On Doing Stuff
 

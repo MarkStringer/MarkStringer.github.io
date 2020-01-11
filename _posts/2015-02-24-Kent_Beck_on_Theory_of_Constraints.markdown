@@ -1,3 +1,7 @@
+---
+title: "Kent Beck on Theory of Constraints"
+layout: post 
+---
 
 Wed, 26 Nov 2014 17:25:36 
 

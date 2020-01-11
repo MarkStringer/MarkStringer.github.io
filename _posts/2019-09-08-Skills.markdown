@@ -1,4 +1,10 @@
-#Skills
+---
+title: "Skills"
+layout: post 
+---
+
+
+# Skills
 
 >>"Sufficiently advanced technology is indistinguishable from magic."
 

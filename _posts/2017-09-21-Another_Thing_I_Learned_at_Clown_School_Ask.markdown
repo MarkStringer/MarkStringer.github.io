@@ -1,4 +1,10 @@
-#Something Else I Learned At Clown School - Ask
+---
+title: "Something Else I Learned At Clown School - Ask"
+layout: post 
+---
+
+
+# Something Else I Learned At Clown School - Ask
 This week at clown school we played another ridiculously simple game that was *very* revealing.
 
 The game was called "give me the ball". One person had the ball and the other people (there were seven of us in total) had to persuade the person who had the ball to give them the ball. When the person who had the ball decided to give the ball to someone, they would signal that they were going to give them the ball with full eye contact and then throw then the ball and the game would continue.

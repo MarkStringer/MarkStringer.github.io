@@ -1,4 +1,9 @@
-#The Toolsets are A-Changing
+---
+title: "The Toolsets are A-Changing"
+layout: post 
+---
+
+# The Toolsets are A-Changing
 
 I was reading one of the books by Buckminster Fuller. Fuller just mentioned casually in passing, that in any given industry the toolsets change about every 25 years. I think this is a big generalisation, and in some industries the toolsets don't change much for hundreds of years. I think Buckminster fuller spent most of his time thinking about engineering and architecture, and for that, he might have been right.
 
