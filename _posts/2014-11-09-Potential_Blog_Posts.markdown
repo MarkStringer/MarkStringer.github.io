@@ -1,4 +1,10 @@
-#Potential Blog Posts
+---
+title: "Potential Blog Posts"
+layout: post 
+---
+
+
+# Potential Blog Posts
 
 Here are some blog posts that I feel the need to write.  As you can see I am greatly concerned that I increase my understanding of Dev Ops and AWS Cloud and also Scaled Agile
 

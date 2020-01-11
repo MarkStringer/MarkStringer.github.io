@@ -1,3 +1,7 @@
+---
+title: "Kent Beck on Working at a Sustainable Pace"
+layout: post 
+---
 
 Thu, 27 Nov 2014 09:32:38 
 

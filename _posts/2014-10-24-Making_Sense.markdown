@@ -1,8 +1,12 @@
+---
+title: "Stop Making Sense - The System as Imagined vs The System as Found"
+layout: post 
+---
 # Stop Making Sense - The System as Imagined vs The System as Found
 
 So this week I've been writing a bid proposal. And I find it very difficult to write bid proposals.  Part of the reason is that it's just impossible to tell it how it really is. If you told how it really was, it would scare the horses. And as a result, I've been reaching for the Scaled Agile Framework as a way of talking about what will happen.
 
-I was reading a book while I was on holiday - [Captivate by Vanessa Van Edwards](https://www.amazon.co.uk/gp/aw/d/0241309913/ref=mp_s_a_1_1?ie=UTF8&qid=1507376795&sr=8-1&keywords=captivate+vanessa).  The author claims at one point that one of the things that causes conflict between people is that have a particular way in which he like to be rewarded and that this can be different for different people. For example, some people like to be given gifts. Some people like to be given attention, some people like to be given praise.  Of course, when you read things like this, you ask yourself how you like to be rewarded.
+I was reading a book while I was on holiday - Captivate by Vanessa Van Edwards.  The author claims at one point that one of the things that causes conflict between people is that have a particular way in which he like to be rewarded and that this can be different for different people. For example, some people like to be given gifts. Some people like to be given attention, some people like to be given praise.  Of course, when you read things like this, you ask yourself how you like to be rewarded.
 
 I thought about it for a while, and I realised that the way that I would most like to be rewarded was by having the people around me make sense. In a way this reminds you of that joke.
 

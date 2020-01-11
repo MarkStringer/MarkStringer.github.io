@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - Iteration"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 4
 # Iteration
 

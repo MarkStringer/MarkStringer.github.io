@@ -1,8 +1,13 @@
-#Three Moments of Clarity
+---
+title: "Three Moments of Clarity"
+layout: post 
+---
+
+# Three Moments of Clarity
 
 How do you explore these issues that we've been talking about - all of the issues around being late and over-budget?  One was is to explore them though games and improvisation.  I feel a bit weird saying this - it's in some way so contrary to the notion that "project management is just common sense."  It sounds like I'm saying that you should explore the challenges of project management through interpretative dance.  Well maybe, one day.
 
-For now, I've been really interested in reading the work of improvisation pioneer Keith Johnstone.  One of the first topics that he covers in his book ["Impro"](http://www.amazon.co.uk/gp/product/B00AC26KUU?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00AC26KUU&linkCode=shr&tag=theginmum-21&qid=1379835471&sr=8-1&keywords=impro) is status.  And I really wanted to explore these issues, so I hired an actor to work through with me all the exercises that Johnstone discusses in his book.  We did things like play a scene several times - one of us starting the scene high status, and one of us starting the scene low-status and over the course of the scene having our status swap.  We also messed around with the physical cues for status - playing scenes where one of us touched their head a lot during the scene (try it, it's impossible not to feel low status when you're tugging your forelock).  Also we played scenes where one of us talked quickly and says "erm" a lot.
+For now, I've been really interested in reading the work of improvisation pioneer Keith Johnstone.  One of the first topics that he covers in his book "Impro" is status.  And I really wanted to explore these issues, so I hired an actor to work through with me all the exercises that Johnstone discusses in his book.  We did things like play a scene several times - one of us starting the scene high status, and one of us starting the scene low-status and over the course of the scene having our status swap.  We also messed around with the physical cues for status - playing scenes where one of us touched their head a lot during the scene (try it, it's impossible not to feel low status when you're tugging your forelock).  Also we played scenes where one of us talked quickly and says "erm" a lot.
 
 And we're starting to get the hang of this now. [Pause] For instance. [Pause] I have found [Pause] that taking [Pause] long pauses [Pause] between the things that I say. [Pause] Even if [Pause] the pauses [Pause] aren't [Pause] at the beginning of sentences, seems to give me a certain extra authority.
 

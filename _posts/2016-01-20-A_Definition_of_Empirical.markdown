@@ -3,7 +3,7 @@ Fri, 11 Jul 2014 10:04:39
 
 # A Definition of Empirical
 
-#empirical
+# empirical
 
 ADJECTIVE
 

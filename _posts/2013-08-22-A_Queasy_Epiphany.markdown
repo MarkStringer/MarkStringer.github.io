@@ -1,3 +1,8 @@
+---
+title: "A Queasy Epiphany"
+layout: post 
+---
+
 # A Queasy Epiphany
 
 So this week I was working on a bid. And the part of the bid that, for me is the hardest to do is the part where you say how project is going to be governed.

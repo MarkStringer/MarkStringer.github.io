@@ -1,4 +1,10 @@
+---
+title: "Finally - The Point"
+layout: post 
+---
+
 # Finally - the point
+
 So this was the thing that I've been trying to get at.  This was the thing that I realised after putting together the notion "legibility" and "illegibility" and my friend's maxim that "sooner or later someone has to lie."
 
 What I realised that it isn't so much that at somepoint someone has to lie.  It's rather - as was mentioned in that article on the Snafu principle yesterday - that:
@@ -80,6 +86,6 @@ What's really interesting from a project management point of view is the actuall
 
 [1] Weird how when you think about it like this, it sounds so much like a "Collateralized Debt Obligation" - you know those financial instruments that nearly brought about the destruction of the planet?
 
-[2] That book is ["The Grunch of Giants"](http://www.amazon.co.uk/gp/product/0312351941?ie=UTF8&camp=3194&creative=21330&creativeASIN=0312351941&linkCode=shr&tag=theginmum-21) by Buckminster Fuller - it reads as if it's been written by one of those crazy people who hang around hospitals and police stations with silver paper hats on their heads to stop the aliens interfering with their brain waves. But that's just because it's so much more clear-eyed and sensible that almost anything else you've ever read. Another idea that I got from reading that book is one that, now I'm thinking about the difference between Losers and Sociopaths has a lot more meaning:
+[2] That book is "The Grunch of Giants" by Buckminster Fuller - it reads as if it's been written by one of those crazy people who hang around hospitals and police stations with silver paper hats on their heads to stop the aliens interfering with their brain waves. But that's just because it's so much more clear-eyed and sensible that almost anything else you've ever read. Another idea that I got from reading that book is one that, now I'm thinking about the difference between Losers and Sociopaths has a lot more meaning:
 
 **You can either make money, or sense**

@@ -1,3 +1,9 @@
+---
+title: "Agile Idea - Continuous Integration"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 11
 # Continuous Integration
 

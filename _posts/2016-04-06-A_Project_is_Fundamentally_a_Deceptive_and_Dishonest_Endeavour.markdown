@@ -1,4 +1,10 @@
-#A Project is Fundamentally a Deceptive and Dishonest Endeavour
+---
+title: "A Project is Fundamentally a Deceptive and Dishonest Endeavour"
+layout: post 
+---
+
+
+# A Project is Fundamentally a Deceptive and Dishonest Endeavour
 
 Anne wants to do a project. But, of course, Anne doesn't want to do this with her own money. So Anne needs to persuade some other people, let's call them the Board, to give her the money. How does Anne do that? Well maybe Anne convinces the Board that the project will deliver more value than it will cost. How does Anne know this? Well, she doesn't really, she's guessing. And such a case on it's own will probably be seen by the board to be just what it is - a massive gamble. And in such cases, there's probably a good chance the board won't fund it.
 

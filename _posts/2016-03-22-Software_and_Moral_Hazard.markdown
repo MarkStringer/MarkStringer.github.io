@@ -1,4 +1,8 @@
-﻿
+﻿---
+title: "Softward and Moral Hazard, As Bad as It Can Be - As Good as It Gets"
+layout: post 
+---
+
 # Software and Moral Hazard, As Bad as It Can Be - As Good as It Gets
 
 I've been re-reading Venkatesh Rao's writings on the Gervais principle.  It's a depressing and disturbing read.  What I'm trying to do at the moment is reconcile it to the picture that I've got of how software development is done inside financial services companies – my own recent experience in the world of work.  

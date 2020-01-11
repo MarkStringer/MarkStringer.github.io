@@ -1,4 +1,10 @@
-#Taking Time Off From Carpet Bombing Cambodia
+---
+title: "Taking Time Off From Carpet Bombing Cambodia"
+layout: post 
+---
+
+
+# Taking Time Off From Carpet Bombing Cambodia
 
 I was writing last night in a notebook - I know that it breaks the whole idea of having one text file.  A commonplace.  One thing that came out of writing last night was that I'd been thinking about the whole idea of creating a sociopath in the lab wrongly.  Part of defending yourself from a sociopath is disconnecting from competence and commitment and consistence.  This doesn't mean that you stop caring about these things and valuing them - it just means that you start to value something else more.  That was my idea - that the way that you generate a sociopath in the lab was:
 
@@ -20,7 +26,7 @@ So the intern went away and re-wrote the report and gave Kissinger an updated ve
 Again - he gets the report back with note.  "Really? This is the best you can do?"  And now, furious, the intern gets a few moments with Kissinger as says "Yes, this is the best I can do, no, I don't think it needs another rewrite."
 "OK, says Kissinger,  then I'll read this one." 
 
-The "Loser" in me wants to say "What do you expect from a man who carpet bombed Cambodia?" That's Robert Anton Wilson's  ["Snafu principle"](http://explorations.chasrmartin.com/2008/01/29/the-snafu-principle/) in a nutshell. If I can prove that he's a bad man, then I don't have to worry about the lessons that his behaviour might teach me, I can essentially stop listening.  But there are a couple of other ways of looking at this story.
+The "Loser" in me wants to say "What do you expect from a man who carpet bombed Cambodia?" That's Robert Anton Wilson's "Snafu principle" in a nutshell. If I can prove that he's a bad man, then I don't have to worry about the lessons that his behaviour might teach me, I can essentially stop listening.  But there are a couple of other ways of looking at this story.
 
 ![The Snafu Principle](snafu_principle.png)
 

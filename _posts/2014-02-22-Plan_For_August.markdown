@@ -1,3 +1,7 @@
+---
+title: "Plan for August"
+layout: post 
+---
 
 Sun, 27 Jul 2014 10:26:06 
 

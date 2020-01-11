@@ -1,4 +1,10 @@
-#Sterling Hayden on Money
+---
+title: "Sterling Hayden on Money"
+layout: post 
+---
+
+
+# Sterling Hayden on Money
 
 >"To be truly challenging, a voyage, like a life, must rest on a firm foundation of financial unrest. Otherwise, you are doomed to a routine traverse, the kind known to yachtsmen who play with their boats at sea... "cruising" it is called. Voyaging belongs to seamen, and to the wanderers of the world who cannot, or will not, fit in. If you are contemplating a voyage and you have the means, abandon the venture until your fortunes change. Only then will you know what the sea is all about.
 
@@ -8,6 +14,6 @@
 
 >The years thunder by, The dreams of youth grow dim where they lie caked in dust on the shelves of patience. Before we know it, the tomb is sealed.
 
->Where, then, lies the answer? In choice. Which shall it be: bankruptcy of purse or bankruptcy of life? "
+>Where, then, lies the answer? In choice. Which shall it be: bankruptcy of purse or bankruptcy of life?"
 
 *Sterling Hayden, Wanderer*

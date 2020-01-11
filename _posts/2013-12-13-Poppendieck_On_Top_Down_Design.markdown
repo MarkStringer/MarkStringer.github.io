@@ -1,4 +1,7 @@
-
+---
+title: "Poppendieck On Top Down Design"
+layout: post 
+---
 Mon, 15 Sep 2014 11:36:50 
 
 # Poppendieck On Top Down Design

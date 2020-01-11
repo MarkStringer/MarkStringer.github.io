@@ -1,3 +1,7 @@
+---
+title: "Quote from the Big Tiny"
+layout: post 
+---
 
 Thu, 8 May 2014 22:04:22 
 

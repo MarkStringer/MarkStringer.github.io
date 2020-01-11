@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - Brooks' Law"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 20
 # Brooks' Law
 

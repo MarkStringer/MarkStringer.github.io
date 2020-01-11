@@ -1,2 +1,7 @@
-#Banish meetings
+---
+title: "Banish Meetings"
+layout: post 
+---
+
+# Banish meetings
 Johnstone's all-important first move was to banish aimless discussion and transform the meetings to enactment sessions; it was what happened that mattered, not what anybody said about it.

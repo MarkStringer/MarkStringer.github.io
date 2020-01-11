@@ -1,11 +1,16 @@
-#Now We're Talking - Some Thoughts on Second Circle
+---
+title: "A Queasy Epiphany"
+layout: post 
+---
+
+# Now We're Talking - Some Thoughts on Second Circle
 It's Saturday morning, so I'm writing this on my "weekend" laptop - it just feels too miserable using my work laptop at the weekend.  It's 7:30am in the morning in February here in Limehouse, London and there's a half-light outside.
 
 Winter was mild, so it hasn't felt quite so much like living under a stone this year, but still, it's reassuring when it starts to get light again first thing in the morning.
 
 I didn't write anything yesterday, so I thought I'd get up early this morning and give it a good go. Saturday mornings are the best time in the week I get to actually do some thinking for myself.  Though it's interesting that clown school - actually doing something different and physical has been provoking my thoughts all week.  There were two things that I was thinking about writing about this morning.  
 
-One was this thing called "Second Circle" - it's an idea talked about by the voice coach Patsy Rodenburg in her book ["The Second Circle"](http://www.amazon.co.uk/Second-Circle-Positive-Success-Situation/dp/0393345904). The basic idea is very simple - there are three modes of communication. 
+One was this thing called "Second Circle" - it's an idea talked about by the voice coach Patsy Rodenburg in her book "The Second Circle". The basic idea is very simple - there are three modes of communication. 
 
 **First circle** is a passive mode of communication - a person communicating in first circle would probably rather not be saying anything at all, and just quietly listening.  When they do communicate, they mumble, they don't speak loudly enough.
 

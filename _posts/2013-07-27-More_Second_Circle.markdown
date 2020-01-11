@@ -1,3 +1,4 @@
+
 So yesterday we were talking about Patsy Rodenburg's concept of second circle. Symmetrical discussion where information is exchanged both ways. Discussion that is present and in the moment.
 
 And we talked about how most communication around software development is third circle, forceful communication. Declaiming, posturing.

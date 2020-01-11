@@ -1,4 +1,4 @@
-#The WIFS Syndrome or Why Developing Software Around Third Party Applications is Different
+# The WIFS Syndrome or Why Developing Software Around Third Party Applications is Different
 
 Most of the projects that I seem to get involved with these days involve third party software.  The idea is that the bulk of the functionality will be delivered by this third party software.  For me this is a total game-changer when it comes to software development - but I haven't really seen anybody writing about it - especially in the Agile community.  
 
@@ -8,7 +8,7 @@ There are some other weird things that happen as a result of this shift towards 
 
 * The order that requirements flow through testers, BA's and developers (and Product Owners, and other stakeholders) is massively disturbed.  I have my colleague [Ben Schofield](https://www.linkedin.com/pub/ben-schofield/16/525/628) to thank for this idea. Now he's pointed out it's so obvious.
 * Because the flow of requirements through BA's, testers, developers and stakeholders is different, this causes stresses and strains.
-* Software is [tractable](https://en.wiktionary.org/wiki/tractable), this is dangerous when you're doing "greenfield" software development and it's even more dangerous if you're trying to customise a TPA.  It's mentioned as one of the main reasons that software is so difficult to manage in [Fred Brooks' "The Mythical Man Month"](http://www.amazon.co.uk/gp/product/B000OZ0N6M?ie=UTF8&camp=3194&creative=21330&creativeASIN=B000OZ0N6M&linkCode=shr&tag=theginmum-21&=books&qid=1396082978&sr=1-1&keywords=The+mythical+man-month) and it's why there's a picture of a [tar pit]( http://en.wikipedia.org/wiki/Tarpit) on the front cover of that book.
+* Software is tractable, this is dangerous when you're doing "greenfield" software development and it's even more dangerous if you're trying to customise a TPA.  It's mentioned as one of the main reasons that software is so difficult to manage in Fred Brooks' "The Mythical Man Month" and it's why there's a picture of a [tar pit]( http://en.wikipedia.org/wiki/Tarpit) on the front cover of that book.
 
 >>Animals are usually unable to escape from the asphalt when they fall in, making these pits excellent locations to excavate bones of prehistoric animals. The tar pits can trap animals because the asphalt that seeps up from underground forms a bitumen pit so thick that even mammoths find it impossible to free themselves before they die of starvation, exhaustion from trying to escape or from the heat that would come from the sun. Over one million fossils have been found in tar pits around the globe.
  
@@ -33,9 +33,9 @@ And of course, because software is tractable.  The answer is always:
 
 **"This Mid-Project Review Meeting isn't Going as Well as Expected"**
 
-The developers start to get excited about how they could use the crop-spraying simulation and put weed-killer in the tanks of the crop-sprayer and therefore make brown marks on yellow cornfields and then by simply switching to the space-shuttle simulator we can view these cornfields from space as letters (yes, I know, something like this actually happened with [PostScript](http://en.wikipedia.org/wiki/PostScript) - which started off as a way of capturing three-dimensional objects, like ships and buildings around New York Harbour - do we really want to go through *that* again?). This project is already starting to look **expensive**, **error-prone** and **disastrously** difficult to maintain (how is this stuff going to work with the next update to Flight Simulator? Thought so).  This project is looking pretty bad, especially compared to good old Microsoft Word which can actually write letters *out of the box*! I've worked on a project like this.
+The developers start to get excited about how they could use the crop-spraying simulation and put weed-killer in the tanks of the crop-sprayer and therefore make brown marks on yellow cornfields and then by simply switching to the space-shuttle simulator we can view these cornfields from space as letters (yes, I know, something like this actually happened with PostScript - which started off as a way of capturing three-dimensional objects, like ships and buildings around New York Harbour - do we really want to go through *that* again?). This project is already starting to look **expensive**, **error-prone** and **disastrously** difficult to maintain (how is this stuff going to work with the next update to Flight Simulator? Thought so).  This project is looking pretty bad, especially compared to good old Microsoft Word which can actually write letters *out of the box*! I've worked on a project like this.
 
-##What needs to happen to stop this?
+## What needs to happen to stop this?
 Testers, analysts, developers and product owners need to pick some minimum viable product requirements, and ideally pick the TPA based on those.  In order to do that, they probably need to implement some stories in *several* TPAs.  The selection of these stories should help coalesce the idea of what the minimum viable product is.  But the stories should also test what it's like to customise the TPA and push it a bit beyond its boundaries.
 
 OK - let's try this.  What's the customer's archetypal story?
@@ -68,7 +68,7 @@ Some other things that I'm realising about this process as I'm writing.
 
 * Getting these stories onto a final environment (unless of course it becomes obvious that implementing these things in the TPA is too expensive) is really important as a way of understanding what the TPA can actually do. 
 
-* And testing it with users, load testing it, exploratory testing it.  This is a point I picked up from [Liz Keogh](http://lunivore.com/) - testers are really good at telling you why things won't work and how they're going to break - listen to them.
+* And testing it with users, load testing it, exploratory testing it.  This is a point I picked up from Liz Keogh - testers are really good at telling you why things won't work and how they're going to break - listen to them.
 
 * One of the values that you want to choose for these initial candidate/archetype stories is *orthogonality* - although this is slightly at cross-purposes (no pun intended) with the idea of an MVP.
 

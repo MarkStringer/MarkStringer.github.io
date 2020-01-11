@@ -1,3 +1,9 @@
+---
+title: "Agile at Scale and Liberating Structures - a Glimmer of Hope"
+layout: post 
+---
+
+
 # Agile at Scale and Liberating Structures - a Glimmer of Hope
 
 ![Sunrise](SunRise.jpg)

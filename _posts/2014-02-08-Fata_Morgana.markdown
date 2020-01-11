@@ -1,4 +1,4 @@
-#Fata Morgana - trust me you already know what I'm talking about
+# Fata Morgana - trust me you already know what I'm talking about
 
 "Every book is the wreck of a perfect idea." - Iris Murdoch
 
@@ -6,9 +6,9 @@ I was once involved in a research project to develop games using mobile phones. 
 
 **Lose weight while sleeping! Pay nothing for 18 months. Feel good about yourself. Detox. Something for nothing. It's the fault of the immigrants! Scaled Agile Framework - it's SAFE! Our biggest ever sale.**
 
-I read Albert Hirschmann's essay on the ["hiding hand"](http://en.wikipedia.org/wiki/Hiding_hand_principle) over the summer.  And on and off I've been reading, talking and thinking about Daniel Kahneman's book ["Thinking Fast and Slow"](http://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) for a couple of years. But only recently have I started to crystallise this into some kind of definite idea.  This is a run at it, but I probably need a few more.
+I read Albert Hirschmann's essay on the "hiding hand" over the summer.  And on and off I've been reading, talking and thinking about Daniel Kahneman's book "Thinking Fast and Slow" for a couple of years. But only recently have I started to crystallise this into some kind of definite idea.  This is a run at it, but I probably need a few more.
 
-Hirschmann's idea is a radically different account of why we do anything.  But it's also an account which has been hiding in plain sight.  If fact, one important thing about the Fata Morgana, is that when you're looking at it, you can't see anything else.  The Fata Morgana is a mirage - literally the ["Fairy Morgana"](http://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29) - the witch Morgana of Arthurian legend. 
+Hirschmann's idea is a radically different account of why we do anything.  But it's also an account which has been hiding in plain sight.  If fact, one important thing about the Fata Morgana, is that when you're looking at it, you can't see anything else.  The Fata Morgana is a mirage - literally the "Fairy Morgana" - the witch Morgana of Arthurian legend. 
 
 Hirschman's crucial contribution on his essay on the "Fata Morgana" was to point out that falling for mirages is what makes the world go around. If we didn't fall for mirages, nothing would get built, nothing would be done. Nobody would fight wars, nobody would get married, nobody would rise up in revolution, nobody would ever try to invent anything and certainly, nobody would embark upon complex software development projects. So what things am I talking about when I'm talking about Fata Morgana mirages.  Here's some of the top of my head.
 

@@ -1,3 +1,7 @@
+---
+title: "Me Talking about the Basics of Training From the Back of the Room"
+layout: post 
+---
 
 Tue, 22 Jul 2014 14:52:36 
 

@@ -1,7 +1,12 @@
-#Fear Itself
-I'm scared.  What am I afraid of? All sorts of things.  A while ago, I read ["Write for Your Life" by Lawrence Block]( http://www.amazon.co.uk/gp/product/B000GCFX9U?ie=UTF8&camp=3194&creative=21330&creativeASIN=B000GCFX9U&linkCode=shr&tag=theginmum-21&linkId=G3H3D7FKI4N2SHAG&=digital-text&qid=1423178013&sr=1-1&keywords=lawrence+block+write+for+your+life) (this is the kindle edition &ndash; mine was an illegal download from Pirate Bay, justified at the time I suppose because it had been years out of print.  It's a sobering book in many ways.  Firstly, because it's probably the sixth, seventh, eighth or ninth book on how to be a writer that I've bought &ndash; none of them having the effect that I'd have liked them to have &ndash; of somehow actually inspiring me to put in the effort to write a book.
+---
+title: "Fear Itself"
+layout: post 
+---
 
-My favourite is this ["Writing Down the Bones" by Natalie Goldberg](http://www.amazon.co.uk/gp/product/1590302613?ie=UTF8&camp=3194&creative=21330&creativeASIN=1590302613&linkCode=shr&tag=theginmum-21&linkId=4GQKKAMVYY45G7BA&qid=1423180681&sr=8-1&keywords=writing+down+the+bones) &ndash; because at least it cheers you on and gives you the courage and confidence to write and keep writing.  My least favour is probably ["Story" by Robert McKee]( http://www.amazon.co.uk/gp/product/B0042FZVOY?ie=UTF8&camp=3194&creative=21330&creativeASIN=B0042FZVOY&linkCode=shr&tag=theginmum-21&linkId=RWRKCP4CJY7FOP26&=digital-text&qid=1423178281&sr=1-1&keywords=Story+Robert+Mckee) wow.  That guy's a dick. But Lawrence Block's book is somewhere near the top of the list, because like Goldberg's, it's kind and (sorry Natalie) more than Goldberg, Block is someone who's written a lot of books.
+# Fear Itself
+I'm scared.  What am I afraid of? All sorts of things.  A while ago, I read "Write for Your Life" by Lawrence Block.  It's a sobering book in many ways.  Firstly, because it's probably the sixth, seventh, eighth or ninth book on how to be a writer that I've bought &ndash; none of them having the effect that I'd have liked them to have &ndash; of somehow actually inspiring me to put in the effort to write a book.
+
+My favourite is this "Writing Down the Bones" by Natalie Goldberg &ndash; because at least it cheers you on and gives you the courage and confidence to write and keep writing.  My least favour is probably "Story" by Robert McKee wow.  That guy's a dick. But Lawrence Block's book is somewhere near the top of the list, because like Goldberg's, it's kind and (sorry Natalie) more than Goldberg, Block is someone who's written a lot of books.
 
 ![Writing down the Bones](writingDownTheBones.jpg)
 
@@ -22,8 +27,6 @@ Money.  Do you know how inordinately worried about not having any money I am at 
 And I'm frightened of all the "liberals" and feminists who seem to think that if only we practice just enough Stalinism, the world will be a better place. And I'm frightened of people knowing that I don't agree with feminists. I keep wanting to side with feminists - but logic - and they keep siding with the fucking patriarchy. Talk about fucking daddy issues.
 
 I'm frightened that I'm a white middle-class, educated, middle class male and I'm not in the patriarchy.
-
-I am truly [terrified of transgender pronouns]( https://genderneutralpronoun.wordpress.com/) (although I have no problem with transgender people &ndash; and I'm frightened that people know I have a fear of one will allow them to assert that I have a fear/hatred of the other).
 
 And I'm frightened of all this NSA, snoop on everything, facebook knows when you're about to go down with the flu stuff.
 

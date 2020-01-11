@@ -1,3 +1,7 @@
+---
+title: "An Investigation into Some and All"
+layout: post 
+---
 # An Investigation into Some and All
 
 So I had the privilege of doing some introductory Agile training yesterday with some graduates.  At the end of the session I just had some time to try out a new exercise that I'm prototyping.
@@ -53,4 +57,4 @@ What you do you feel when you read the list on the right? When I read the list o
 
 And this is a really big problem if you work have anything to do with the management of projects. Why? Well because project management is about taking ideas and making them into reality. Ideas are almost always expressed using the kinds of words in the left-hand column. But reality is about dealing with the words in the right-hand column. It's even weirder than that. Because in general, things that make money for an organisation will probably be, at least at first, best described by the words on the left.
 
-I don't have many answers for this at the moment.  I'm just starting to get my hear around the problem. But my thinking is that if we could possibly come up with a better way of talking about partial, imperfect, vague but *valuable* things.  That might be a help. But maybe language isn't enough. Maybe we need practices, rehtoric and culture that celebrates, relishes and values these things. I dunno, I've started to write about it in my book ["Delivering the Impossible"](http://www.mumbly.co.uk/newblog/BookVersion0.1Ch1.htm).  But it's still somewhat vague and partial.  Notice how unattractive that sounds? 
+I don't have many answers for this at the moment.  I'm just starting to get my hear around the problem. But my thinking is that if we could possibly come up with a better way of talking about partial, imperfect, vague but *valuable* things.  That might be a help. But maybe language isn't enough. Maybe we need practices, rehtoric and culture that celebrates, relishes and values these things. I dunno, I've started to write about it in my book "Delivering the Impossible".  But it's still somewhat vague and partial.  Notice how unattractive that sounds? 

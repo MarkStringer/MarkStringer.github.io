@@ -1,6 +1,10 @@
+--
+title: "Towards Training in Second circle Up Talk"
+layout: post 
+---
 
 Sat, 3 May 2014 13:34:49 
-#Dear Diary
+# Dear Diary
 I had this idea last year to put everything that I wrote in one text file.
 I think this was part of recovering from losing Posterous, which had been a
 great place to capture everything that I wrote up to that point, but then

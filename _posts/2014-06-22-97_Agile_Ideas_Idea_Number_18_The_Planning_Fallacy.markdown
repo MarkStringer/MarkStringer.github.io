@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - The Planning Fallacy"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 18
 # The Planning Fallacy
 

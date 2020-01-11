@@ -1,5 +1,5 @@
-#Improvisational Theatre and Project Management - What the Hell have THEY got in Common?
-##- the need to make it up as you go along - Part 1
+# Improvisational Theatre and Project Management - What the Hell have THEY got in Common?
+## - the need to make it up as you go along - Part 1
 ### Be Good - Be Bad - BE CHANGED
 So the plan (ha! ha!) is to write a blog post every day between now and the seminar I'm running on 12th November.  Whether I will actually achieve that speed through the medium is a different question.  But the hope is that by writing these posts I'll talk about some of the issues that I'm going to cover.
 
@@ -7,7 +7,7 @@ I started taking classes in improvisational theatre with Tom Salinsky and his co
 
  When you take the Spontaneity Shop's second level course you get to take part in a show at the end.  By total random chance, I was in the very first scene of my first improv show.  It was the first time I'd performed on a stage for about 22 years.  I played a carpenter negotiating the design of a coffin for a vampire.  It was awesome.
 
-##Nobody wants to change
+## Nobody wants to change
 The most powerful human urge is to carry on doing what you're doing.  The second most powerful urge is to do what everybody else is doing.  These two things in combination are so powerful that they can kill you.   Survival is a poor third. The utterly visionary psychologist Stanley Milgram points out that some people would rather die in a burning building that run out of it naked - running about naked simply isn't the done thing. 
 
 In improv this problem shows itself as blocking.  Let's say Actor 1 walks into a scene with a pretend gun.

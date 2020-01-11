@@ -1,4 +1,4 @@
-#Into the Woods
+# Into the Woods
 Somewhere in central Europe, a government inspector visited the foreman in the government's forest.
 
 “You have four crews of workers here. Please to tell me which team is the most efficient and productive, and which is the least productive.  I shall let the least productive crew go, we have no need of them.”  
@@ -23,16 +23,16 @@ The foreman read the memo carefully – and even displayed the rota in his offic
 
 !["Groucho"](Groucho.jpg)
 
-##Groucho
+## Groucho
 I know I don't want to be a member of a club that would have me join, but I wish I had a club to beat some sense into this numbskull foreman. 
 
 If we'd stayed in the old country and survived the progroms, the German occupation, the holocaust, the Warsaw pact and the critics, I might be writing a letter to my local secret policeman to complain.
 
-##Chico
+## Chico
 Nothing is a the same as a nothing boss.  If two a things, they are a the same.  Well a then.  They are a the same thing.  There's a just one thing. Not a two. If a two things are a two things – well a then.  They are a not a the same. You wanna you compare two things? How you know you know which a bits are a different? How you know which a bits are a the same?
 
 You no understand? Maybe I can a show you with these a shells and this a pea? You got ten bucks?
 
-##Harpo
+## Harpo
 !["Harpo"](harpo.jpg)
 

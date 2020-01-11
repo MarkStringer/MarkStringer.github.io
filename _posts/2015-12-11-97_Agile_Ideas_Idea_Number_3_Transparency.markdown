@@ -1,3 +1,8 @@
+---
+title: "Transparency"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 3
 # Transparency
 

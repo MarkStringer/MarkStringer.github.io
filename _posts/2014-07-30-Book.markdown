@@ -1,7 +1,14 @@
-﻿Version - 0.1 - Aristotle
-#Delivering the Impossible [Working Title]
+---
+title: "Book - Delivering the Impossible"
+layout: post 
+---
 
-#Introduction 
+
+
+Version - 0.1 - Aristotle
+# Delivering the Impossible
+
+# Introduction 
 
 What was he doing? He was sniggering. He was actually sniggering. "So I see here that you're writing a book - 'Good Enough Project Management.' How's that going?" 
 
@@ -21,7 +28,7 @@ I wanted to write a book that not only admitted these dirty secrets, but made pr
 
 But there are project managers and there are *project managers.* There's a kind of project manager who hides what's going on from the bosses using a variety of tactics: "project plans" that are hundreds-of-line-long; "reporting of progress" in terms of expenditure; hiding the bad news about the actual progress of a project for as long as possible; and acting surprised as senior stakeholders when deadlines are missed and there is no evidence that anything is produced. This is the kind of project manager who is happy to periodically enter a phase of "crunch": late nights, weekend working and endless emergency meetings.
 
-My book isn't for those kind of project managers unless, they want to repent of their sins and actually do something to help the projects that they're working on. Rather I'm writing for the kind of project manager who actually feels the need to take responsibility for the delivery of a project. I don't care what their official title is. They might be project managers, they might, if they're in publishing be called editors. They might be called directors. If they are on the hook for the delivery of a project and are trying neither to run-away from that nor deny it. If they're worrying about it: those are the people this book is for. This book is aimed at the people who feel the responsibility for delivery. But it's also a guide for those who try to help those people: agile coaches. 
+y book isn't for those kind of project managers unless, they want to repent of their sins and actually do something to help the projects that they're working on. Rather I'm writing for the kind of project manager who actually feels the need to take responsibility for the delivery of a project. I don't care what their official title is. They might be project managers, they might, if they're in publishing be called editors. They might be called directors. If they are on the hook for the delivery of a project and are trying neither to run-away from that nor deny it. If they're worrying about it: those are the people this book is for. This book is aimed at the people who feel the responsibility for delivery. But it's also a guide for those who try to help those people: agile coaches. 
 
 Why do I so want project managers and the people who support them to feel OK with what they're doing and what they're experiencing? Because I know it's a painful, emotional business. I know because I've been through it a few times. And if there's a way of making the whole business less painful; less filled with (negative) emotions and more successful! I think there should be a book that explains it. Right now, I don't think there is. This is going to be that book. 
 
@@ -35,7 +42,7 @@ Ignacio Matte Blanco was a native of Chile who trained as a psychoanalyst in Eng
 
 ##Asymmetric versus symmetric logic 
 
-Matte Blanco's work is an intersection of psychoanalysis, particular the idea of thoughts being able to be both conscious and unconscious, with the structures  of logical analysis. Matte Blanco's central idea is that certain aspects of our thinking do not obey the laws of classical logic. An example of a law of classical logic - which Matte Blanco refers to a "asymmetrical" logic would be the law of contradiction. 
+atte Blanco's work is an intersection of psychoanalysis, particular the idea of thoughts being able to be both conscious and unconscious, with the structures  of logical analysis. Matte Blanco's central idea is that certain aspects of our thinking do not obey the laws of classical logic. An example of a law of classical logic - which Matte Blanco refers to a "asymmetrical" logic would be the law of contradiction. 
 
 In classical logic it is not possible for both X and ~X to be true. 
 
@@ -59,7 +66,7 @@ It absolutely does not follow, in classical logic that:
 
     All humans are Socrates 
 
-Matte Blanco's contention is that sometimes classical asymmetric logic, which forbids contradiction and enforces the asymmetric nature of relations isn't the kind of logic that we use. Rather, we use a form of logic which is symmetrical rather than asymmetrical. What does this mean? This means that in certain circumstances "some" is regarded logically as the same as "all". 
+atte Blanco's contention is that sometimes classical asymmetric logic, which forbids contradiction and enforces the asymmetric nature of relations isn't the kind of logic that we use. Rather, we use a form of logic which is symmetrical rather than asymmetrical. What does this mean? This means that in certain circumstances "some" is regarded logically as the same as "all". 
 
 When this kind of logic is in operation then, from the point of view of classical logic, the world behaves very strangely. 
 
@@ -78,19 +85,19 @@ And applying symmetric logic then we get
     All X'es are not true 
     All X'es are both true and not true 
 
-Matte Blanco has explanation of how, for the unconscious, and sometimes for the conscious mind, it is extremely difficult to understand that something does *not* exist.  The example he gives is if you have a one-dimensional series, let's say that you have a series of slots in a row, and the slots are numbers with the integers.  And that there is a peg indicating true in  each peg 1-10 except the 3 peg. Matte Blanco's point is that there is still a hole for the peg - and a number next to it. There is a structure - the one-dimensional array of pegs that, yes, shows that there's no peg in the number 3 slot. But is doesn't actually pick out the full logical meaning of "not 3".  The full logical meaning of "not 3" is "anything but 3" this includes all the numbers in this series except 3 but it also includes *anything else* that is thinkable - along any other dimensions, not included within this particular series. 
+atte Blanco has explanation of how, for the unconscious, and sometimes for the conscious mind, it is extremely difficult to understand that something does *not* exist.  The example he gives is if you have a one-dimensional series, let's say that you have a series of slots in a row, and the slots are numbers with the integers.  And that there is a peg indicating true in  each peg 1-10 except the 3 peg. Matte Blanco's point is that there is still a hole for the peg - and a number next to it. There is a structure - the one-dimensional array of pegs that, yes, shows that there's no peg in the number 3 slot. But is doesn't actually pick out the full logical meaning of "not 3".  The full logical meaning of "not 3" is "anything but 3" this includes all the numbers in this series except 3 but it also includes *anything else* that is thinkable - along any other dimensions, not included within this particular series. 
 
 ![Figure 1 - the Not 3 Peg Board](Figure1_Not3PegBoard.png "For the Unconscious, Not 3 implies the existence of 3")
 
 Another important implication of symmetrical logic is that where symmetrical logic is being used temporal relations are impossible. Temporal relations can only happen if relations can be asymmetric e.g. x is before y.  P is in the future, Q is happening now, R is in the past.  This means that in symmetrical logic, from the point of view of time, everything is not only now, but always has been and always will be. 
 
-##What Does Any of This Have to Do with Software Development or Project Management? 
+## What Does Any of This Have to Do with Software Development or Project Management? 
 
 Why am I talking about this in a book about project management, especially the project management of software development? Because symmetrical thinking is present in multiple forms throughout the software development process, and the best way we know of doing software development - Agile - works by, easing, challenging and at some points directly attacking symmetrical thinking.
 
 Here are some of the ways that symmetrical thinking is present in software development.
 
-###All
+## All
 Before the advent of Agile approaches to software development there was waterfall. Idea of a waterfall approach was that the way to deliver a successful project was to write down in a requirements document absolutely *all* the requirements for the project.  When that was done (let's not worry too much right now how we'd know when it was done), that document would be used to create a complete system design. And when *that* was done (never mind about how we'd know when it was done), development would start. When development was finished, testing would start, and then when testing was finished, in theory, user acceptance testing would start.  
 
 That was the theory, but usually, at some point during either development (which would take far, far, too long - much longer than "estimated"), or during testing (which would reveal either that the system didn't do what the customer asked for in the requirements, or, more likely that the system *did* do what was in the requirements, which it was now obvious to the customers, wasn't what they now wanted) there would be a crisis.
@@ -99,7 +106,7 @@ Writing about it now, in the 21st century, it seems impossible to believe that t
 
 Why is such an approach so appealing? I think a substantial part of the reason is the powerful appeal of "all".
 
-###Same
+### Same
 >"Real life Fagin ran gang of pickpockets from Hackney flat"
 
 >"Real life 'Pretty Woman' married her millionaire client in fairy tale ceremony"
@@ -110,15 +117,15 @@ These stories are interesting, and somehow rewarding because they show similarit
 
 Same is very powerful in several other ways.  Same is especially powerful when projects get started. How many iPhone apps, or Facebook apps were created with an argument of the form "everyone else is getting an app".  As noted by Robert Cialdini in his book "Influence", "We view a behaviour as more correct in a given situation to the degree that we see others performing it." 
 
-###Always, Now and Forever
+### Always, Now and Forever
 The past comes before present, the present comes before the past. Time isn't symmetrical, it is fundamentally asymmetrical. So it's not surprising that symmetrical thinking about time is very strange.
 
 
 
-###The Absence of Negation
+### The Absence of Negation
 As described above in the example of the "Number 3" in the peg board. The negation of specific idea makes that idea very real in a way that is very different from the actual logical implications of something not existing.  "Not Number 3" logically means "anything but an elephant". 
 
-﻿Version - 0.1 - Aristotle
+Version - 0.1 - Aristotle
 # Delivering the Impossible [Working title]
 
 # Chapter 2 
@@ -178,13 +185,13 @@ Terry was, in this aspect a bit ahead of his time.  But not *that* far ahead. By
 
 And it turned out that GUI's were really, really hard to specify in requirements documents. They were much better served by a process that "iterated" through a series of "prototypes." That is, you start off with a rough sketch of what you want the GUI to look like and show it to the people who want it - maybe even give them a chance to try it out, you take their comments into consideration: "Where the hell's the undo button?" "I thought this would be purple!" and then you produce another version. Each of those version is a new *prototype*.  Each journey around the loop, getting feedback, making modifications and then producing a new version is an *iteration*. 
 
-Mean while, in the USA, a change was being negotiated to the rules governing the use of an obscure computer network used by academics and military personnel and nerds. The rule change would allow the network to be used by commercial enterprises. And in Switzerland a researcher at the European Centre for Nuclear Research was making his idea for how to get access to documents on other people's computers free to anyone who cared to use it. The internet and the worldwide web were about to meet and start to have children. Commentators were about to start using the phrase "internet speeds" to talk about the ferocious pace of change. And all of a sudden, nobody wanted to wait eighteen months to find out their software wasn't what they expected and call their lawyers.
+ean while, in the USA, a change was being negotiated to the rules governing the use of an obscure computer network used by academics and military personnel and nerds. The rule change would allow the network to be used by commercial enterprises. And in Switzerland a researcher at the European Centre for Nuclear Research was making his idea for how to get access to documents on other people's computers free to anyone who cared to use it. The internet and the worldwide web were about to meet and start to have children. Commentators were about to start using the phrase "internet speeds" to talk about the ferocious pace of change. And all of a sudden, nobody wanted to wait eighteen months to find out their software wasn't what they expected and call their lawyers.
 
 Still, it took a while: throughout the 90's and into the 00', various attempts were made to codify this new iterative, prototyping approach. These new methods, Rapid Application Development, Extreme Programming came to be generally referred to as "lightweight" methodologies. Although few people were happy with that as a label.
 
 So in 2003 a bunch of these men who were interested in these "lightweight" methodologies (they were ALL men) got together in a ski lodge hotel in Utah to discuss a better way of presenting what they were doing.  The result of that meeting was a 93 word statement known as the Agile manifesto.
 
-﻿Version - 0.1 - Aristotle
+Version - 0.1 - Aristotle
 
 # Chapter 3 
 
@@ -289,7 +296,7 @@ Highlighting that responding to change is the business that we're in, rather tha
 
 When we think of project management of software as the management of change it becomes more obvious that the empty slot in the peg board could indicate *anything but 3* rather than just a 3-shaped whole that still just happens to need to be filled. 
 
-Management of software development isn't just a delivery of something that fits in a slot, it's an exploration of what might fit in the slot.  And as with any exploration, as we explore, our understanding changes.
+anagement of software development isn't just a delivery of something that fits in a slot, it's an exploration of what might fit in the slot.  And as with any exploration, as we explore, our understanding changes.
 
 ## The Power of Mildly Suggesting "Some" 
 
@@ -301,7 +308,7 @@ What the Agile manifest *doesn't* do, and how could it in so few words, is give 
 
 For that we need a method that essentially tells us that we need to keep doing *some* *all* of the time. And by far the most successful approach to that is a method called Scrum which we'll deal with in the next chapter. 
 
-﻿Version - 0.1 - Aristotle
+Version - 0.1 - Aristotle
 
 # Chapter 4
 
@@ -357,7 +364,7 @@ One of the main reasons that the product backlog is collected in bits is so that
 
 By doing this the product owner becomes the role in Scrum which conjures most powerfully with "some" and "all". All of the work that might be done on a Scrum development project is kept in the product backlog. But one of the most powerful aspects of Scrum is that at the beginning of every sprint the product owner needs to decide on *some* of these things that should be planned to be worked on by the development team. 
 
-Most product owners find this extremely difficult, at least at first. Looking at things from the point of view of symmetry and asymmetry we get an idea of why. The act of prioritising what needs to be done is "all destroying." Once we break ground on a project and actually start to do it, there's a strong possibility that we will find problems with the vision. Once we start to do a project, there's a strong possibility that we will realise that the whole of the project could take much longer than was initially predicted.
+ost product owners find this extremely difficult, at least at first. Looking at things from the point of view of symmetry and asymmetry we get an idea of why. The act of prioritising what needs to be done is "all destroying." Once we break ground on a project and actually start to do it, there's a strong possibility that we will find problems with the vision. Once we start to do a project, there's a strong possibility that we will realise that the whole of the project could take much longer than was initially predicted.
 
 Again, it is often the Scrum Master who is left with the job of persuading the product owner to articulate which items should be a priority.
 
@@ -395,7 +402,7 @@ Again, the role of the Scrum Master is to spot when either the team have taken o
 ## Review, Show and Tell, Showcase or Sprint Demo
 Scrum dictates that at the end of every sprint there should be a meeting where the team demonstrate what they have done in that sprint. For some reason no one seems to have settled on name for it, it's called either the “Sprint Review”, “Show and Tell,” or the “Showcase” or the “Sprint Demo.” Of all of these names, “Show and Tell” appeals to me most, so it's the one I'll use. 
 
-My own experience is that the “Show and Tell” can be one of the most difficult meetings in Scrum and the reason is because of this relationship between “some” and “all.” In the show and tell, the people who are paying for the project get to see what they're getting for their money. Certainly in the early days of a project, this isn't much. 
+y own experience is that the “Show and Tell” can be one of the most difficult meetings in Scrum and the reason is because of this relationship between “some” and “all.” In the show and tell, the people who are paying for the project get to see what they're getting for their money. Certainly in the early days of a project, this isn't much. 
 
 The people who are looking at this “working software” are the people who have bought into this project because of some dream: some big, simplified, easy to state and attractive “all”. Sometimes being faced with the gap between what has been promised and what needs to be delivered, is difficult.
 

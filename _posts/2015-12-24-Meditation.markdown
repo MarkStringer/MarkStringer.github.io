@@ -1,6 +1,11 @@
+---
+title: "Meditation"
+layout: post 
+---
+
 # Meditation
 
-So I've been reading this book on the [scientifically proven effects of meditation by Daniel Goleman](https://www.amazon.co.uk/gp/aw/d/B06Y2L858Z/ref=mp_s_a_1_2?ie=UTF8&qid=1507535263&sr=8-2&keywords=science+of+meditation).  And there are a few really interesting things that I've learned.  The first is that there's a kind of meditation called "Loving Kindness Meditation" and that this has very immediate effects if you start to practice it - more immediate than the now very famous and popular "mindfulness meditation."
+So I've been reading this book on the scientifically proven effects of meditation by Daniel Goleman.  And there are a few really interesting things that I've learned.  The first is that there's a kind of meditation called "Loving Kindness Meditation" and that this has very immediate effects if you start to practice it - more immediate than the now very famous and popular "mindfulness meditation."
 
 The second is that there are some kinds of meditation that have been shown to improve test scores in high school students - I think I read this right - by up to 30 per cent? That's interesting, right?
 

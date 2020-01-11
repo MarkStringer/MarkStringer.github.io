@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - Work In Progress"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 5
 # Work in Progress
 

@@ -1,3 +1,9 @@
+---
+title: "Use actual progress"
+layout: post 
+---
+
+
 # Use actual progress
 
 This is a series about project management, being a Scrum Master, managing software development, whateveryou want to call it. This is how I do it. 

@@ -1,3 +1,8 @@
+---
+title: "Agile Ideas - Feedback"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 9 
 # Feedback 
 

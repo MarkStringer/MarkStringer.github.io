@@ -1,4 +1,9 @@
-#Managing the Shear
+---
+title: "Managing the Shear"
+layout: post 
+---
+
+# Managing the Shear
 
 Robert Anton Wilson calls it the "Snafu principle". Venkatesh Rao says it's why we need "clueless" people in our organisations. People selling Agile methodologies, even the ones that are doing their level best to be totally honest, try to pretend that it doesn't exist.
 

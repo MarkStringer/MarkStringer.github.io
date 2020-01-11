@@ -1,3 +1,8 @@
+---
+title: "The Job Won't Save You"
+layout: post 
+---
+
 # The Job Won't Save you
 
 But what I was going to write about today is complexification. 
@@ -10,7 +15,7 @@ This feels so fucking weak.  Who am I to give anybody any advice?  I'm not succe
 
 **If you attach your identity completely to your competency it will either kill you or make you *very* miserable - probably on the way to killing you**  
 
-This kind of reminds me of that talk by [David Foster Wallace - "Water"](http://youtu.be/8CrOL-ydFMI),  although that guy did kill himself (did he manage to take his own advice, I wonder).
+This kind of reminds me of that talk by David Foster Wallace - "Water",  although that guy did kill himself (did he manage to take his own advice, I wonder).
 
 *Worship power, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. But the insidious thing about these forms of worship is not that they're evil or sinful, it's that they're unconscious. They are default settings.*
 
@@ -43,7 +48,7 @@ Ok, all right.  I can hear the screams and wails of protest. You know what else 
 *And so hold on when there is nothing in you*
 *Except the Will which says to them: "Hold on!"*
 
-But as you're doing this, you should understand that you *might fail*. Because somebody has to (gah! How anti-self help is *that* thought).  And maybe you should bear in mind, that even if you don't fail, even if you succeed, that might not be what you think it is.  Maybe fulfillment really is, as the poet Philip Larkin said an ["desolate attic."](http://www.poemhunter.com/best-poems/philip-larkin/deceptions/).
+But as you're doing this, you should understand that you *might fail*. Because somebody has to (gah! How anti-self help is *that* thought).  And maybe you should bear in mind, that even if you don't fail, even if you succeed, that might not be what you think it is.  Maybe fulfillment really is, as the poet Philip Larkin said an "desolate attic."
 
 When you try that hard and succeed, don't be surprised if the people who haven't done as well find a way of tripping you up.  If you try that hard and *don't* succeed - but let people see how hard you're trying, don't be surprised when people exploit the areas where you've shown weakness. 
 

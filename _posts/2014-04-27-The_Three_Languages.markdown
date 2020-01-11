@@ -1,4 +1,9 @@
-#The Three Languages
+---
+title: "The Three Languages"
+layout: post 
+---
+
+# The Three Languages
 
 I'm indebted to [Dougald Hine](https://medium.com/@dougald/spelling-it-out-ce47d4ea8d9b#.j8y42ufkd)) for giving me this idea - although I had read about something very similar in a [post by Venkatesh Rao](http://www.ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/).  It's the idea there are different languages with which you talk to different people in a project. Dougald identifies three languages, Rao spots a fourth, which we'll talk about a bit later.
 

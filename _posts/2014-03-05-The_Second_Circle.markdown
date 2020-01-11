@@ -1,9 +1,14 @@
-#The Second Circle
-##The Metroland Blogs
+---
+title: "The Second Circle"
+layout: post 
+---
+
+# The Second Circle
+## The Metroland Blogs
 I'm re-reading a book that I read first a couple of years ago.
 
 
-The idea of ["The Second Circle" by Patsy Rodenburg](http://www.amazon.co.uk/dp/0393345904) is very simple. There are three modes of communication:
+The idea of "The Second Circle" by Patsy Rodenburg is very simple. There are three modes of communication:
 
 **First circle**: talking so that no one will hear, talking to yourself. Muttering, mumbling. Saying nothing, allowing yourself to be talked at.
 

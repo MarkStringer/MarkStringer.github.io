@@ -4,10 +4,10 @@ Mon, 5 May 2014 14:59:49
 # The Power of Doubt-Based Action
 
 *I was going to write this blog-post last night - but then this morning
-[Bruce Durling]( https://twitter.com/otfrom) pointed me in the direction of
+Bruce Durling pointed me in the direction of
 this article on [massive vanity projects](http://t.co/y1MHna3lu1) and
-reminded me of the awesome view of the world outlined by [Albert O
-Hirschman](http://www.newyorker.com/arts/critics/books/2013/06/24/130624crbo_books_gladwell?currentPage=all).
+reminded me of the awesome view of the world outlined by Albert O
+Hirschman.
 It's from re-reading this article by Malcolm Gladwell that I get the idea
 of "Doubt-based action."*
 

@@ -1,3 +1,7 @@
+---
+title: "Quote from Aubrey Daniels on Teamwork"
+layout: post 
+---
 
 Sun, 31 Aug 2014 09:31:21 
 
@@ -7,4 +11,4 @@ Sun, 31 Aug 2014 09:31:21
 
 
 
-***from ["Bringing Out the Best in People"](http://www.amazon.co.uk/dp/0071351450/ref=cm_sw_r_tw_dp_i.Taub03M0CSE) by Aubrey C. Daniels***
+***from "Bringing Out the Best in People" by Aubrey C. Daniels***

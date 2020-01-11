@@ -1,3 +1,8 @@
+---
+title: "Sustainable Pace"
+layout: post 
+---
+
 # 97 Agile Ideas - Idea Number 16 
 # Sustainable Pace 
 

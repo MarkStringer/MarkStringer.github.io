@@ -1,3 +1,7 @@
+---
+title: "Quote from Ken Schwaber"
+layout: post 
+---
 
 Fri, 11 Jul 2014 09:51:52 
 

@@ -1,5 +1,10 @@
-#Improvisational Theatre and Project Management - what have they got in common?  
-##- the need to make it up as you go along - Part 2
+---
+title: "Improvisational Theatre and Project Management - what have they got in common?"
+layout: post 
+---
+
+# Improvisational Theatre and Project Management - what have they got in common?  
+## - the need to make it up as you go along - Part 2
 ### The Hero's Journey and the MORAL CHOICE
 This one's going to sound a bit mental, but stick with it. One of the really interesting things about improvisation, especially Keith Johnstone's take on improvisation is what it has to say about story. If you imagine a graph, with time along the bottom and one of these - craziness, risk, danger, uncertainty - along the other axis, a story, in it's most basic form can be thought of as a triangular path.  You start the story with a steady state of certainty and low risk - then something happens.  Something is shown to be not quite right - or a opportunity reveals itself.  It's at this point that the hero of the story has to make a choice - do they explore the opportunity, or do they ignore it?  Do they leave the safety of home and go on the journey or do they shut the door and turn on the telly?
 
@@ -15,4 +20,4 @@ But another thing that becomes really obvious now, that wasn't so obvious just a
     2. Heroes don't want to make moral choices
     3. One way of helping them is having an alien burst out of the chest of one of the crew members.
 
-Just plugging my [seminar now on November 12th.](How%20to%20Manage%20Late%20and%20Over%20Budget%20Projects%20and%20Still%20SUCCEED.htm)  Where else in London, or even the planet are you going to hear someone talking about project management in terms of manufacturing crises - and aliens?  What does a crisis give you?  A different, more informed, view of the world and a different (hopefully, much more short-term and motivated) plan of action. Either that or death.
+Just plugging my seminar now on November 12th. Where else in London, or even the planet are you going to hear someone talking about project management in terms of manufacturing crises - and aliens?  What does a crisis give you?  A different, more informed, view of the world and a different (hopefully, much more short-term and motivated) plan of action. Either that or death.
