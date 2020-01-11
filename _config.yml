@@ -31,7 +31,7 @@ twitter_username: Mark_Stringer
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
