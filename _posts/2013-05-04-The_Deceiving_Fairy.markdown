@@ -1,4 +1,7 @@
-﻿
+﻿---
+layout: post
+title:  "The Deceiving Fairy - The Fata Morgana"
+---
 # The Fata Morgana
 
 *This is work-in-progress and will form part of my book [“Delivering the Impossible”](Book.htm)*

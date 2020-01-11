@@ -1,4 +1,9 @@
-#Who Wants Dog Food?
+---
+layout: post
+title:  "Who Wants Dog Food?"
+---
+
+# Who Wants Dog Food?
 When you work in an Agile Coaching group &ndash; whatever it&apos;s called &ndash; a &quot;competency&quot;, a &quot;practice&quot; or some such thing, and some of you get together to talk about what you should do to improve what you do, it&apos;s almost guaranteed that at some point, someone will suggest that it&apos;s very important that you all &quot;Eat your own dog food.&quot;  OK, maybe you&apos;ll be lucky and they won&apos;t use this gastro&ndash;intestinally challenging metaphor &ndash; they&apos;ll merely point out that if you call yourself Agile coaches, you should be using Agile to manage your work.
 
 Sounds like a good idea surely?  If we&apos;re pushing Agile, advocating Agile, coaching people in Agile, surely we should be using it ourselves.  Well, yes, but in my experience, this is a lot more complicated than it sounds.

@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Agile Ideas - Limiting Work in Progress"
+---
+
+
 # 97 Agile Ideas - Idea Number 6 
 # Limiting Work in Progress
 

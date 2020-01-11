@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Not Dead Yet - that's how they found him!"
+---
+
 # Not Yet Dead - That's How they Found Him
 
 There's this story that James Thurber tells which I always think of when I'm trying to communicate anything.  He's a very young newspaper reporter and he is on the crime beat.  He's sent off to cover a murder and he comes back with a story that starts at the beginning - with neighbours hearing shots being fired, covers the police being called and ends with the body being found.

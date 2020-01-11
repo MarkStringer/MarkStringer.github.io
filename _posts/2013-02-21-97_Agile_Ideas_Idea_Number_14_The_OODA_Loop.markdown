@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Agile Ideas - the OODA loop"
+---
+
 # 97 Agile Ideas - Idea Number 14 
 # The OODA Loop
 

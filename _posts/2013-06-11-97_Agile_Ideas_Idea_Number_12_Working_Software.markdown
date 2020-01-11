@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Agile Ideas - Working Software"
+---
+
 # 97 Agile Ideas - Idea Number 12
 # Working Software
 

@@ -1,5 +1,10 @@
-#The Status We're In
-So if anyone was paying attention to the post that I wrote a couple of days ago, they might have gotten to the end of it and felt a bit down (I think I did).  So I suppose it's important that I follow it up with some suggestions on how to deal with these tactics.  Most of my inspiration for this comes from work and writings of Keith Johnstone, author of the books ["Impro"](http://www.amazon.co.uk/gp/product/0713687010?ie=UTF8&camp=3194&creative=21330&creativeASIN=0713687010&linkCode=shr&tag=theginmum-21&qid=1377255452&sr=8-1&keywords=Keith+Johnstone) and ["Impro for Storytellers"](http://www.amazon.co.uk/gp/product/0571190995?ie=UTF8&camp=3194&creative=21330&creativeASIN=0571190995&linkCode=shr&tag=theginmum-21&qid=1377255584&sr=8-4&keywords=Keith+Johnstone).
+---
+layout: post
+title:  "The Status We're In"
+---
+
+# The Status We're In
+So if anyone was paying attention to the post that I wrote a couple of days ago, they might have gotten to the end of it and felt a bit down (I think I did).  So I suppose it's important that I follow it up with some suggestions on how to deal with these tactics.  Most of my inspiration for this comes from work and writings of Keith Johnstone, author of the books "Impro" and "Impro for Storytellers".
 
 Because this is a notebook, I don't have to put down all the linking material here.  I know that I would have to do that if I were doing a course or a writing a book - but for now, just getting down the bare facts is fine.  Just a couple of observations from Johnstone to get us going.
 

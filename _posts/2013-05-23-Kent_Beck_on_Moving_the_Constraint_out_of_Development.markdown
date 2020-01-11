@@ -1,6 +1,7 @@
-
-Thu, 27 Nov 2014 09:17:37 
-
+---
+layout: post
+title: "Kent Beck on moving the constraint out of development" 
+---
 # Kent Beck on Moving the Constraint out of Development
 
 >Here's a sad but repeated story: a development team begins applying XP,
