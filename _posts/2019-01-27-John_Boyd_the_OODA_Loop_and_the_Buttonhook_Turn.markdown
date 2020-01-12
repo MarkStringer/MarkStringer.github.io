@@ -31,12 +31,12 @@ Boyd had also been thinking about why the F86 which was flown in the Korean war 
 
 >Aside 2: These two benefits have analogues in project management, seeing where you are is obviously a massive advantage.  This is David Anderson's "visualise the work."  But the hydraulic controls have an analogue in project management as well.  When you make decisions about actions (see the next section) you want fast feedback from your team.  And that is probably going to mean that they're in the same country, probably the same room.  I'm not saying it's impossible to get that kind of "hydraulic" response with distributed, offshore teams, but it's a lot harder.  So much of the time when you're working with offshore teams you feel the need to do weight training.
 
-!["A button hook"](button_hook.jpg "A Real Button Hook")
+!["A button hook"](/assets/button_hook.jpg "A Real Button Hook")
 
 ### 5. Reading the Wrong Thing and the OODA Loop
 Boyd then did something that is very dear to my heart.  He read all over the place.  And as he went on this journey, he talked in a series of military briefings that he gave in the pentagon and in various branches of the military.  Out of this came a bunch of ideas that I'm still trying to understand and his notion of the "OODA loop".
 
-!["John Boyd's OODA Loop"](ooda_loop.png)
+!["John Boyd's OODA Loop"](/assets/ooda_loop.png)
 
 There are a couple of things that I really like about the "OODA Loop". 
 

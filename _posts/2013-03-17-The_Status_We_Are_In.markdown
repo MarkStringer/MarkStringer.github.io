@@ -16,7 +16,7 @@ Because this is a notebook, I don't have to put down all the linking material he
 
 * There are different kinds of high status, at least two - cold/angry high status (Gordon Brown, most head masters) and happy high status (George Clooney, Boris Johnson), I think there's probably at least another one - shouty high status (Hitler, Malcolm Tucker, any sergeant major).  Then there's the "dirty raincoat brigade" who look harmless/clueless but actually always get their man - Columbo, Rumpole and also their clean counterparts - real curiosities like Jeeves and Sir Humphrey Appleby 
 
-![Malcolm Tucker](MalcolmTucker.jpg)
+![Malcolm Tucker](/assets/MalcolmTucker.jpg)
 **Malcolm Tucker - shouty high status**
 
 Really quickly, because it's a massive topic.  Some things that you can do elevate your status:

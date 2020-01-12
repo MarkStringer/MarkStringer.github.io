@@ -31,7 +31,7 @@ But when you're on stage, even though that's what you've been told by your impro
 I think I've used the cabbage example before, but it's the one that comes to mind again, so here goes.
 
 
-![A Cabbage](cabbage.jpg)
+![A Cabbage](/assets/cabbage.jpg)
 
 **Je vous ai apport&#0233; un chou**
 

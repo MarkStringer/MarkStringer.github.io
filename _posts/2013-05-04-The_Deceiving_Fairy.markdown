@@ -6,7 +6,7 @@ title:  "The Deceiving Fairy - The Fata Morgana"
 
 *This is work-in-progress and will form part of my book [“Delivering the Impossible”](Book.htm)*
 
-![A Fata Morgana Distorting the image of distant boats beyond recognition](fataMorgana.jpg)
+![A Fata Morgana Distorting the image of distant boats beyond recognition](/assets/fataMorgana.jpg)
 
 *[By Brocken Inaglory, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=17778686)*
 

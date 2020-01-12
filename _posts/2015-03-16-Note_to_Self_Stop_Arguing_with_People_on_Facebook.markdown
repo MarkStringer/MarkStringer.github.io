@@ -9,7 +9,7 @@ I've totally had it with arguing with people on Facebook.  I just took the troub
 
 >**Discover the recipes you are using and abandon them**
 
-![An Oblique Strategy](ObliqueStrategies.png)
+![An Oblique Strategy](/assets/ObliqueStrategies.png)
 
 I actually think the second half of that piece of advice is probably redundant most of the time - once you make explicit the recipes you're following, you're going to abandon them, or wish you could abandon them.
 

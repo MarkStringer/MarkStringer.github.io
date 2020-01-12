@@ -15,7 +15,7 @@ layout: post
 
 **Francis Thompson - The Hound of Heaven**
 
-!["Actual Progress"](ActualProgress.png)
+!["Actual Progress"](/assets/ActualProgress.png)
 
 
 This is the chart that's been guiding my life for the last 12 months.

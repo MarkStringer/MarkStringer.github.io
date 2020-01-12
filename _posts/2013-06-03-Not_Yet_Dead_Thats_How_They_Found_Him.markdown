@@ -17,7 +17,7 @@ So where we left it at the [introduction](Introduction.htm) was that I'd read a 
 
 In this article by a blogger and now Author called Venkatesh Rao, there's a discussion of this cartoon by Hugh MacLeod.
 
-![Sociopaths, Clueless, Losers](SociopathsCluelessLosers.jpg)
+![Sociopaths, Clueless, Losers](/assets/SociopathsCluelessLosers.jpg)
 
 Although Rao's analysis of The Office is really interesting, it was his commentary of this breakdown of the world of work into these three groups that made at least some of the scales drop from my eyes when I first read it, it seems now checking the dates, just after it was written in the Autumn of 2009.  In some ways, these are obviously offensive names - and they're names that in some ways I wish I didn't have to work with.   But let's just run through, really quickly, what they mean.
 

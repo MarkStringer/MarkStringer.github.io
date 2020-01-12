@@ -18,7 +18,7 @@ As with many concepts that populate business and self-help books, there is a sub
 
 >**[All Models are Wrong, Some are Useful]( http://en.wikiquote.org/wiki/George_E._P._Box)**
 
-![StringersHierarchyOfSoftwareDevelopmentNeeds](StringersHierarchyOfSoftwareDevelopmentNeeds.png)
+![StringersHierarchyOfSoftwareDevelopmentNeeds](/assets/StringersHierarchyOfSoftwareDevelopmentNeeds.png)
 
 >**Stringer's Hierarchy of Development Needs**
 
@@ -36,7 +36,7 @@ Being asked to do things at the top of the software development hierarchy of nee
 
 I'm hoping the reason is because they're not aware of the hierarchy.  This would be great if it were the case. Because, following [Daniel Kahneman's Principle "What You See is All There is" (WYSIATI)]( http://www.amazon.co.uk/gp/product/B005MJFA2W?ie=UTF8&camp=3194&creative=21330&creativeASIN=B005MJFA2W&linkCode=shr&tag=theginmum-21&linkId=GM2DYC3S7BUYR52Y&qid=1425129126&sr=8-1&keywords=thinking+fast+and+slow) all we would need to do is show our customers the pyramid and point out that there a problems with its foundations and we won't be able to reach its peaks until these problems are fixed.
 
-![Pharaoh](RamsesIIEgypt.jpg)
+![Pharaoh](/assets/RamsesIIEgypt.jpg)
 
 **Pharaoh - a Tough Customer?**
 

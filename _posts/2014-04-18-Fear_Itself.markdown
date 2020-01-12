@@ -8,7 +8,7 @@ I'm scared.  What am I afraid of? All sorts of things.  A while ago, I read "Wri
 
 My favourite is this "Writing Down the Bones" by Natalie Goldberg &ndash; because at least it cheers you on and gives you the courage and confidence to write and keep writing.  My least favour is probably "Story" by Robert McKee wow.  That guy's a dick. But Lawrence Block's book is somewhere near the top of the list, because like Goldberg's, it's kind and (sorry Natalie) more than Goldberg, Block is someone who's written a lot of books.
 
-![Writing down the Bones](writingDownTheBones.jpg)
+![Writing down the Bones](/assets/writingDownTheBones.jpg)
 
 Another way that the book is sobering is that it unpacks the economics of running seminars as a way of making a ton of money &ndash; it just doesn't work.  Which is a shame, because every now and then, that's a fantasy of mine.
 

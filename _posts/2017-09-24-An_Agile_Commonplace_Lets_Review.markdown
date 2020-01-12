@@ -44,8 +44,8 @@ To quote JFK during the Cuban crisis - "Do you want this fucking job?"
 
 So if you're one of these "Losers" (a Scrum Master, a developer), challenged with delivering against this Fata Morgana, what do you do?
 
-##Become a "sociopath for Jesus"
-   ![ JackNicholsonTheTruth.png]
+## Become a "sociopath for Jesus"
+   ![]( /assets/JackNicholsonTheTruth.png )
 One of the logical outcomes of what we've been over above is that there are two reasons that you're trying to tell the truth as part of the software development process.
 	* To get senior management do some slow thinking
 	* As a result of that slow thinking, to tell a more reasonable, realistic and realise-able story about the Fata Morgana.
@@ -58,8 +58,8 @@ As a good friend of mine says - "Sooner or later, someone has to lie."
 
 And there are some other ideas - a lot of which come out of the ideas of John Boyd and OODA Loop (how does the second "O" - orient - interact with the ideas of the Fata Morgana and fast thinking, that's a very interesting question). But that, and the topics below are for anther day.
 
-##Use Guerrilla warfare
-##Organic Command and Control
-##Keep your eyes open for value
-##Help the sociopaths declare victory
-##Understand the limits of slow thinking
+## Use Guerrilla warfare
+## Organic Command and Control
+## Keep your eyes open for value
+## Help the sociopaths declare victory
+## Understand the limits of slow thinking

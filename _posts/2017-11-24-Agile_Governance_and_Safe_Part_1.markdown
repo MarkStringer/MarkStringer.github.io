@@ -25,7 +25,7 @@ This diagram, is, as I said, made up, but it does get across what seemed to be t
 
 2)  We couldn't, beyond vaguely describing it in lines and boxes write the information processing programs that would carry out tasks like word recall or recognition.
 
-![Cognitive Psychology Diagram](FakeCognitivePsychologyDiagram.jpg)
+![Cognitive Psychology Diagram](/assets/FakeCognitivePsychologyDiagram.jpg)
 
 I've just been reminded of this when thinking about a debate that I somehow got pulled into around the ["Scaled Agile Framework"](http://scaledagileframework.com/).  The Scaled Agile Framework is a line and box diagram.  Rather tellingly, the author of the Scaled Agile Framework, Dean Leffingwell has put a lot of money into getting someone to draw this diagram for him in as clear and compelling a way as possible.  At the top of the Safe diagram it's an algorithm and data structure we know as "Kanban", at the bottom it's an algorithm and data structure we know as "Scrum" (although he's not calling it that because there'd be trade mark issues and this is not all, but almost all about making a ton of cash that nobody can sue to get away from him).  
 

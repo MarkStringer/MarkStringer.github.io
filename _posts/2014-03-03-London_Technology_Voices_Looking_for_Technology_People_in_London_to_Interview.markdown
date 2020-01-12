@@ -15,7 +15,7 @@ Software Development, Love, Pain and the Whole Damn Thing.**
 
 I'll also put the podcast up and get the interview transcribed so that it's searchable online.
 
-![Just speak into the mic](microphone.jpg "Microphone")
+![Just speak into the mic](/assets/microphone.jpg "Microphone")
 
 My inspirations for this are many, but include the work that I did when I was at Sussex, a mere one career ago and went around interviewing people in their homes about technology and Stud's Terkel's book "Working".
 

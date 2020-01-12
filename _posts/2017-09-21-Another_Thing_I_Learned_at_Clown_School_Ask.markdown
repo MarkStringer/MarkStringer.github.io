@@ -15,7 +15,7 @@ The next thing that became obvious was that there are lots of ways of asking for
 
 What I *think* I learned was that if you're going to get the ball, you have to do something before you get the ball. You have to make contact, actually not just contact, but some kind of a connection. When you've made the connection, then you can ask for the ball.
 
-![Basketball](Basketball.png)
+![Basketball](/assets/Basketball.png)
 
 **A Ball**
 
@@ -25,7 +25,7 @@ Apparently in sales they talk about AIDA &ndash; Attention, Interest, Decision, 
 
 He would struggle with it, and maybe make a bit of noise. If there were any of the other kids who looked in his direction, he would see them and say to them "Hello mate? Do you want to come and play with my toys?" And while they hesitated, he would carry on getting more and more different, exciting, fascinating toys out of the string bag.  Sooner or later some of the other kids would forget their shyness and come and join him.
 
-![A Beach](BeachSmall.jpg)
+![A Beach](/assets/BeachSmall.jpg)
 
 **Maybe it was this beach**
 

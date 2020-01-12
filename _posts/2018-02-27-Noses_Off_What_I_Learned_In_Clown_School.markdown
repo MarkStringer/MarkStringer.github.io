@@ -12,7 +12,7 @@ The one that I think was the most useful and interesting was the one that is the
 
 When you put on a mask &ndash; just a neutral mask, nothing fancy like a comedia dell arte mask, you start acting more with your body.  You start having to think of things to do with your body to move a scene along.  Initially you do it too much.  You move too much &ndash; you make one move, and then immediately afterwards you make another move and cancel it out. Then you start to get better at it, you start to make gesture and moves and stick with them, let them go for their natural length of time before you move onto the next idea.  Possibly the best mask class that I went to was one where we made our own mask &ndash; just out of bits of card and Sellotape.  This is the mask that I made:
 
-![A Mask](mask.jpg)
+![A Mask](/assets/mask.jpg)
 
 What I really liked about this session is that all the way through it we really had no idea what we were doing &ndash; what "getting it right" would look like.  The tutor for the course who demeanour was shout an abusive Cockney (I *think* it was an act) just told us to make a mask and then develop a character. I can't remember anything about the character that I developed.  What I can remember is the feeling of having no idea what I was doing and being on the verge of throwing a bit of a strop and asking for more definite instructions.  But I didn't quite lose it.  I just managed to deal with having absolutely no idea what was going on and making it all up as I went along: the mask, the character and finally a scene based on the character.  Of course, it was alright in the end. And if it hadn't have been, well, so what?
 

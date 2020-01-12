@@ -60,4 +60,4 @@ This is a notebook right?  A commonplace, so I don't have to have things in exac
 
 "Fill your ass up" - I wonder what Freud would have made of that? 
 
-![Lester and McNulty, the Job won't save you](LesterAndMcNultyTheJobWontSaveYou.jpg)
+![Lester and McNulty, the Job won't save you](/assets/LesterAndMcNultyTheJobWontSaveYou.jpg)

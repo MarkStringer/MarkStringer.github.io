@@ -1,6 +1,6 @@
 05/09/2015 
 # Sail Your Own Boat
-![Sources of Governance](SourcesOfGovernance.png)
+![Sources of Governance](/assets/SourcesOfGovernance.png)
 
 I've been thinking a lot about governance and using controlling a boat and driving a cars as metaphors in my mind. So a couple of days ago, I tweeted this:
 > ["What do you need for governance - you need power, control, transparency - for inspection & feedback - and a *technology for reducing friction* ](https://twitter.com/Mark_Stringer/status/638976575992672256) 

@@ -5,7 +5,7 @@ layout: post
 
 
 # Sources of Governance
-![Sources of Governance](SourcesOfGovernance.png)
+![Sources of Governance](/assets/SourcesOfGovernance.png)
 
 ## Sources of Power (Energy)
 * Money

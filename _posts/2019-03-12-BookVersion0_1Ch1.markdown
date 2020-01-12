@@ -86,7 +86,7 @@ And applying symmetric logic then we get
 
 Matte Blanco has explanation of how, for the unconscious, and sometimes for the conscious mind, it is extremely difficult to understand that something does *not* exist.  The example he gives is if you have a one-dimensional series, let's say that you have a series of slots in a row, and the slots are numbers with the integers.  And that there is a peg indicating true in  each peg 1-10 except the 3 peg. Matte Blanco's point is that there is still a hole for the peg - and a number next to it. There is a structure - the one-dimensional array of pegs that, yes, shows that there's no peg in the number 3 slot. But is doesn't actually pick out the full logical meaning of "not 3".  The full logical meaning of "not 3" is "anything but 3" this includes all the numbers in this series except 3 but it also includes *anything else* that is thinkable - along any other dimensions, not included within this particular series. 
 
-![Figure 1 - the Not 3 Peg Board](Figure1_Not3PegBoard.png "For the Unconscious, Not 3 implies the existence of 3")
+![Figure 1 - the Not 3 Peg Board](/assets/Figure1_Not3PegBoard.png "For the Unconscious, Not 3 implies the existence of 3")
 
 Another important implication of symmetrical logic is that where symmetrical logic is being used temporal relations are impossible. Temporal relations can only happen if relations can be asymmetric e.g. x is before y.  P is in the future, Q is happening now, R is in the past.  This means that in symmetrical logic, from the point of view of time, everything is not only now, but always has been and always will be. 
 

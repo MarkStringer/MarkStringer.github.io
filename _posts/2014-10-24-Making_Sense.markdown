@@ -30,8 +30,8 @@ And thinking about all of this reminded me of [*this* video](https://www.youtube
 
 Here's a still from that video of Richard Cook's of a system as imagined.
 
-![The System as Imagined](SystemAsImagined.png "The System As Imagined")
+![The System as Imagined](/assets/SystemAsImagined.png "The System As Imagined")
 
 And here's a still from a the same video of a system as found.
 
-![The System as Imagined](SystemAsFound.png "The System As Found")
+![The System as Imagined](/assets/SystemAsFound.png "The System As Found")

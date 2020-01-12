@@ -7,7 +7,7 @@ layout: post
 # 97 Agile Ideas - Idea Number 22 
 # Planning 
 
-![The Extreme Programming 'Planning Onion'](Extreme_Programming.svg)
+![The Extreme Programming 'Planning Onion'](/assets/Extreme_Programming.svg)
 
 ***The Extreme Programming 'Planning Onion'***
 

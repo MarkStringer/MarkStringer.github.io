@@ -21,7 +21,7 @@ More than once this week I've caught myself and realised that  I'm worrying abou
 
 I am most definitely one to rely on books, and poetry especially in times of need and trouble - and of course, so is Larkin (he spent his entire professional life working as a librarian!).  Which is obviously a delicious part of the irony of Larkin writing this.
 
-![Philip Larkin](larkin.jpg)
+![Philip Larkin](/assets/larkin.jpg)
 
 >**Philip Larkin**
 
@@ -36,7 +36,7 @@ And I'm thinking that one reason why, even when he'd learned how to do it - even
 And this is why books aren't much help. You're trying to learn an organisational language, and the fact that the people in the organisation notionally speak the same natural language might be helpful - but maybe if they spoke another language, for which there were no phrase books or Rosetta Stone courses that would make the situation that you're in a little more obvious and help you respond to it more appropriately.
 But now I'm thinking about it, I'm thinking that maybe there would be value in reading books about Anthropology. Because that's what this is, in essence.  I've been dropped into a foreign tribe.  I need to learn their ways.  Maybe books aren't a load of crap after all. I should maybe get on kindle and read a beginner's guide to anthropology. Or maybe look online for a bibliography...
 
-![Yanomami](yanomami.jpg)
+![Yanomami](/assets/yanomami.jpg)
 
 >**Nobody Told me there was a Dress Code - I just came Smart Casual**
 

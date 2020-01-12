@@ -7,4 +7,4 @@ layout: post
 
 # Late and Over Budget Idea Wall
 
-![Idea Wall](LateAndOverbudgetIdeawall.jpg)
+![Idea Wall](/assets/LateAndOverbudgetIdeawall.jpg)

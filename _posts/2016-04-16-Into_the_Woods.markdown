@@ -21,7 +21,7 @@ The government inspect concluded that the foreman was a fool. He returned to his
 
 The foreman read the memo carefully – and even displayed the rota in his office, neatly pinned with drawing pins to his cork board.  He said nothing to the crews.
 
-!["Groucho"](Groucho.jpg)
+!["Groucho"](/assets/Groucho.jpg)
 
 ## Groucho
 I know I don't want to be a member of a club that would have me join, but I wish I had a club to beat some sense into this numbskull foreman. 
@@ -34,5 +34,5 @@ Nothing is a the same as a nothing boss.  If two a things, they are a the same. 
 You no understand? Maybe I can a show you with these a shells and this a pea? You got ten bucks?
 
 ## Harpo
-!["Harpo"](harpo.jpg)
+!["Harpo"](/assets/harpo.jpg)
 

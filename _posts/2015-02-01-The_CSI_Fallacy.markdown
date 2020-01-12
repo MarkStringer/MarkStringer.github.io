@@ -17,7 +17,7 @@ If you don't believe me, read Injustice by Clive Stafford-Smith and then tell me
 
 It's alright to watch CSI and pretend that the "The Truth will Set Us Free" (part of the pretence of course is that science can somehow be equated with truth - but that's an entirely different rant/argument (google Paul_Feyerabend). But it's also important to understand that this idea that just being smarter than everybody else and having more kit will guarantee truth, justice and your personal success is what the author Venkatesh Rao might call a "Loser fantasy".And it's downright dangerous to take this attitude out into the real world (I should know, and I do). If you want to know more about why - you might want to sign up to the webinar version of the seminar I ran on Wednesday night.
 
-![Clive Stafford Smith](./CliveStaffordSmith.jpg "Real world - real hero")
+![Clive Stafford Smith](/assets/CliveStaffordSmith.jpg "Real world - real hero")
 
 *I talked about this on Wednesday night at my monthly "Late and Over-Budget" seminar at the Half-Moon Theatre in Limehouse. There'll be another seminar in April on a subject of similarly vital importance to your working life. In April we're going to talk about TEMPO and TIMING.* 
 

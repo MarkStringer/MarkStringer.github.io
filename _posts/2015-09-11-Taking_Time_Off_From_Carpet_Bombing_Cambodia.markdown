@@ -28,7 +28,7 @@ Again - he gets the report back with note.  "Really? This is the best you can do
 
 The "Loser" in me wants to say "What do you expect from a man who carpet bombed Cambodia?" That's Robert Anton Wilson's "Snafu principle" in a nutshell. If I can prove that he's a bad man, then I don't have to worry about the lessons that his behaviour might teach me, I can essentially stop listening.  But there are a couple of other ways of looking at this story.
 
-![The Snafu Principle](snafu_principle.png)
+![The Snafu Principle](/assets/snafu_principle.png)
 
 One is the way that Kissinger blithely (and this, curiously, is a word I tend to use when I think about this[1]) fucks around with the interns competence.  He has to push - three times of asking - before the intern finally, probably out of desperation rather than  confidence or defiance, stands his ground.  And can you imagine what Kissinger's life would be like if he read *every* crappy report that landed on his desk and then had be to forced to spoon feed authors with clues as to what they should actually write?  But also, very unusually, he shows that he's not consistent - he shows that he's disconnected from consistency.  Of course, most sociopaths don't do that.  But I suppose he's doing it for a reason here - he's giving a word to the wise.  "When you write something for me - bring your 'A game'.  And that probably means in your case, you've now figured out, re-write and re-think it three times before you show it me."
 

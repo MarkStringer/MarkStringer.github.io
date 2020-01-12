@@ -9,7 +9,7 @@ I've been struggling for the last few days to understand what's really going on 
 
 I feel fortunate then, that at the same time, I've been reading Powerbase:  How to Build - It How to Keep it by Marilyn Moats Kennedy.  It made me see a really clear difference between the kinds of people that Rao would call "Losers" and the kind of people he would call "Sociopaths".    What's also interesting about these difference is that I think you can make them into a continuum.  There may be more than these dimensions, but these are the ones that I'll start with.
 
-![Rebekah Brooks in a Peter Pan outfit](RebekahBrooks.jpg "Not sociopathic - just ends and network oriented")
+![Rebekah Brooks in a Peter Pan outfit](/assets/RebekahBrooks.jpg "Not sociopathic - just ends and network oriented")
 ## Dimension 1 - self vs network. 
 **Loser** - the way to get success is to improve myself.
 

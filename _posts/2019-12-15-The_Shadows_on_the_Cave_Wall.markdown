@@ -5,13 +5,13 @@ layout: post
 
 
 # The Shadows on the Cave Wall
-![Thinking Fast, Thinking Slow, and the Real World](ShadowsOnTheCaveWall.png)
+![Thinking Fast, Thinking Slow, and the Real World](/assets/ShadowsOnTheCaveWall.png)
 
 So I drew this diagram (yes, I know, apologies for the terrible drawing). It's been kind of haunting me for a while. It's trying to connect up some of the things that Daniel Kahneman says in "Thinking Fast and Slow" with some of Boyd's ideas.
 
 Boyd has this idea called the OODA loop - Observe, Orient, Decide, Act. I'm not going to qualify this in the way that I would need to if I were writing an academic paper (I don't have to do those anymore, thank God). Boyd thought that if you could get round the OODA loop faster than your opponent, you would cause confusion and bewilderment in your opponent - they literally "Don't know what to think." And I think, often the result of this is a kind of weird torpid resignation - kind like what Cavafy is describing in ["Waiting for the Barbarians"](http://www.cavafy.com/poems/content.asp?id=119&cat=1) - and what caused the Labour party to abstain in the recent welfare debate. Bringing about this kind of "Waiting for the Barbarians" torpor in your opponents is perhaps an even more powerful way of defeating them than actually killing them all or having them marched away in chains.
 
-![Boyd's OODA Loop]( OODA.Boyd.svg.png)
+![Boyd's OODA Loop]( /assets/OODA.Boyd.svg.png)
 
 But I'm not sure to what degree Boyd thought about his own perceptions.  Looking at the diagram - it looks like he thought about it *a lot*.  And so I suppose what I'm reacting to is a lot of people who talk about the OODA loop and don't think about what goes on in the O's quite so much.  So this is what this article is about - what goes on in the O's.
 

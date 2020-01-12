@@ -6,7 +6,7 @@ layout: post
 
 # Agile at Scale and Liberating Structures - a Glimmer of Hope
 
-![Sunrise](SunRise.jpg)
+![Sunrise](/assets/SunRise.jpg)
 
 Like so many famous quotations there's a dispute about who said that they rob banks because "That's where the money is."
 

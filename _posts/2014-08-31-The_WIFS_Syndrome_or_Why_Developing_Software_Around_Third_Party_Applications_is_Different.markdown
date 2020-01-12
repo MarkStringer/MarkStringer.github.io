@@ -29,7 +29,7 @@ And of course, because software is tractable.  The answer is always:
 
 >Yes.
 
-![Mid-Project Review Meeting](TarPit.jpg "This Mid-Project Review Meeting isn't Going as Well as Expected")
+![Mid-Project Review Meeting](/assets/TarPit.jpg "This Mid-Project Review Meeting isn't Going as Well as Expected")
 
 **"This Mid-Project Review Meeting isn't Going as Well as Expected"**
 
@@ -58,7 +58,7 @@ How about Story 2?
 
 >**In Flight Simulator: 6 months to a year (so probably another 30 million pounds).**
 
-![The punctuation Bomber](bomber.jpg "We're planning on using this for the full stops")
+![The punctuation Bomber](/assets/bomber.jpg "We're planning on using this for the full stops")
 
 **"We're planning on using this for the full stops"**
 

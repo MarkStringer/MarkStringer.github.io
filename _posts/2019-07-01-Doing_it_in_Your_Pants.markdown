@@ -9,7 +9,7 @@ layout: post
 ## The Situation
 >At schoool that day, it was time for movement with music on Radio 4 VHF. The child had not remembered that today was the day for movement with music.  He was upset because he had a special sports bag and he loved to bring his special clothes (a pair of shorts, a t-shirt, some plimsolls) to school and feel grown up.  The teacher was most insistent that the child must do movement with music. The teacher did not have any spare clothes, other than  a fluff-covered selection from lost-property.  The child was forced to move to music in just his pants and his t-shirt. He found it difficult to pretend to be a tree, and a angry lion and then a frightened mouse in his superman y-fronts. He did not enjoy the movement with music lesson, nor benefit from it educationally as much as he might.  The other children laughed.
 
-!["Rik in his pants"](rik.jpg "Rik in his pants")
+!["Rik in his pants"](/assets/rik.jpg "Rik in his pants")
 
 # The Discussion
 ## Rho See

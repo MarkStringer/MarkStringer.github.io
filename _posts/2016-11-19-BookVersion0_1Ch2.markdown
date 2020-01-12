@@ -21,7 +21,7 @@ But in order to explain what the Agile manifesto is, we need to explain what Agi
 ### What is Waterfall?
 Until the end of the 21st century it was widely thought that the best way to manage software development was to treat it like the engineering of complex physical structures, like engines or suspension bridges. This type of approach is often called a "Waterfall" approach because of the way that's represented in diagrammatic form.
 
-!["Waterfall Project Management"](waterfall.png)
+!["Waterfall Project Management"](/assets/waterfall.png)
 
 When a piece of software was required, it was understood that the best way to make sure that that piece of software was delivered "on time" and "to budget" was to make a list of absolutely everything (*all* of the things) that the piece of software needed to do in a "requirements document".  When that document was complete, and only when it was complete, another document would be written which explained exactly how those requirements would be satisfied. This would probably be called a "design document." 
 
