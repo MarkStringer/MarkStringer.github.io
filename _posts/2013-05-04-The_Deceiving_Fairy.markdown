@@ -4,7 +4,7 @@ title:  "The Deceiving Fairy - The Fata Morgana"
 ---
 # The Fata Morgana
 
-*This is work-in-progress and will form part of my book [“Delivering the Impossible”](Book.htm)*
+*This is work-in-progress and will form part of my book [Delivering the Impossible]({% post_url 2014-07-30-Book %})*
 
 ![A Fata Morgana Distorting the image of distant boats beyond recognition](/assets/fataMorgana.jpg)
 
