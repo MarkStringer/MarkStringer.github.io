@@ -9,7 +9,7 @@ OK - this is a commonplace - so what I write here doesn't have to put anybody at
 
 First of all, governance - look it up in a dictionary.
 
->[**govern (v.)**]( www.etymonline.com/index.php?term=govern&allowed_in_frame=0) 
+>**govern (v.)** 
 >late 13c., "to rule with authority," from Old French governer "steer, be at the helm of; govern, rule, command, direct" (11c., Modern French gouverner), from Latin gubernare "to direct, rule, guide, govern" (source also of Spanish gobernar, Italian governare), originally "to steer, to pilot," a nautical borrowing from Greek kybernan "to steer or pilot a ship, direct as a pilot," figuratively "to guide, govern"
 
 The notion of *governance* is metaphorical, it comes for the Greek word for steering a ship.  Control is about steering. And what do you need to steer a ship - well you need *controls* - a wheel you can turn - a tiller you can push and some ropes that you can pull. But also - this should be really obvious, but it seems to get forgotten more than it should - you need to be able to see where your going and you need to see the results of pushing the tiller and pulling on the ropes - you need **feedback**.

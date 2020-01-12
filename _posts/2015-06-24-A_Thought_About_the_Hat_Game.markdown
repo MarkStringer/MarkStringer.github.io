@@ -8,7 +8,7 @@ layout: post
 * Good improvisers are good at the hat game.
 * Keith Johnstone says that for some reason, men tend to be better at the hat game than women, or possibly that the people who are overall best at the hat game tend to be men (he says it, I don't - don't hit me).
 
-![Keith Johnstone](http://www.the-spontaneity-shop.com/graphics/kj1.jpg)
+![Keith Johnstone](/assets/Keith_Johnstone_July_2017_-_photo_credits_Erik_van_der_Liet.jpg)
 
 **Keith Johnstone**
 

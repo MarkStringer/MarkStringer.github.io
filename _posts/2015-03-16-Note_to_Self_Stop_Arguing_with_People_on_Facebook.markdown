@@ -41,4 +41,4 @@ Actually, I suspect you can say even *less* online than you can if you're talkin
 
 So from now on, please God (who nobody, not even Richard Dawkins can prove doesn't exist, there I go again) grant me the wisdom to like things and make the occasionally funny comment but mostly just shut the fuck up when I'm on Facebook.
 
-[1] ["Oblique Strategies"](http://en.wikipedia.org/wiki/Oblique_Strategies) are a set of things to try to help you, when you're in a creative rut, developed by Brian Eno and Peter Schmidt.  It occurs to me that you might see them as a way of solving the problem of getting stuck in the game that I talked about [yesterday](Noses%20Off%20What%20I%20Learned%20In%20Clown%20School.htm).
+[1] ["Oblique Strategies"](http://en.wikipedia.org/wiki/Oblique_Strategies) are a set of things to try to help you, when you're in a creative rut, developed by Brian Eno and Peter Schmidt.  It occurs to me that you might see them as a way of solving the problem of getting stuck in the game that I talked about [yesterday]({% post_url 2018-02-27-Noses_Off_What_I_Learned_In_Clown_School %}).

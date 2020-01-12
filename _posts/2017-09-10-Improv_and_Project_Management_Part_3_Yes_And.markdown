@@ -37,7 +37,7 @@ What I'm thinking about now - the "Yes but," that's coming up in my head, is how
 
 ...and even though we've agreed to this crazy working pattern, we'll be making sure our team works reasonable hours - even if they are working shifts.
 
-This is certainly not for the faint-hearted.  And not all improvisers - even those who specialise in these techniques in business settings agree on trying this "Yes and" approach in hostile settings.  To quote [Paul Z. Jackson](http://www.improvisationacademy.co.uk/blog.html) - a leading advocate of the use of improv in business settings:
+This is certainly not for the faint-hearted.  And not all improvisers - even those who specialise in these techniques in business settings agree on trying this "Yes and" approach in hostile settings.  To quote Paul Z. Jackson - a leading advocate of the use of improv in business settings:
 
 >I know some improvisers who stretch the application to its utmost and test their every response in life against the principle.  Others - and I'm among them - prefer to look for contexts in which "Yes... And..." has a relatively obvious and direct application.
 

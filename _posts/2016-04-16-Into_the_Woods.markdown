@@ -34,5 +34,5 @@ Nothing is a the same as a nothing boss.  If two a things, they are a the same. 
 You no understand? Maybe I can a show you with these a shells and this a pea? You got ten bucks?
 
 ## Harpo
-!["Harpo"](/assets/harpo.jpg)
+!["Harpo"](/assets/Harpo.jpg)
 
