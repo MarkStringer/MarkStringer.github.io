@@ -1,3 +1,9 @@
+---
+title: "The System as Imagines vs the System as Found"
+layout: post 
+---
+
+
 # The System As Imagined vs The System as Found
 
 So watching those Richard Cook videos from the Velocity conference really set me thinking.

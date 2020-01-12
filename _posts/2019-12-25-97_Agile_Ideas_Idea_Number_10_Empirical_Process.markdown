@@ -1,3 +1,9 @@
+---
+title: "Agile Ideas - Emprical Process"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 10
 # Empirical Process 
 

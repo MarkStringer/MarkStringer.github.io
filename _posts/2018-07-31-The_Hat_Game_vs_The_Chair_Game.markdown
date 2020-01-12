@@ -1,3 +1,9 @@
+---
+title: "The Hat Game vs The Chair Game"
+layout: post 
+---
+
+
 # The Hat Game vs The Chair Game
 
 So a friend of mine asked me if the ["sitting on a chair" game]( More%20Stuff%20from%20Clown%20School%20-%20Sitting%20on%20a%20Chair.htm) that I did at Clown School and wrote about a couple of days ago is similar to the ["Hat Game"]( A%20Thought%20About%20the%20Hat%20Game.htm).
@@ -12,7 +18,7 @@ When you're playing the hat game, you're trying to stop someone from taking your
 
 But I think the most important difference between the hat game and the chair game is that in the chair game the task is (nearly) impossible and this slows everything down and gives the clowns (and the audience) a chance to think about what's actually going on.
 
-![A Hat](Hatt.jpg)
+![A Hat](Hat.jpg)
 
 >**A Hat**
 

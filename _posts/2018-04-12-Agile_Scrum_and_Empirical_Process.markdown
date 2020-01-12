@@ -1,9 +1,14 @@
+---
+title: "Empirical Process"
+layout: post 
+---
 
-Fri, 13 Jun 2014 11:02:12 
+
+## Fri, 13 Jun 2014 11:02:12 
 
 # Agile, Scrum and Empirical Process
 
-#Empirical Process
+# Empirical Process
 
 
 

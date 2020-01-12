@@ -1,5 +1,10 @@
-﻿
-Mon, 10 Nov 2014 10:10:54 
+﻿---
+title: "David Anderson on Process Change"
+layout: post 
+---
+
+
+## Mon, 10 Nov 2014 10:10:54 
 
 # David Anderson on Process Change
 

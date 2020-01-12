@@ -1,3 +1,9 @@
+---
+title: "Agile Ideas - The Andon Line"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 21 
 # The Andon Line
 

@@ -1,7 +1,13 @@
-# The difference between losers and sociopaths - an inkling
-I've been struggling for the last few days to understand what's really going on in Venkatesh Rao's ["Gervais" principle](http://www.amazon.co.uk/gp/product/B00F9IV64W?ie=UTF8&camp=3194&creative=21330&creativeASIN=B00F9IV64W&linkCode=shr&tag=theginmum-21&qid=1388826536&sr=8-1&keywords=gervais+principle).  I've been working on a expository blog post, in preparation for a seminar that I'll be running and it's been making me uncomfortable.  Not only because trying to explain what Rao says makes me realise that I'm not really familiar with the detail of what he's saying: that's OK - that's part of the exercise and part of the endeavour of creating a blog as a [commonplace](http://en.wikipedia.org/wiki/Commonplace_book). But also because I feel like I'm too close to him - I'm not putting out my interpretation of what he's saying, I'm just trotting out his party line and for someone as normally as opinionated as me, that makes me very uncomfortable.
+---
+title: "The differences between losers and sociopaths - an inkling"
+layout: post 
+---
 
-I feel fortunate then, that at the same time, I've been reading [Powerbase:  How to Build - It How to Keep it](http://www.amazon.co.uk/gp/product/0449207501?ie=UTF8&camp=3194&creative=21330&creativeASIN=0449207501&linkCode=shr&tag=theginmum-21&qid=1388826326&sr=8-1&keywords=marilyn+moats+kennedy) by Marilyn Moats Kennedy.  It made me see a really clear difference between the kinds of people that Rao would call "Losers" and the kind of people he would call "Sociopaths".    What's also interesting about these difference is that I think you can make them into a continuum.  There may be more than these dimensions, but these are the ones that I'll start with.
+
+# The difference between losers and sociopaths - an inkling
+I've been struggling for the last few days to understand what's really going on in Venkatesh Rao's "Gervais" principle.  I've been working on a expository blog post, in preparation for a seminar that I'll be running and it's been making me uncomfortable.  Not only because trying to explain what Rao says makes me realise that I'm not really familiar with the detail of what he's saying: that's OK - that's part of the exercise and part of the endeavour of creating a blog as a commonplace. But also because I feel like I'm too close to him - I'm not putting out my interpretation of what he's saying, I'm just trotting out his party line and for someone as normally as opinionated as me, that makes me very uncomfortable.
+
+I feel fortunate then, that at the same time, I've been reading Powerbase:  How to Build - It How to Keep it by Marilyn Moats Kennedy.  It made me see a really clear difference between the kinds of people that Rao would call "Losers" and the kind of people he would call "Sociopaths".    What's also interesting about these difference is that I think you can make them into a continuum.  There may be more than these dimensions, but these are the ones that I'll start with.
 
 ![Rebekah Brooks in a Peter Pan outfit](RebekahBrooks.jpg "Not sociopathic - just ends and network oriented")
 ## Dimension 1 - self vs network. 

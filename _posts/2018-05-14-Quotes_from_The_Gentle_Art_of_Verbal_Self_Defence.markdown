@@ -1,4 +1,6 @@
-#From "The Gentle Art of Vebal Self Defense"
+
+
+# From "The Gentle Art of Vebal Self Defense"
 
 >**In verbal self-defence,** as in any other art, if you master the basics and apply them by frequent practice, you are well on your way.
 

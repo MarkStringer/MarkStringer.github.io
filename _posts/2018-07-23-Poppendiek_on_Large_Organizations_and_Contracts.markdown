@@ -1,5 +1,9 @@
+---
+title: "Poppendiek on Large Organisations and Contracts"
+layout: post 
+---
 
-Mon, 15 Sep 2014 10:34:50 
+## Mon, 15 Sep 2014 10:34:50 
 
 # Poppendiek on Large Organizations and Contracts
 

@@ -1,3 +1,9 @@
+---
+title: "Slack"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 7 
 # Slack 
 

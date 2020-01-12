@@ -1,4 +1,9 @@
-#Commitment and Consistency
+---
+title: "Commitment and Consistency"
+layout: post 
+---
+
+# Commitment and Consistency
 
 **I commit to a transparent, empirical process.**
 

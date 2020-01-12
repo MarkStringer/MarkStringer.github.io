@@ -1,3 +1,9 @@
+---
+title: "Agile Ideas - The Cynefin Framework"
+layout: post 
+---
+
+
 # 97 Agile Ideas - Idea Number 19 
 # The Cynefin Framework
 

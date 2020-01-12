@@ -1,7 +1,11 @@
+---
+title: "Agile Project Governance"
+layout: post 
+---
 
 Sat, 3 May 2014 00:22:56 
 
-#Agile Project Governance
+# Agile Project Governance
 
 What if Agile project governance looked almost nothing like "normal"
 project governance?

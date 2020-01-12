@@ -1,5 +1,11 @@
-#Noses Off &ndash; Or What I Learned at Clown School 
-##(and what it's still hard to remember)
+---
+title: "Noises Off - Or What I Learned at Clown School"
+layout: post 
+---
+
+
+# Noses Off &ndash; Or What I Learned at Clown School 
+## (and what it's still hard to remember)
 I signed up for clown school &ndash; it's a workshop at the [City Lit](http://www.citylit.ac.uk/) college in central London &ndash; four weekends in a row. I've done other workshops there and they've all been good.
 
 The one that I think was the most useful and interesting was the one that is the hardest to explain to people &ndash; that was the mask workshop. Improvising with masks.  It was the first course that I did at City Lit and I did it because someone I met when I was doing improvised theatre, in a [Nissen Hut]( http://en.wikipedia.org/wiki/Nissen_hut) somewhere near Finsbury Park station, said that she'd done the mask course and it was good. People think when you say you're doing stuff with masks that you're weird an pervy. I think this is because people are weird and pervy, or would like to be.

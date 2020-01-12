@@ -20,4 +20,3 @@ People respond to working software in a completely different way than they respo
 
 Secondly, and it took a long time for me to understand this, although software development is complex, but the environment into which software is released is chaotic. The only way to really understand this environment is to deploy software into it.
 
-

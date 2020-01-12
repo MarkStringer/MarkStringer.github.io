@@ -1,7 +1,13 @@
-﻿Version - 0.1 - Aristotle
-#Delivering the Impossible [Working Title]
+﻿---
+title: "Delivering the Impossible - Chapter 1"
+layout: post 
+---
 
-#Introduction 
+
+Version - 0.1 - Aristotle
+# Delivering the Impossible [Working Title]
+
+# Introduction 
 
 What was he doing? He was sniggering. He was actually sniggering. "So I see here that you're writing a book - 'Good Enough Project Management.' How's that going?" 
 
@@ -29,11 +35,11 @@ So what is this book about? This book is about using the ideas of symmetry and a
 
 The inspiration for an analysis of Agile using these concepts of "All" versus "Some"; and "Same" versus different; is the work of Chilean psychoanalyst Ignacio Matte Blanco.  I don't think his work is very well known amongst the Agile or software development community, so Chapter 1 will be an introduction to some of the ideas in his work. 
 
-#Chapter 1 
-#An Introduction to the Work of Ignacio Matte Blanco 
+# Chapter 1 
+# An Introduction to the Work of Ignacio Matte Blanco 
 Ignacio Matte Blanco was a native of Chile who trained as a psychoanalyst in England in the 1930's and then spent most of his professional career in Italy. 
 
-##Asymmetric versus symmetric logic 
+## Asymmetric versus symmetric logic 
 
 Matte Blanco's work is an intersection of psychoanalysis, particular the idea of thoughts being able to be both conscious and unconscious, with the structures  of logical analysis. Matte Blanco's central idea is that certain aspects of our thinking do not obey the laws of classical logic. An example of a law of classical logic - which Matte Blanco refers to a "asymmetrical" logic would be the law of contradiction. 
 
@@ -84,13 +90,13 @@ Matte Blanco has explanation of how, for the unconscious, and sometimes for the 
 
 Another important implication of symmetrical logic is that where symmetrical logic is being used temporal relations are impossible. Temporal relations can only happen if relations can be asymmetric e.g. x is before y.  P is in the future, Q is happening now, R is in the past.  This means that in symmetrical logic, from the point of view of time, everything is not only now, but always has been and always will be. 
 
-##What Does Any of This Have to Do with Software Development or Project Management? 
+## What Does Any of This Have to Do with Software Development or Project Management? 
 
 Why am I talking about this in a book about project management, especially the project management of software development? Because symmetrical thinking is present in multiple forms throughout the software development process, and the best way we know of doing software development - Agile - works by, easing, challenging and at some points directly attacking symmetrical thinking.
 
 Here are some of the ways that symmetrical thinking is present in software development.
 
-###All
+### All
 Before the advent of Agile approaches to software development there was waterfall. Idea of a waterfall approach was that the way to deliver a successful project was to write down in a requirements document absolutely *all* the requirements for the project.  When that was done (let's not worry too much right now how we'd know when it was done), that document would be used to create a complete system design. And when *that* was done (never mind about how we'd know when it was done), development would start. When development was finished, testing would start, and then when testing was finished, in theory, user acceptance testing would start.  
 
 That was the theory, but usually, at some point during either development (which would take far, far, too long - much longer than "estimated"), or during testing (which would reveal either that the system didn't do what the customer asked for in the requirements, or, more likely that the system *did* do what was in the requirements, which it was now obvious to the customers, wasn't what they now wanted) there would be a crisis.
@@ -99,7 +105,7 @@ Writing about it now, in the 21st century, it seems impossible to believe that t
 
 Why is such an approach so appealing? I think a substantial part of the reason is the powerful appeal of "all".
 
-###Same
+### Same
 >"Real life Fagin ran gang of pickpockets from Hackney flat"
 
 >"Real life 'Pretty Woman' married her millionaire client in fairy tale ceremony"
@@ -110,11 +116,11 @@ These stories are interesting, and somehow rewarding because they show similarit
 
 Same is very powerful in several other ways.  Same is especially powerful when projects get started. How many iPhone apps, or Facebook apps were created with an argument of the form "everyone else is getting an app".  As noted by Robert Cialdini in his book "Influence", "We view a behaviour as more correct in a given situation to the degree that we see others performing it." 
 
-###Always, Now and Forever
+### Always, Now and Forever
 The past comes before present, the present comes before the past. Time isn't symmetrical, it is fundamentally asymmetrical. So it's not surprising that symmetrical thinking about time is very strange.
 
 
 
-###The Absence of Negation
+### The Absence of Negation
 As described above in the example of the "Number 3" in the peg board. The negation of specific idea makes that idea very real in a way that is very different from the actual logical implications of something not existing.  "Not Number 3" logically means "anything but an elephant". 
 

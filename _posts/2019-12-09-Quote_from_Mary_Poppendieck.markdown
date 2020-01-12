@@ -1,3 +1,8 @@
+---
+title: "Quote from Mary Poppendiek on Flow"
+layout: post 
+---
+
 
 Mon, 15 Sep 2014 10:02:53 
 

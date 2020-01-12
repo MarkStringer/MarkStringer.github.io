@@ -1,4 +1,10 @@
-#The Shadows on the Cave Wall
+---
+title: "The Shadows on the Cave Wall - Thinking Fast and Slow and the Real World"
+layout: post 
+---
+
+
+# The Shadows on the Cave Wall
 ![Thinking Fast, Thinking Slow, and the Real World](ShadowsOnTheCaveWall.png)
 
 So I drew this diagram (yes, I know, apologies for the terrible drawing). It's been kind of haunting me for a while. It's trying to connect up some of the things that Daniel Kahneman says in "Thinking Fast and Slow" with some of Boyd's ideas.

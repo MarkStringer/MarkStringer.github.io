@@ -1,3 +1,9 @@
+---
+title: "Complex Adaptive Systems and Magical Thinking"
+layout: post 
+---
+
+
 
 Tue, 24 Jun 2014 09:00:23 
 

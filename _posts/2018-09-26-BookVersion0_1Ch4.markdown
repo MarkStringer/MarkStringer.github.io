@@ -1,4 +1,10 @@
-﻿Version - 0.1 - Aristotle
+﻿---
+title: "Delivering the impossible - Chapter 4"
+layout: post 
+---
+
+
+Version - 0.1 - Aristotle
 
 # Chapter 4
 
