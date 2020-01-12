@@ -13,7 +13,7 @@ So Thurber goes away and rewrites it and his new piece starts "Dead! That's how 
 
 I know that's where I have to get to, I have to get to a situation where the most interesting and valuable things that I'm trying to say hit you right between the eyes at the very beginning.  But I'm not there yet, the truth be told, I'm a bit stuck, so rather than just sit around and do nothing, I thought I would tell the story in a semi chronological fashion and see if the actually structure will reveal itself. 
 
-So where we left it at the [introduction](Introduction.htm) was that I'd read a book called "Dead Man Working" and that had reminded me of a set of blog posts about work and the American version of "The Office" TV series - ["The Gervais Principle."](http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+So where we left it at the [introduction]({% post_url 2013-08-15-Introduction %}) was that I'd read a book called "Dead Man Working" and that had reminded me of a set of blog posts about work and the American version of "The Office" TV series - ["The Gervais Principle."](http://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 
 In this article by a blogger and now Author called Venkatesh Rao, there's a discussion of this cartoon by Hugh MacLeod.
 

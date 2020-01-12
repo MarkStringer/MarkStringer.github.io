@@ -7,7 +7,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2020-01-12 14:15:43+001
+Start checking at 2020-01-12 15:14:46+001
 
 URL        `mailto://mark.stringer@mumbly.co.uk/'
 Name       `mark.stringer@mumbly.co.uk'
@@ -21,82 +21,11 @@ Parent URL https://markstringer.github.io/2015/09/15/How_to_Manage_Late_and_Over
 Real URL   mailto://mark.stringer@mumbly.co.uk/
 Result     Error: Invalid domain part of mail address `//mark.stringer@mumbly.co.uk/'.
 
-URL        `http://www.gapingvoid.com/Moveable_Type/archives/zzzzazzdggg49.jpg'
-Parent URL https://markstringer.github.io/2019/01/21/The_Gervais_Principle_Online_Seminar_4.html, line 51, col 4
-Real URL   https://www.gapingvoid.com/Moveable_Type/archives/zzzzazzdggg49.jpg
-Check time 2.671 seconds
-Info       Redirected to
-           `https://www.gapingvoid.com/Moveable_Type/archives/zzzzazzdggg49.jpg'.
-Result     Error: 404 Not Found
-
-URL        `www.etymonline.com/index.php?term=govern&allowed_in_frame=0'
-Name       `govern (v.)'
-Parent URL https://markstringer.github.io/2018/02/16/Agile_Governance.html, line 54, col 6
-Real URL   https://markstringer.github.io/2018/02/16/www.etymonline.com/index.php?term=govern&allowed_in_frame=0
-Check time 0.938 seconds
-Size       2KB
-Result     Error: 404 Not Found
-
-URL        `www.medienmosaik.de'
-Name       `Martin A. Ciesielski'
-Parent URL https://markstringer.github.io/2017/11/29/Applied_Improvisation_Network_Conference_2013.html, line 89, col 89
-Real URL   https://markstringer.github.io/2017/11/29/www.medienmosaik.de
-Check time 0.905 seconds
-Size       2KB
-Result     Error: 404 Not Found
-
-URL        `http://vimeo.com/18913413'
-Name       `John Cleese'
-Parent URL https://markstringer.github.io/2017/11/29/Applied_Improvisation_Network_Conference_2013.html, line 111, col 420
-Real URL   https://vimeo.com/18913413
-Check time 2.353 seconds
-Info       Redirected to `https://vimeo.com/18913413'.
-Result     Error: 451 Unavailable For Legal Reasons
-
-URL        `http://www.improvisationacademy.co.uk/blog.html'
-Name       `Paul Z. Jackson'
-Parent URL https://markstringer.github.io/2017/09/10/Improv_and_Project_Management_Part_3_Yes_And.html, line 83, col 218
-Real URL   http://www.improvisationacademy.co.uk/blog.html
-Check time 1.088 seconds
-Size       3KB
-Result     Error: 404 Not Found
-
-URL        `/assets/harpo.jpg'
-Name       `"Harpo"'
-Parent URL https://markstringer.github.io/2016/04/16/Into_the_Woods.html, line 83, col 4
-Real URL   https://markstringer.github.io/assets/harpo.jpg
-Check time 0.864 seconds
-Size       2KB
-Result     Error: 404 Not Found
-
-URL        `http://img.youtube.com/vi/l2jsG6P2QGM/0.jpg'
-Name       `Me Talking about Training From the Back of the Room'
-Parent URL https://markstringer.github.io/2016/04/10/Me_Talking_about_the_Basics_of_Training_From_the_Back_of_the_Room.html, line 51, col 57
-Real URL   http://img.youtube.com/vi/l2jsG6P2QGM/0.jpg
-Check time 0.882 seconds
-Size       1KB
-Result     Error: 404 Not Found
-
-URL        `Noses%20Off%20What%20I%20Learned%20In%20Clown%20School.htm'
-Name       `yesterday'
-Parent URL https://markstringer.github.io/2015/03/16/Note_to_Self_Stop_Arguing_with_People_on_Facebook.html, line 97, col 332
-Real URL   https://markstringer.github.io/2015/03/16/Noses%20Off%20What%20I%20Learned%20In%20Clown%20School.htm
-Check time 1.327 seconds
-Size       2KB
-Result     Error: 404 Not Found
-
-URL        `http://www.the-spontaneity-shop.com/graphics/kj1.jpg'
-Name       `Keith Johnstone'
-Parent URL https://markstringer.github.io/2015/06/24/A_Thought_About_the_Hat_Game.html, line 53, col 4
-Real URL   http://www.the-spontaneity-shop.com/graphics/kj1.jpg
-Check time 2.239 seconds
-Result     Error: 404 Not Found
-
 URL        `Introduction.htm'
 Name       `introduction'
 Parent URL https://markstringer.github.io/2013/06/03/Not_Yet_Dead_Thats_How_They_Found_Him.html, line 57, col 31
 Real URL   https://markstringer.github.io/2013/06/03/Introduction.htm
-Check time 1.946 seconds
+Check time 1.835 seconds
 Size       2KB
 Result     Error: 404 Not Found
 
@@ -104,14 +33,14 @@ URL        `Book.htm'
 Name       `“Delivering the Impossible”'
 Parent URL https://markstringer.github.io/2013/05/04/The_Deceiving_Fairy.html, line 49, col 63
 Real URL   https://markstringer.github.io/2013/05/04/Book.htm
-Check time 1.649 seconds
+Check time 1.730 seconds
 Size       2KB
 Result     Error: 404 Not Found
 
 Statistics:
 Downloaded: 3.01MB.
-Content types: 56 image, 1465 text, 0 video, 0 audio, 8 application, 2 mail and 0 other.
+Content types: 58 image, 1459 text, 0 video, 0 audio, 8 application, 2 mail and 0 other.
 URL lengths: min=21, max=217, avg=66.
 
-That's it. 1531 links in 365 URLs checked. 0 warnings found. 13 errors found.
-Stopped checking at 2020-01-12 14:17:16+001 (1 minute, 33 seconds)
+That's it. 1527 links in 359 URLs checked. 0 warnings found. 4 errors found.
+Stopped checking at 2020-01-12 15:16:17+001 (1 minute, 31 seconds)
