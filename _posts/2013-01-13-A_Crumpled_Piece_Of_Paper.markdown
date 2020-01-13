@@ -1,3 +1,8 @@
+---
+title: "A Crumpled Piece of Paper"
+layout: post
+---
+
 # A Crumpled Piece of Paper
 
 ## Here it is
