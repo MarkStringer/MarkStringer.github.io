@@ -2,3 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
+
+font-size: 18px;
