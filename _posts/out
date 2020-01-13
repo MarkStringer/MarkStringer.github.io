@@ -1,0 +1,30 @@
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2020-01-12 15:25:34+001
+
+URL        `mailto://mark.stringer@mumbly.co.uk/'
+Name       `mark.stringer@mumbly.co.uk'
+Parent URL https://markstringer.github.io/2018/02/14/How_to_Manage_Late_and_Over_Budget_Projects_and_Still_SUCCEED_The_Second_Online_Seminar.html, line 76, col 4
+Real URL   mailto://mark.stringer@mumbly.co.uk/
+Result     Error: Invalid domain part of mail address `//mark.stringer@mumbly.co.uk/'.
+
+URL        `mailto://mark.stringer@mumbly.co.uk/'
+Name       `mark.stringer@mumbly.co.uk'
+Parent URL https://markstringer.github.io/2015/09/15/How_to_Manage_Late_and_Over_Budget_Projects_and_Still_SUCCEED_Part_2.html, line 71, col 4
+Real URL   mailto://mark.stringer@mumbly.co.uk/
+Result     Error: Invalid domain part of mail address `//mark.stringer@mumbly.co.uk/'.
+
+Statistics:
+Downloaded: 3.02MB.
+Content types: 58 image, 1463 text, 0 video, 0 audio, 8 application, 2 mail and 0 other.
+URL lengths: min=21, max=217, avg=66.
+
+That's it. 1531 links in 357 URLs checked. 0 warnings found. 2 errors found.
+Stopped checking at 2020-01-12 15:27:10+001 (1 minute, 36 seconds)
