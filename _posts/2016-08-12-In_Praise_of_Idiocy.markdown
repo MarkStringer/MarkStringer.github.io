@@ -1,3 +1,9 @@
+---
+title: "In Praise of Idiocy"
+layout: post 
+---
+
+
 # In Praise of Idiocy (and Against Scientism)
 
 We need stupid people.  We need dumb ideas.  Stupid people have sex.  It's what old Uncle Dick Dawkin's "selfish gene" wants. Dumb people.  Fucking.  Dumb people raising dumb kids with dumb ideas, talking offensive bullshit, talking reality TV, football, Lord of the Rings, Harry Potter, whatever it is dumb people talk about. Without them, the species would simply not survive. If the only people were sensible middle class people (say). The world would simply end. Because some of those dumb ideas aren't so dumb.
