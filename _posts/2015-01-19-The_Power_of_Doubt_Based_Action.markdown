@@ -1,3 +1,8 @@
+---
+title: "The Power of Doubt-Based Action"
+layout: post
+---
+
 
 Mon, 5 May 2014 14:59:49 
 
