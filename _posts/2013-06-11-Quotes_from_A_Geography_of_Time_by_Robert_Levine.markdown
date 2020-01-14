@@ -1,3 +1,8 @@
+---
+title: Quotes from the Geography of time
+layout: post
+---
+
 # Quotations from Robert Levine's *Geography of Time*
 
 >**when I looked around at my elders,** the numbers never seemed to add up the same way twice. Why was it, I wondered, that some adults appeared to be perpetually running out of daylight hours while others seemed to have all the time in the world?  I thought of this second group of people - the ones who would go to the movies in the middle of the workday or take their families on six-month sabbaticals to the South Pacific - as temporal millionaires, and I vowed to become one of them. 
