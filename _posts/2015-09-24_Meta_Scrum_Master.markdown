@@ -1,5 +1,5 @@
 ---
-title: "crum and Agile at Scale Needs a (Meta) Scrum Master"
+title: "Scrum and Agile at Scale Needs a (Meta) Scrum Master"
 layout: post
 ---
 
