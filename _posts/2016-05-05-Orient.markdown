@@ -9,6 +9,8 @@ layout: post
 
 One of the most interesting things about the OODA loop is the second O: orient. What does orient mean? Especially in this context? Orient means to figure out where you are. To make sense of your surroundings — to put yourself in a context — to decide where you are on a map.
 
+![The OODA Loop](/assets/OODA.Boyd.svg.png)
+
 What’s really interesting about Body’s take on this is that he highlights something that should be obvious, but that often gets missed.
 
 The quality of the project, the mission, the endeavour is not just dependent on the quality of the actions, it isn’t even just dependent on the quality of the decisions about those actions, it is dependent on the quality of the thinking that goes on before those decisions are made and the actions are executed.
