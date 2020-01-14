@@ -1,0 +1,32 @@
+---
+title: "31 Days in May Tricks Sociopaths Pull 1"
+---
+
+# 31 Days in May — Day 9 — the tricks that sociopaths pull — part 1
+
+All four groups of people in an organisation pull tricks, the checked-out losers, the motivated, apostate losers, the clueless and the sociopaths — they all have manoeuvres that they pull: things that they do to make their life easier and other people’s harder. But the sociopaths are the trickiest bunch of the lot. This is because far more than the other kinds of people in an organisation, pulling these kinds of tricks is their modus operandi. It’s the way they do business. When we go through the list of tricks that sociopaths pull, you might start to think that it is the way that all business works.
+
+It took me a long time to realize that there is a positive side to the things that sociopaths do. I suppose that’s because, by nature I’m of a more loser bent. But once you’ve seen the value that having a sociopath in an organisation can bring, it’s impossible to un-see it, and I think it makes the discussion about what needs to happen, and who needs to be brought into an organisation to make it function correctly far more interesting and informed.
+Timing
+
+Sociopaths instinctively know that controlling tempo and timing is a powerful way of controlling a situation. Very often in software development this control of tempo and timing shows itself as the setting of “aggressive” timescales.
+
+What are the disadvantages of ridiculous (OK, “aggressive”) timescales? Well the main one, from my point of view as someone who manages software development is that it forces developers to do a bad job. It also forces them, often to work harder than is good for them physically, socially, psychologically and emotionally. This trick of setting ridiculous deadlines is such a powerful tool that there are many sociopaths who don’t feel that they need to know any others. If it used on its own, repeatedly, it can have extremely ruinous effects, not just on the development teams, but on the organizations that they work for. The result will be development teams that consist entirely of checked-out losers with a high churn of staff, a massive list of people off sick and a litany of cases for wrongful dismissal, sexual and racial harassment.
+
+But — and it took me a hell of a long time to get to understand this — there are positive effects of ridiculous timescales. Ridiculous timescales and deadlines can force teams into a “Just do it” mindset, and can be a useful as a way of getting a team around the OODA loop. In many situations, there may be the only way of getting a team around the OODA loop. Remember that one of the problems that is highlighted by the OODA loop is that it you don’t have an enemy, you have no reason to go around the OODA loop. A ridiculous deadline “fakes” a reason.
+
+But getting the most out of setting a ridiculous timescale requires an enormous amount of subtlety and understanding from the sociopath. The Agile concept of varying scope rather than quality is absolutely vital.
+
+## Clarity and Simplicity
+
+Another related trick that sociopaths can pull is to pretend that the tasks that we need to do when we’re doing software development are simple (this used to be the bottom-right-hand box of the [Cynefin](https://en.wikipedia.org/wiki/Cynefin_Framework) framework, but it’s changed its name now to “Obvious”). The sociopath will say to the apostate losers something like: “You’re experts, you’re professionals, I expect you to be able to tell me exactly what needs doing and exactly how long it will take.”
+
+This is a total mind fuck. Ironically, the people who are most vulnerable to this mind fuck are some of the people who are paid the most: contractors who are being paid the top-end of hundreds a day. The fact that you don’t know exactly what’s required and don’t know exactly how long it will take must mean that you’re not an expert and a professional, in which case, why the hell are they paying you so much?
+
+Unlike setting an arbitrary timescale just to get things moving, which, as we’ve discussed, does have some benefits. This move has some major disadvantages. The first is that creates the impression that software development is not iterative i.e. software development doesn’t require ongoing engagement between customers and developers, understanding of what is required and why that is valuable doesn’t evolve over time. A best, it leaves the idea that software is incremental i.e. we know exactly what we’re doing, but we’re just doing it bit by bit.
+
+It makes the idea that the whole team is going to learn about the problem that the team are solving iteration by iteration seem somehow shameful. If you were really an expert, you’d have known all this at the beginning, wouldn’t you?
+
+And this brings us on to the second problem with such a move. It hobbles the very experts in the exercise of their expertise. We want the skilled people on the team to be able to notice things and change what the team do in light of noticing these things. In the language of the OODA loop, we want them to observe what happens in light of their actions and reorient their understanding of what is happening and what needs to happen as a result.
+
+Creating the impression amongst experts that they should already have an unchanging clear and simple understanding of what the problem is makes experts less likely to point out problems when they see them.
