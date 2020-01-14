@@ -1,0 +1,37 @@
+---
+title: "31 Days in May - John Boyd"
+layout: post
+---
+
+# 31 Days in May — Day 4 — John Boyd
+
+So what I was intending to write about over these 31 days in May is John Boyd. John Boyd was a fighter pilot and military thinker, whose military strategies have started to have some resonance in the world of business and software development.
+
+Boyd is best known for something called the OODA loop — an iterative decision loop which is similar to the Plan, Do, Check, Act loop talked about by Deming. In Boyd’s OODA loop the first “O” is Observe: look at what’s going on. The second “O” is orient: make sense of what’s going on. The “D” is decide: decide what to do in light of the current situation. And finally, the “A” is Act: do it.
+
+One of the aspects of the OODA loop which commentators from business have latched onto is Boyd’s explanation that the side in a conflict which gets around the OODA loop the fastest will win . Boyd puts it stronger than that, he says that if you can get around the OODA loop quicker than your opponents you can cause them “chaos and confusion”.
+
+>>“Operate inside adversary’s observation‑orientation‑decision‑action loops to enmesh adversary in a world of uncertainty, doubt, mistrust, confusion, disorder, fear, panic chaos … and/or fold adversary back inside himself so that he cannot cope with events/efforts as they unfold.”
+
+***John Boyd***
+
+One of the great benefits and great drawbacks of Boyd’s work is that he left very little written text. His ideas were presented in the form of a series of constantly evolving briefings which were hours, if not days, long.
+
+The drawback of this approach is that it is very difficult to pin down with any certainty exactly what Boyd thought about any particular topic. The benefit — and this seems to be very much what Body intended is that Boyd presents us with a selection of ideas which can be used to come up with bnovel approaches and interesting ideas.
+Is it really about going fast?
+
+One question that might get asked regarding the OODA loop is if the crucial takeaway point is about speed. Often what business commentators have take away from discussions of the OODA loop is that what is important in a project is to go as fast as possible, or to get around the OODA loop as fast as possible. But from the Boyd quote, we can see that it isn’t about absolute speed, rather it’s about relative speed. What’s important is not that you go as fast as you possibly can, but that you go faster than your opponent, you get inside their decision loop.
+
+This might be much slower than as fast as possible. In fact, as fast as possible might be hugely expensive and damaging, and in the terms of the OODA loop deliver no extra benefit or understanding. When it came to designing fighter planes, to which Boyd was innovative contributor, one of the most important unstandings that he brought was that absolute speed is not important (e.g. top speed), but relative speed, and acceleration and decleration, at a particular altitude.
+
+What if you don’t have an opponent?
+
+There’s a corollary to Boyd’s idea that in any conflict situation the side that gets around the OODA loop the fastest wins — what if there isn’t another side? If that’s the case, how fast does the single remaining side need to get around the loop? The answer to this of course, is very slowly, or not at all. We can all think of projects that had an enormous observation phase (requirements gathering); an enormous orientation phase (analysis); an enormous decision phase (waiting for funding/board approval); and finally an enormous, seemingly never-ending action phase (development).
+
+If there’s no pressing reason to get around the loop, many teams, many organisations simply won’t. But there is value in getting around the OODA loop which is not just related to getting around it faster than an opponent. An interesting additional facet of the OODA loop is that it is a collection of loops. Each of the stages in the OODA loop informs the other stages. This means that there is value in getting around to loop simply because it improves and informs the quality of work that is being done at each of the other stages.
+
+The project management framework Scrum simply picks an arbitrary loop length of two to four weeks. One way of thinking about this is that picking an arbitrary loop length to deliver working software, highlights the loop lengths of other decisions cycles with which it interacts. Of course, one thing that you might find out as a result of picking this arbitrary loop length is that the loop length needs to be different. Maybe it needs to be longer, there’s simply no need for it to be as short as it has been initially decided.
+
+But another thing that becomes obvious almost immediately from running a Scrum sprint is the difference between competition and opposition. Competition might be geniune business competitors, or competition may be a self created goal. But opposition will come from every side within your own organisation when you start to get around the OODA loop at a tempo which is faster than they are comfortable with.
+
+This is something that I’ve only just come to understand. When you start doing Scrum you get inside the OODA loop of those connected to you in the organisation — and causes in them chaos and confusion.
