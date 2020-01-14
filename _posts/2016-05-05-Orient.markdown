@@ -1,0 +1,42 @@
+---
+title: 31 Days in May - Orient
+layout: post
+---
+
+# 31 Days in May — Day 5 — Orient
+
+## John Boyd’s OODA Loop
+
+One of the most interesting things about the OODA loop is the second O: orient. What does orient mean? Especially in this context? Orient means to figure out where you are. To make sense of your surroundings — to put yourself in a context — to decide where you are on a map.
+
+What’s really interesting about Body’s take on this is that he highlights something that should be obvious, but that often gets missed.
+
+The quality of the project, the mission, the endeavour is not just dependent on the quality of the actions, it isn’t even just dependent on the quality of the decisions about those actions, it is dependent on the quality of the thinking that goes on before those decisions are made and the actions are executed.
+
+Inside the orient phase of the OODA loop as drawn by Boyd are 5 aspects: cultural traditions; genetic heritage; analysis and synthesis; new information; and previous experiences. What Boyd seems to be saying is that when you are in the orient phase of the OODA loop, everything that you know up to this point is relevant, and is brought to bear. Another way of thinking about this is that the quality of your culture will determine the quality of your decisions.
+
+Realizing the importance of the orient phase in the OODA loop seems really daunting, but it’s actually terrific news. It says something really obvious, but really powerful: if you use smart people to guide a project, that will result in better outcomes than if you don’t.
+### Genetic Heritage
+
+What do we mean by smart exactly? Well, Boyd talks about good genetic heritage [See Footnote]. When thinking of fighter pilots, he’s probably thinking about people who are physically fit as well as exceptionally capable intellectually. This is of course an big part of the requirement for a military project. But it’s not really such a concern for many other kinds of projects, including software development.
+
+It seems what Boyd is really saying here is that, you should hire the most intelligent people that you can afford. And once you start to understand how expensive not hiring intelligent people can be, then you’ll probably be interested in hiring even more intelligent people.
+
+### Cultural heritage
+
+In his talk “Organic Command and Control” Boyd makes it clear that people throughout an organisation need to be able to trust one another. One of the things that leads people to be able to trust each other is literally if they speak the same language. Another is shared experiences, shared terms of reference. Of course, if there is too much similarity within a group, there is a danger of group-think: a danger of not being able to see alternative views. Part of this cultural heritage needs to be the tolerance of new ideas and differing opinions.
+
+### Previous Experience
+
+Experience counts. Because the reality of endeavour in complex situations is a lot messier than any straight-forward description of it, and that understanding really only comes from experiencing the messiness first-hand. This is captured in the phrase like “this is not my first rodeo.” There are lots of different kinds of projects and they can go wrong in different kinds of ways, they can have lots of different kinds of problems. It takes experience in lots of different situations to really understand that.
+Analysis and Synthesis
+
+When Boyd began to move away from thinking only about fighter plane tactics and started to think more generally about military strategy he wrote a paper entitled “Destruction and Creation.” Central to this paper — one of the few finished pieces of writing that he left — was the idea that in order to come up with new ideas, old ideas have to be broken. Analysis — capturing data — isn’t enough. Synthesis — coming up with new ideas — isn’t enough. The two need to be combined, and how effectively they are combined is dependent on other aspects of the orientation phase. Analysis and synthesis requires smart people — good “genetic heritage” to use Boyd’s curious phrasing. Analysis and synthesis also requires a culture that tolerates more than one opinion and is willing to depart from old ideas and to create new ones.
+
+### New Information
+
+The OODA loop is a learning loop. The point of getting around the loop in the early stages of a project, is not so much to reach the goal, but to get more information about the reachability of the goal, about the validity of the tactics that are being, about the quality of the team that are carrying out the actions. The whole point of iterating, of going around any kind of learning loop is to change what you do and how you do it in light of what happens.
+
+But information doesn’t just come from within the learning loop. While whatever is going on inside the learning loop in unfolding, the world outside is also changing. In the orient phase of each iteration of a project, we need to be able to deal with information that results from our decisions and actions, but also new information that comes from the outside world. How well we manage this depends on how smart we are (genetic heritage) our background (cultural heritage and experience) and how willing we are to modify our ideas in light of this new information (synthesis).
+
+Footnote: Anybody who is concerned that by “Genetic Heritage” Boyd might be hinting at any kind of idea of racial superiority might look at Robert Coram’s book Boyd: The Fighter Pilot Who Changed the Art of War. On at least two occasions that are described, Boyd went out of his way to make sure that race was not an issue, insisting that an African American pilot breakfasted with his colleagues in a hotel in Las Vegas, at a time when Las Vegas was a segregated city and resolving an extremely tricky racial incident while commander of a military camp in Vietnam.
