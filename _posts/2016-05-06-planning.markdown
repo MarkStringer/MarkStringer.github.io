@@ -1,0 +1,36 @@
+---
+title: "31 Days in May Planning"
+layout: post
+---
+
+# 31 Days in May — Day Six — Planning
+
+>> no plan of operations extends with any certainty beyond the first contact with the main hostile force.
+
+often paraphrased as:
+>> no plan survives contact with the enemy
+
+***Helmuth von Moltke the Elder***
+
+>>>Politics is when you say you are going to do one thing while intending to do another. Then you do neither what you said or what you intended.
+
+***Saddam Hussein***
+
+Yesterday we were talking about the OODA loop and the interesting structure that Boyd gives to the second “O” in the OODA loop — the “Orient” phase.
+
+It’s probably safe to say that most software development that happens focuses on the the “D” — the decide and the “A” of the OODA loop rather than the orient phase, or if any attention is given to the orient phase, it is only on the first time around the loop.
+
+The interesting idea that Boyd’s description of the OODA loop raises is that we might have a skills gap — but it might not be where we think it is. The focus in so many projects is in either getting the specification right (in Boyd’s language, deciding to do the right thing) or in execution of the right thing right (in Boyd’s language, acting). But what Boyd appears to be saying with the OODA loop is that early observations, early orientation, early decisions and early actions are only valuable in so much as they move you onto later observations (looking at the results of your actions), later orientation (making sense of the results of your actions) and then later decisions and later actions and so on. And by describing things in this way, Boyd makes clear something which is normally obscured — the quality of the culture, education and nervous systems (in Boyd’s language “genetic heritage”) of the people who look at the results of their actions and make sense of them, is crucial to success.
+
+But Boyd also makes clear something else. The futility of planning. This might explain why in most organizations that I’ve worked in, there’s a weird reluctance to move around the OODA loop more than once. People are attached to their plans. Many stakeholders and leaders are still of the mindset that successful project management is about delivering to a plan. Instigating an OODA loop is a threat to a plan.
+
+Iterations such at the those recommended by the OODA loop and software development frameworks like Scrum actually arrive at working software that users can interact with. This is hugely valuable but it also involves learning. Leaders and stakeholders have to pay attention to the feedback that comes from users — and it may not be what they want to hear. It may make them look foolish.
+
+Having paid attention the right kind of attention to this feedback (i.e. not ignoring it, nor trying to silence the people who are telling them), they then have to make sense of it — they have to orient towards it. In Boyd’s terms, this is where there has to be some destruction: destruction of old ideas, destruction of old plans. This needs to happen before there can be any kind of creation, any kind of synthesis.
+
+This brings into play another idea that Boyd discussed which might not be obviously connected with the OODA loop — the difference between being something and doing something. For Boyd, the worst insult that he could level at a senior member of the military who happened to get in his way was “All he ever did was get promoted”. For Boyd being something, whether it be a general or a chief executive of a company was unimpressive because there were mechanisms in place that allowed the callow, the cynical, the manipulative and the downright incompetent to get into positions of seniority. For Boyd, what really mattered was doing something — achieving something, whether it be in an actual war or in the bureaucratic battles that he and his acolytes fought inside the Pentagon and other huge bureaucracies. And doing something involved getting around the OODA loop more than once, observing the results of decisions and actions, and being prepared for the disruption that this iterative approach causes.
+
+One protest about the use of the OODA loop to discuss software development (one I’ve sometimes made myself) is that war and software development are very different kinds of activities. When it’s done even half-right, there is minimal violence involved in software development. Another objection to the OODA loop is the idea that one needs to somehow get around the loop faster than the enemy. In war, there is an obvious enemy. Where is the enemy is software development.
+I actually think that that might be an entire blog post, and an entire chapter, or maybe an entire book — “Where is the enemy is software devleopment?”
+
+In software development, mostly, the “main hostile force” that Moltke talks about is reality — real users using the real system, real problems that need to be solved, real technologies that need to be combined and bent to the will of the stakeholders. And by moving around the OODA loop at least once, the senior stakeholders and leaders are exposed to the full power of that hostile force. Their education, their culture, their genetic heritage are tested. They are are asked to do something rather than merely being something. They are asked to deal with the destruction of their plans, their ideas for success, and their self-image. This is the core reason that Agile transformations are so hard to achieve.
