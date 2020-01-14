@@ -9,6 +9,9 @@ How do you explore these issues that we've been talking about - all of the issue
 
 For now, I've been really interested in reading the work of improvisation pioneer Keith Johnstone.  One of the first topics that he covers in his book "Impro" is status.  And I really wanted to explore these issues, so I hired an actor to work through with me all the exercises that Johnstone discusses in his book.  We did things like play a scene several times - one of us starting the scene high status, and one of us starting the scene low-status and over the course of the scene having our status swap.  We also messed around with the physical cues for status - playing scenes where one of us touched their head a lot during the scene (try it, it's impossible not to feel low status when you're tugging your forelock).  Also we played scenes where one of us talked quickly and says "erm" a lot.
 
+
+
+
 And we're starting to get the hang of this now. [Pause] For instance. [Pause] I have found [Pause] that taking [Pause] long pauses [Pause] between the things that I say. [Pause] Even if [Pause] the pauses [Pause] aren't [Pause] at the beginning of sentences, seems to give me a certain extra authority.
 
 But now it was time to put some of this drilling into a more realistic situation - into a "Late And Over-Budget" business setting.  We ran a scene four or five times where I played a project manager and B played the client.
