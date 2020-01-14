@@ -1,4 +1,9 @@
-#What did I talk about at "Late and Over-Budget"? Commitment and Consistency
+---
+title: Commmitment and Consistency and the Planning Fallacy
+layout: post
+---
+
+# What did I talk about at "Late and Over-Budget"? Commitment and Consistency
 
 *Next Late and Over-Budget Seminar is 6:30 at the Half Moon Theatre on Tuesday 10th December 2013*
 
