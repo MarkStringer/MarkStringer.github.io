@@ -40,5 +40,8 @@ The relationship between Geoff and the Scrum Master pretty much goes down hill f
 * A first attempt at figuring out how long the project might take that Susan makes that Geoff seizes on and takes to teh board as the date when the project will be live
 * Quite nasty fights in the development team about approaches to technology - made worse by the fact that the most sporty and "manly" member of the development team has Geoff's ear.
 * Susan running from the building in tears, ringing Geoff from a nearby bar and quitting.
+* Geoff isn't comfortable around the new development team that he's hired, so he goes back to what he knows - sales. He is in the middle of a meeting with another website that aggregates products like the one that he's pushing when one of the executives on the other side of the table asks him a question. 
+"You've got regulatory approval for this haven't you Geoff? Because if you haven't, we can't really talk until you have."
+No. Geoff doesn't have regulatory approval. Regulatory approval will take minimum six months. 
 
 Reader, I wasn't Susan. I was Susan's replacement.  
