@@ -1,0 +1,5 @@
+---
+title: Trench Warfare
+layout: post
+status: alpha
+---

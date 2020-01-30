@@ -1,7 +1,7 @@
 ---
 title: "What does the Two Stream Model Mean for Personal Projects?"
 layout: post
-status: raw draft
+status: alpha 
 ---
 
 # What does the 'two-stream' model mean for personal projects?

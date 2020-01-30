@@ -1,7 +1,7 @@
 ---
 title: Introduction to "Delivering the Impossible"
 layout: post
-status: raw draft
+status: alpha 
 ---
 
 > "Aut inveniam viam aut faciam" - "I shall find a way, or I shall make one."
