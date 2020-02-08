@@ -10,7 +10,7 @@ This is another contradiction.
 
 "Agreed activity" is an idea that I've got from theatrical improvisation. It's when the improvisors who are on stage agree to do something which, from their point of view feels safe, but from the point of view of the audience looks boring.
 
-In improv this often turns out to be some kind of long, repetitive activity. If the setting for the scene is a ship (which could sail anywhere and encounter any adventures) it might be something like scrubbing the decks. If the setting is a mountain, it will be repetitive climbing, but not getting to the top. 
+In improv this often turns out to be some kind of long, repetitive activity. If the setting for the scene is a ship (which could sail anywhere and encounter any adventures) an agreed activity might be something like scrubbing the decks. If the setting is a mountain, it will be repetitive climbing, but never getting to the top. 
 
 Agreed activity is repetitive and everyone is doing the same thing. Well. It looks like everbody is doing something but if fact they're doing nothing. And this is safe for the improvisers on stage. 
 
@@ -22,11 +22,11 @@ When I run training courses to introduce people to the idea of Agile, I often ta
 
 Gathering requirements withouth any attempt to test those requirements by developing them into design prototypes that can be shown to users, or working software that can actually be used is avoiding conflict and hence, avoiding change. It's safe. It's an agreed activity. Coding those requirements without any attempt to deliver working code that could actually be used by users is avoiding conflice, avoiding change. It's safe. It's an agreed activity.
 
-## Why not be safe, safe sounds good
+## Why not be "safe", "safe" sounds good
 
 But why shouldn't we play it safe? Safe sounds good. OK, rockstars, war heroes, explorers, might seek out danger, but is there anything wrong with wanting a quiet life? Isn't one of the "Agile principles" sustainable pace - the idea that the team should be able to carry on working at the pace that they're working for the long term, no late nights, no working weekends, no heroics. 
 
-There's absolutely nothing wrong with wanting a quiet life. But there's a serious problem with the kind of quiet life that comes from this kind of approach - if often ends badly. Either the project gets stopped, or the quiet life is followed by a phase of trench warfare.
+There's absolutely nothing wrong with wanting a quiet life. But there are serious problem with the kind of quiet life that comes from this kind of approach - if often ends badly. Either the project gets stopped, or the quiet life is followed by a phase of trench warfare.
 
 The only alternative to agreed activity isn't the chaos of trench warfare (which is actually just another form of agreed activity). An other alternative is to provide little windows for trouble, chaos and conflict inside a more solid structure. 
   
@@ -42,4 +42,8 @@ When I'm managing a project, I want those meetings to become regular, a habit, s
 
 Often in such situations, there will be somebody, it might be a senior member of the company, it might be one of the members of the team, who tries to say that we're too busy to have stand-up, or we're too busy to have planning, or it's a waste of time to have everyone turn up to the show and tell. But when that happens, I want there to be such a habit, such an inertia to the "agreed activity" that it's difficult to dislodge. 
 
+## So here's another contradiction - or at least a paradox
 
+The relaxed, repetitive, low stress actions of an agreed activity aren't the problem. The problem is the *kind* of agreed activity. Some agreed activities, the kind we fall into naturally when put under stress tend to avoid risk and avoid change. This is like driving without looking out of the window - it might be fine, but it could be catastrophic.
+
+What we need is relaxed regular actions that reduce the risk of a project and increase it's potential value in small ways.
