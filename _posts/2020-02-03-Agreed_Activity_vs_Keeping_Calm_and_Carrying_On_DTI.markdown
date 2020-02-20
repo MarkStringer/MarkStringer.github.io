@@ -44,6 +44,41 @@ Often in such situations, there will be somebody, it might be a senior member of
 
 ## So here's another contradiction - or at least a paradox
 
-The relaxed, repetitive, low stress actions of an agreed activity aren't the problem. The problem is the *kind* of agreed activity. Some agreed activities, the kind we fall into naturally when put under stress tend to avoid risk and avoid change. This is like driving without looking out of the window - it might be fine, but it could be catastrophic.
+The relaxed, repetitive, low stress actions of an agreed activity aren't the problem. The problem is the *kind* of agreed activity. Some agreed activities, the kind we fall into naturally when put under stress tend to avoid risk and avoid change. This is like driving without looking out of the window - it might be fine, but it could be ( it probably will be) catastrophic. But most of the time when we're driving in the right direction and *not* crashing into things we want to be relaxed and doing movements that are well within our capabilities.
+
+So, if we just look at our actions, the actions that are good for a project and the actions are that are bad for a project might *look* very similar. In fact, it's worse than that. Because a project team that's actually doing the right thing will be more obnoxious than a project team that's doing the wrong thing.
+
+A project team that's doing the *right* thing will be reporting (initially at least) a relatively endless stream of problems. Technologies that don't work, people they're supposed to talk to who won't talk to them. Interfaces that turn out to be way more complicated than anyone expected, regulations or even legislation that needs to be complied with that nobody thought about. So here is the heart of another contradiction. A project that "as far as you know" is going well, has a much higher chance of going badly than a project from which you're hearing a lot about - but mostly it isn't good news. 
 
 What we need is relaxed regular actions that reduce the risk of a project and increase it's potential value in small ways.
+
+## The dream and the day
+
+What if we say that project management is about connecting "the dream" (the vision for the project) and "the day" - the time, TODAY! That you have avaialable to move reality just that bit nearer the dream. The difference between agreed activity and relaxed, regular, opportunities for conflict, is that one is moving the project day by day nearer to the dream.
+
+Agreed activity is a self-protection mechanism for the team, they feel there is safety in numbers and agreeing what to do stops them from being changed. But in the same way, the people who are associated with the dream don't want the dream to be changed. 
+
+## A Brief Note About a Relaxed Team 
+
+Software development isn't war. Software development isn't mining. Software development *is* hard work. But *good* software development isn't going to look like a lot of people's idea of what hard work looks like. 
+
+It's very difficult not to react in a negative and emotional way when you're asked to deliver the impossible. And if you're thinking of asking someone else to deliver the impossible for you, you sure also bear that in mind.
+
+One of the things I find it hardest to deal with when I'm managing a team is a request, from the client, the customer or sometimes even from someone further outside the team in the wider organisation that the team should look more *busy*  and more stressed. Of course, this isn't an impossible request. It's possible for a team to look stressed, it's possbile for tension to be heard in their voices, for arguments to breaking out. 
+
+You know that bit in Star Trek (classic, I never got beyond that) where the Enterprise is hit and the lights dim, or even go out for a second and everybody rolls from one side to the other, alarms start sounding, warning lights on the console start flashing and the team on the bridge start running around trying to fix things. Many people who don't have any direct experience of software development seem to think this is what a software development team that is "working really hard" should look like. And as I'm writing this now, I realise that this cliche is itself taken from an earlier cliche of a submarine been partially hit by a depth charge. 
+
+#### What does this piece of wisdom mean for *this* book 
+
+One of the things that I'm most interesting, and occasionally *terrifying* about writing a book (which is a project obviously) about project management is thinking as I'm writing about how it applies to the project of writing a book. Ah well, as someone once said, "When the going gets tough, the tough get meta" - me, that was me who said that.
+
+So where am I as I write with regard to using the day to move this project nearer towards the dream?
+
+Well, at the moment, I'm trying to add pages to an *Alpha* - this is a term nicked from software development which means a first prototype that *barely* works - that can be shown to users. My way to get there is this.
+
+1. Write the (early) alpha
+2. Work on structuring the alpha so it reads more like a book.
+3. Find some alph readers who are willing to at least start reading it.
+4. Get feedback. 
+
+If you've been paying attention to *anything* that I've been saying so far in this book, you'll realise that this is in direct contradiction with what I've been saying about how project management should happen (this is a very uncomfortable conversation). 
