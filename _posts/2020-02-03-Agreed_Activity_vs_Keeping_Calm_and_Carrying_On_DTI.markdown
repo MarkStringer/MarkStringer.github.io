@@ -68,6 +68,13 @@ One of the things I find it hardest to deal with when I'm managing a team is a r
 
 You know that bit in Star Trek (classic, I never got beyond that) where the Enterprise is hit and the lights dim, or even go out for a second and everybody rolls from one side to the other, alarms start sounding, warning lights on the console start flashing and the team on the bridge start running around trying to fix things. Many people who don't have any direct experience of software development seem to think this is what a software development team that is "working really hard" should look like. And as I'm writing this now, I realise that this cliche is itself taken from an earlier cliche of a submarine been partially hit by a depth charge. 
 
+## Be more boring
+One of the unusual things that the great improvisational innovator Keith Johnstone used to shout at his improvisers was "be more boring." But what he meant by that was not for improvisers to fall into agreed activity, but to "go with their obvious." If a scene is set on a pirate ship, the scene soon becomes very boring if the crew on the deck all agree to mop the decks for an hour. But similarly the scene becomes ridiculous if it emerges that pirate ship is a space ship, that then is all a dream, that them becomes a toothpaste factory. There is even a phrase for this opposite disease to "agreed activity" - "trouble salad."
+
+What Johnson realised through his experiments in improvisation was that realistic, interesting, funny, scenes (the valuable output of comedy improvisation) came from saying obvious things in response to other people's "obvious" things.
+
+And that's what good software development looks like, every day, the members of the team should be exposed a little bit to the challenges and contradictions of the project. That's what the daily stand-up, the emphasis on working software, the show and tell, and the retro are about. It's what coupling software development with continuous engagement with the client and the customers is about. But by making this engagement frequent and continuous, this exposure to the risks of the project should be mostly *boring*, it should be within the scope of the abilities of the team. 
+
 #### What does this piece of wisdom mean for *this* book 
 
 One of the things that I'm most interesting, and occasionally *terrifying* about writing a book (which is a project obviously) about project management is thinking as I'm writing about how it applies to the project of writing a book. Ah well, as someone once said, "When the going gets tough, the tough get meta" - me, that was me who said that.

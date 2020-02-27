@@ -26,4 +26,13 @@ But talking to the people who were involved in delivering these projects, it's o
 
 Murdoch captures in this single line the unpleasant nature of real things - the "wrecks" and that can often be how we feel about them. But it is *really* important not to get too hung up on the beauty of an idea, or get too upset on the ugliness of a wreck, for at least two reasons.
 
-Firstly (and I kind of think this is what Murdoch is saying to herself) if you aren't tolerant of "wrecks", as a team, as an organisation, if you're not prepared to look at wrecks and try to figure out just what is so bad about them, what can be improved, there is no way of getting anything done. That's worth repeating. Without being prepared for the possibility of a "wreck" there's no way of getting anything done. 
+Firstly (and I kind of think this is what Murdoch is saying to herself) if you aren't tolerant of "wrecks", as a team, as an organisation, if you're not prepared to look at wrecks and try to figure out just what is so bad about them, what can be improved, there is no way of getting anything done. That's worth repeating. Without being prepared for the possibility of a "wreck" there's no way of getting anything done.
+
+Second, putting off "wrecking an idea" doesn't stop the idea being wrecked. It just increases the cost, financially, spiritiually and emotionally of deal with the wreck when it appears. Unless of course, the idea is never realised.
+
+But a full understanding of this doesn't stop the emotional impact of the word - "wreck" - it also doesn't stop the emotional impact of looking at early versions of software. They can look quite pityful.
+
+If you're the person who has spent several million pounds on a software development project, or you are the person who has convinced the board to spend several million pounds on a project, it can be a nerve wracking moment to see the first demonstrations of working software. I have seen instances where the first demonstration of working software, several hundred thousand pounds into the spend for the project shows a scree that has one button, the label on the button has a spelling mistake and when the button is pressed, it results in an error. This was obviously a hairy moment for the people who had paid for this project, or the people who had persuaded those people to pay for the project.
+
+And this kind of experience illustrates vividly the contradiction at the heart of delivering the impossible. The only way to effectively deliver *anything* in response to an impossible request is to start to deliver something. But showing that *something* is always going to be inherently threatening to the people who managed to get funding and managment support for the *whole thing*.  
+ 
