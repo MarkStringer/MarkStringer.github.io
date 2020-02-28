@@ -4,13 +4,21 @@ layout: post
 status: alpha 
 ---
 
+# Introduction
+
 > "Aut inveniam viam aut faciam" - "I shall find a way, or I shall make one."
 
 It's six thirty in the morning in London. January 23rd, 2020. I've been doing this Agile project management thing just over ten years. For about seven or eight of those years I've been trying to write a book explaining how to do it. Specifically, I wanted to write a book that somehow captures what it actually feels like. What it's actually like. But also explains to people who might find themselves in the situation of being asked to manage a software development project how best to imporove their chances of making it succeed.
 
 ## Who is this book for? 
 
-Well, it's certainly for me to get clear in my head and then on the page what managing software development projects is all about. 
+Do you have any experience of being asked to deliver something that you are unsure that you can deliver? Well then this book is for you?
+
+Are you asking other people to deliver something that you're unsure that they can deliver? This book is also for you.
+
+This book is *especially* for you if those things that you're being asked to deliver, or the things that you are asking others to deliver are things that could be termed "software development."
+
+And I'm going to be totally frank here. This book is also for me to get clear in my head and then on the page what managing software development projects is all about. 
 
 It's also a guide for people who find themselves in the situation of being asked to managed the delivery of a project.
 
@@ -26,7 +34,7 @@ I'd had vague inklings dealing with contradictions was a fundamental part of pro
 
 The contraction that Kim et al. focus on in their book is the contradiction between a development team which wants to develop and add features and a devops team which wants to keep an application platform performant and stable.
 
-But then I read a book by a former clerk of the equivalent of the Russian Patent Office who has a theory of how inventions work. Genrich Altshuller, in his book "The Invention Algorithm" suggests that one way to discover possible opportunities for invention is to look for contradictions and to state the contradiction plainly. Successful inventions are ones that either allow the contradiction to be more effectively managed or some how manage to remove the contradiction completely. 
+But then I read a book by a former clerk of the equivalent of the Russian patent office who has a theory of how inventions work. Genrich Altshuller, in his book "The Invention Algorithm" suggests that one way to discover possible opportunities for invention is to look for contradictions and to state the contradiction plainly. Successful inventions are ones that either allow the contradiction to be more effectively managed or some how manage to remove the contradiction completely. 
 
 This book has a contradiction as a title because it is about managing contradictions. Maybe this is an unusual thing to admit in the introduction to a book. But this book won't in the strictest terms, deliver on it's promise. Just think for a second, how on earth *could it*. The impossible is literally that - impossible.
 
