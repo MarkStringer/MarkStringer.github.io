@@ -1,0 +1,780 @@
+﻿# Introduction
+
+> "Aut inveniam viam aut faciam" - "I shall find a way, or I shall make one."
+
+I've been doing this Agile project management thing just over ten years. For about seven or eight of those years I've been trying to write a book explaining how to do it. Specifically, I wanted to write a book that captures what it actually feels like. What it's actually like. But also explains to people who might find themselves in the situation of being asked to manage a software development project, how best to improve their chances of making it succeed.
+
+## Who is this book for? 
+
+Do you have any experience of being asked to deliver something that you are unsure that you can deliver? Well then this book is for you?
+
+Are you asking other people to deliver something that you're unsure that they can deliver? This book is also for you.
+
+This book is *especially* for you if those things that you're being asked to deliver, or the things that you are asking others to deliver are things that could be termed "software development."
+
+And I'm going to be totally frank here. This book is also for me to get clear in my head and then on the page what managing software development projects is all about. 
+
+
+## Why on Earth did you pick up this book?
+
+But before we go any further, you have to ask yourself, why did you pick up this book? 
+
+Because this book has a strange title. It's title is an impossibility. I hate to break it to you, but the impossible *is* undeliverable. Why on earth would you pick up a book that promised to be help you do something that is literally impossible? 
+
+Of course, there's a really straight-forward reason why you might have picked up this book - you've been asked to deliver the impossible and so would therefore be quite interested to read a book on the subject. Or perhaps you have recently asked someone to deliver the impossible and you're quite interested to know what the current best thinking on delivering the impossible is so that you can give the poor benighted souls to whom you've given this task some pointers.
+
+I suppose it's also possible that you've picked up this book because delivering the impossible sounds like an interesting challenge. It sounds exciting. 
+
+But here's the thing. Delivering the impossible is a contradiction. It can't be done, but it might sound more compelling and attractive than the thing that *can* be done. But the impossible, literally, cannot be done. 
+
+I'd had vague inklings dealing with contradictions was a fundamental part of project management when I read the "Dev Ops Handbook" (Kim, Humble et al.) and their notion of a chronic core conflict. 
+
+The contradiction that Kim et al. focus on in their book is the contradiction between a development team which wants to develop and add features and a devops team which wants to keep an application platform performant and stable.
+
+But then I read a book by a former clerk of the equivalent of the Russian patent office who has a theory of how inventions work. Genrich Altshuller, in his book "The Invention Algorithm" suggests that one way to discover possible opportunities for invention is to look for contradictions and to state the contradiction plainly. Successful inventions are ones that either allow the contradiction to be more effectively managed or some how manage to remove the contradiction completely. 
+
+This book has a contradiction as a title because it is about managing contradictions. Maybe this is an unusual thing to admit in the introduction to a book. But this book won't in the strictest terms, deliver on it's promise. Just think for a second, how on earth *could it*. The impossible is literally that - impossible.
+
+But what this book will do is guide you and give you understanding of what to do when you're asked to deliver the impossible. What to do deliver a project which may seem initially impossible to the satisfaction of the people who wanted the project initially, the satisfaction of the people who actually have to use the project, and also, important to me, and possibly important to you, to the satisfaction of the people who are actually tasked with doing the project. 
+
+What is it like? Well, mainly, for me? 
+
+***It's emotional, and it's non-sensical.*** 
+
+And I think the current idea for a title that I have for this book "Delivering the impossible" captures this pretty well. I've had other titles. "Late and Over-Budget" was my working title for a long time, "Good enough project management" was another (I literally got laughed at in an interview when I put that on my CV). What you're being asked to do as a delivery manager, project manager, Scrum Master, whatever you're called, what the team that you're working with is being asked to do, is most probably logically impossible. But still, you're being asked to do it. Often (nearly always) there is an emotional side to it as well. What you're being asked to do is "impossible" in the sense that it's overwhelming. 
+
+Periodically throughout these ten years, under a variety of titles, I've tried to explain what the hell is going on when you get asked to manage a project and what you should do about it. The title "Delivering the Impossible" came about when I was thinking that the answer might be in the writings of a Chilean psychoanalyst and philosophyer, Inacio Matt-Blanco and his notions of symmetrical and asymmetrical thinking. And no doubt about it, *some* of the truth is explained by that, but since I wrote that - way, way back in 2016 and 2017, I've had some other experiences.
+
+Firstly, I've been part of a genuinely successful project. I've been involved in projects before that were a success in terms of the money then made or how pleased the users were, but I'd never before also been on a project which genuinely, in its own terms, delivered what was needed, when it was needed without any kind of delay or problem. Part of what was eye-opening about this from my point of view was how important to delivering on time was constant contact with clients and customers.
+
+When I started writing about this "successful" project, I started to realise that what the continuous contact with clients and customers had done is make some of that standard "bad behaviours" of clients and customers, if not impossible, then certainly very difficult. For example, refusing to detail requirements, continuously changing their minds about what is important, insisting on a particular aspects of an interface even though they tested badly. What I started to think was that by doing this we were essentially, from the beginning of the project, crafting an alternative value stream, and I started to see developing a new piece of software as "value stream irrigation" - building a new value stream.
+
+Then, behind this I had another revelation. Part of the problem with software development is not only that you're trying to construct a value stream, but you're trying to *replace* an existing value stream. Frequent, but extrememly difficult examples of this, are software projects that are attempting to "replace like for like." But another kind of displacement is also common. "Funding for idea". In this, successful, project, both of these things were in play. This was the revelation. Managing software development is about managing a transition between "Funding, value, qudos for idea" to "funding, value, qudos for real thing."
+
+What really attracts me to this model of project managment is. Well. This:
+
+***It explains the weird, peculiar and downright bad ways in which people involved in projects behave without having to call them names or thing that they're bad people.***
+
+# Some questions to ask yourself about your software development 
+
+Are you involved in the delivery of software projects? I am.
+
+I’ve put together a list of questions to ask yourself about any project that you’re working on. The answers to the questions are on a 1–10 scale. This isn’t science. It’s mostly about gut feel. The number that floats into your head when you first look at a question is probably the right number.
+
+Q1: (On a scale of 1 to 10) How sensible is the deadline?
+If there’s any description of the deadline as “aggressive” or “ambitious”, that should push the score down. If the deadline hasn’t been in any way informed by how much work there is to do and what the team is capable of, that should push it down too. If there’s no deadline, then score should be really low.
+
+Q2: How reasonable is the list of requirements?
+Add points if you think there’s a list somewhere that roughly reflects what the thing is supposed to do. Score low if it’s a requirements document. Score even lower if it’s a requirements document written by a third party that no longer works on the project.
+
+Q3: How good is the representation of the client?
+Add points if there’s someone you can call a “product owner” or “product manager”. Add extra points if this person is available to the team most of the time. Add even more points if there is evidence that this person is representing what the organisation paying for this software and knows what they want it to do.
+
+Q4: How good is user engagement?
+Is there evidence that the team is taking into account what users want and the team is checking with users how they will respond to what the team builds? Is there engagement with users all the way through the project?
+
+Q5: Technical constraints?
+How easy is it to realise the project technically? Does the team have a platform for development? Is there a platform for release? Are there platforms for testing? Are there any requirements to use certain architectural stacks or certain architectures? Is this causing problems or delays?
+
+Q6: Physical resources?
+Do the team have all the physical resources that they need to deliver what’s required? Do they have an office that they can get into? Is it habitable? Is there a working toilet (true story)? Does the wifi work?
+
+Q7: Human resources?
+Does the team have the right mix of skills at the right levels to do what’s required?
+
+Q8: Value landscape?
+Does anybody want the software that the team are developing? Score this highly if it’s certain that people do. Score it low if there’s either no indication, or the indications are extremely uncertain (e.g. it’s a completely new product that no one has thought of before).
+
+Q9: Management landscape?
+Beyond the product owner, what is the appetite and support for the product? What do senior managers in the organisation think? Score lower if you don’t know or you are certain there is genuine antagonism. Score high if you know that this could really save some CEO’s bacon.
+
+Q10: Independence?
+To what degree is this project independent of other projects or external factors, e.g. interfacing with other systems, licensing by an external regulatory authority?
+
+If you’re working on a project, you could answer all of these questions, divide by 10 and then get an overall score out of 10. If you think back to projects that you’ve worked on, you could do this for one of those. I did this for four projects that I’ve worked on. It was a very interesting exercise. Then next time that I get chance when I’m running training I’ll run it with everyone in the room and see what their score are.
+
+If you just did this for a project that you’re working on, how do you feel now?
+
+My thoughts looking at the scores from the projects that I tried are that any project that scores over 5.0 probably has a reasonable chance of success and projects scoring over 6.0 are the ones that we’d all like to be working on. Any project scoring less than a 4.0 is in serious trouble. But that’s just the averages. If any individual score is below 4.0, that on its own can probably bring down a project. It doesn’t matter how well your project has been implemented if nobody wants it. It doesn’t matter how much your customers love what you’ve done if someone in the organisation is going to make sure that it is never released.
+
+
+# Some more thoughts on the 10 questions
+
+So last week I wrote a blog post with a list of questions that you might ask yourself if you were working on a software development project. The idea was that you score those questions out of ten. This gives you an idea where you should devote your efforts to improve the chances of the project’s success. From the average you can decide whether this is a project that you want to work on, or a project that you want to walk away from, or run.
+
+Here are more thoughts about those ten questions.
+It’s almost nothing to do with Agile
+
+Some kind of flavour of Scrum is how I’m going to do any software development project. In my view, if you’re not inspecting and adapting, you’re going to fail and Scrum is a pretty good way of doing that. But it really doesn’t matter how perfect your methodology is, it’s not going to save you if, for example there’s no contact with the people who are going to use the software. A perfect software development methodology will not make a project succeed if it’s not something that people want.
+Most of the things on this list can’t be improved “At Scale”
+
+Of the ten questions in this list, my view is that only two — techincal constraints and physical resources are kind of thing that can be approved “At Scale.” Big organisations can arrange for office space for their teams. Big organisations can make it easy for their teams to gain access to technology platforms. Of course, big organisations can also make both of these things much harder than they are in a start-up.
+It’s very hard to change the answers to a lot of the questions on that list
+
+Yes, we’re in serenity prayer territory here.
+
+    God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
+
+But let’s go through them one by one — this might take several posts.
+
+The deadline
+
+Question #1 was “How reasonable is the deadline?” The one thing that you will be told is that you can’t change the deadline. The one thing that you probably can change is the deadline. If it’s manifestly crazy and not going to be met, what kind of deadline is it any way? One way to change the deadline without changing it of course is to negotiate the scope of what is delivered for the deadline. Another way to “undermine the deadline” is to deliver some of the scope before the deadline. Negotiating scope? Early delivery of working software? Yes, these are Agile techniques and they can and should be used to challenge, undermine, soften and dissolve deadlines.
+
+The Requirements
+
+Question #2 was “How reasonable is the list of requirements?” You can answer that question with “gut feel” at the beginning of a project, but the only really way of answering it is by trying to develop some of them. Which requirements should you start looking at? If you can’t get anyone to answer that question, that’s an answer in itself. When you start looking at the requirements can you get any answers to questions about the requirements? No? Again that’s an answer. If you try to make these requirements into working software, how is that received? Are there users who are begging to use what you’ve developed? Are you forbidden from showing what you’ve done to anyone (true story)? The best way to improve your requirements is to start to try to turn those requirements into working software. You will learn a lot by trying to do this. You might not like what you learn.
+
+
+# Bricks without straw 
+# What does the 'two-stream' model mean for personal projects?
+## (like writing a book!)
+
+>> When the going gets tough the tough get going - Billy Ocean
+>> When the going gets weird the weird turn pro - Hunter S Thompson
+>> Good, better, meta - Mark Stringer
+
+So writing and thinking about the successful project that I've just been working on got me thinking about this "two stream" model of project management. There's a virtual value stream (I'm still experimenting with the names for these) and there's a virtuous value stream. The first value stream is the one where you get value from the "idea" of a project, the second one is the value stream where you get value from the *reality* of the product. 
+
+One way of seeing project management is as managing the transition between a value stream which rewards the idea and a value stream which rewards the *reality.*
+
+This is a big idea and I was very pleased with myself when I thought of it, for about five minutes. Then I realised that it also applied to other kinds of projects, like trying to write a book about project management.
+
+Saying that you're going to write a book (and I've done this several, if not dozens, of times) gives you a positive boost. Starting writing the book, similarly, has positive feelings associated with it. Even, as I managed on the previous attempt at a book called "Delivering the impossible." Sharing chapters online can get positive feeback from friends and supporters. But pretty soon after that, the positive reinforcment runs out. The difficulties of expressing the ideas that you've either only explained to yourself, or managed to make sound plausible in a conversation in a cafe or a pub, now have to be commited to paper. And when you hit this plateau, it's *very* easy to give up.
+
+So, I'm going to get back to software development in another post, but for now, let's just think about how I might manage getting a book about software development actually delivered. 
+
+I'm brainstorming now. 
+
+1. Actually get a publishing deal! If someone gave me some money to write the book, that might be an incentive to finish it. 
+2. Capture actual progress - how many words written (I do this with my walking and my weight)
+3. Deliver something that works early (this is nicked from software development) 
+4. Establish a "no matter what" routine (again this is nicked from software development)
+5. Work towards a reasonable deadline, or a series of reasonable deadlines.
+6. Work at a sustainable pace
+
+
+# The Switch 
+
+Think of project management as a big switch. When the project is turned to "Not Done" there'd be a temptation to imagine that the project isn't generating any value. But that's not true, in a way, it would be better if it were. 
+
+People like big ideas. The people who fund projects like big ideas. People who fund projects like positivity. There might be other reasons. Let's say that "app Q" has been a very big success for another company. Then a project that describes itself as similar to "app Q" might get a lot of support and interest.  Let's say "app R" uses "technology k", or a "technology format F" that other high profile successes have used recently, then anyone proposing "app R" using "technology format F" could get funding, support, and goodwill. 
+
+Having a "delivery capability" as an organisation is about having the strength to push the switch to done.
+
+# Why are you doing this?
+
+Why would I write a book? Well, for some reason, I feel embarrassed to admit it, but I think it might be quite nice to have *written* a book. That's one reason. And that is very much a "switch all the way over to done" value. 
+
+Why else might you want to write a book. Since he idea first came into my mind, one of the reasons for wanting to write a book is that my experience of project management is that it is a messy, emotional and *unreasonable* business. This is in sharp contrast to most of the descriptions of project management methods and cetainly all of the training courses.
+
+So, this is a value for me, but it still seems like a less vain and self-centred value. I wanted to write a book about project management that in some way acknowledged the experiences that I'd had managing actual projects.
+
+Lastly, but most importantly, because this is where this book might, will be valuable to other people, I wanted to write a book that talked about project managment in a way that made it easy for smart people to do smart things rather than dumb things when they are delivering projects, or asking other people to deliver projects. 
+
+Because most of the skills that I talk about in this book, "emotional management", "mustering resources", "talking to C-level people", "talking to users", "product management" not to mention "software development" and "dev ops" are skills that I either don't have, or don't have in ambundance. But what I *do* have is the ability to see beyond the dream which has attracted the funding for a project to the reality of what needs to be done to delivery and see the gap between those two things. My thinking is that if I can explain to talented people the nature of that gap, why it's there and how to go about bridging it, then cleverer people than me will do far better than I can at move projects from the dream state to the real state where they are either delivering value for their organisations or are being swiftly forgotten. 
+
+
+# Project Management Is About Managing Contradictions
+
+The title of this book is "Delivering the Impossible." And something that it's really important to understand here is that:
+
+***It's impossible to deliver the impossible.***
+
+But it somehow seems more exciting, more of a "rewarding challenge" than merely delivering the possible. "Delivering the Possible" doesn't sound like such a great title. Deliverying the possible sounds quite dull, it sounds like a 6 out of 10 in your performance review, quite possibly with the recommendation that you attend a time management course and pay closer attention to your personal hygiene. But this dull sounding, second division, not as sparkly, not as shiny option, the possible, has one quite important redeeming feature.
+
+***It can actually be done.***
+
+ Project management is riddled with contradictions. This is because project management is about managing the conflict between what we want and what we get can get. 
+
+The main contradiction that I talk about in this book is the contradiction between the method of getting money, support, value and approval for a project and the method of implementing that project so that it can generate money, value and approval. One thing I find about these contradictions is that they very elusive, so I'm going to have another go at stating this one. Maybe by telling a story. 
+
+Let's meet Geoff. Geoff has an idea for a project. Geoff puts some ideas into a slide presentation a delivers his presentation to the board. To Geoff's surprise the board give Geoff £3M pounds and a year to turn his idea into a working project. 
+
+What Geoff doesn't know, is that the board have seen analysis that their core business isn't getting return on investment that it was. Geoff's idea is in a field that is moving fast and looks like it might be a winner. Is £3M pounds a lot of money? It is to some people, but in terms of the overall accounts of this particular business, it's not a lot of money. They can afford to lose it (although of course, they'd rather not).
+
+But now, Geoff *really* has a problem. In a year's time he needs the project to be online and working - and at least *look like* it can pay the board's three million pounds back. So he starts to spend the money, gets himself a nice big office. That takes longer than he thought, several months. This also takes longer than he thought. And he really has no idea what the right kind of people are to hire to build his idea. Already, he's three months into project, he's spent nearly a third of the money! And he's got precisely nothing.
+
+Then the questions come. Which technology should we be using for the font end? Who are we going to work with on the back end? In the market there are people offering what we're offering already. How should we compete? Some of these are technical questions that he can hand off to the new technical people that he's hired. I mean what the hell is a front end? He didn't hire the most expensive people he could find, he hired people who were slightly cheaper, simply because he couldn't *believe* how much the most expensive people cost. Some of these questions, he knows are for him, and he also knows that he can't provide answers. He realises something that he's only vaguely had to deal with before he got this "big break." He's a *salesman*. Putting together business models, hiring technical people, those aren't his skillsets. 
+
+Somebody had told him that the way to do a software development project is using Agile, and if you're going to do Agile you need to have someone called a "Product Owner." So he hired one of those. He literally had no idea what the things were on the guy's CV, so he picked Pete, the guy he thought would be toughest with the team. Unfortunately this guy is being pretty tough now with *him* asking him to prioritise the list of things that need to be done. What? He wants it *all* to be done. He wants all of this to be over so that he can see if there's a chance of his idea making money. Instead, he has to hire a Scrum Master. 
+
+He literally has no idea what that is. But at this point in the project he has budget so he tries to hire the best that he can (yes, I know that wasn't his strategy with the development team). 
+
+The result is that he hires a "name" Scrum Master, Susan, someone who has written a book on how to be a Scrum Master - so they must surely know what they are doing - right?
+
+The relationship between Geoff and the Scrum Master pretty much goes down hill from there. They never really get over early tussles and misunderstood conversations. If we were doing a movie of this story. At this point there would be a montage with the following scenes merging into each other.
+
+* Repeated attempts by Pete to get Geoff to decide on a priority
+* Pete going back to Susan and shrugging
+* Pete eventually deciding on priority
+* Pete and Geoff arguing, Geoff saying "what do you mean? Minimum viable product?"
+* A first attempt at figuring out how long the project might take that Susan makes that Geoff seizes on and takes to teh board as the date when the project will be live
+* Quite nasty fights in the development team about approaches to technology - made worse by the fact that the most sporty and "manly" member of the development team has Geoff's ear.
+* Susan running from the building in tears, ringing Geoff from a nearby bar and quitting.
+* Geoff isn't comfortable around the new development team that he's hired, so he goes back to what he knows - sales. He is in the middle of a meeting with another website that aggregates products like the one that he's pushing when one of the executives on the other side of the table asks him a question. 
+"You've got regulatory approval for this haven't you Geoff? Because if you haven't, we can't really talk until you have."
+No. Geoff doesn't have regulatory approval. Regulatory approval will take minimum six months. 
+
+Reader, I wasn't Susan. I was Susan's replacement.  
+
+# Trench Warfare
+> "In football everything is complicated by the presence of the opposite team" - Jean Paul Sartre.
+
+What you are wanting to avoid. At least what *I'm* wanting to avoid, in a project is trench warfare. My definition of trench warfare, is this:
+
+Trench warfare is a situation where any progress or any increase in value is extracted only at an enormous cost and only very slowly. It's also in the nature of trench warfare that any gains that might be made also open up the possibility of substantial losses. 
+
+In war, these forces that are opposed, are, of course, literally forces. But of course, above both of the dug-in, opposing forces is a big idea - the big prize of winning of being the victors. 
+
+In a software development project, there's similar three way dynamic. We have the team that is trying to make the software happen and they are opposing a deeply powerful force - *reality*.
+
+The real question about trench warfare in software projects is why they're so attractive to senior management. Which I suppose might be related to the question of why attrition wars are so attractive to Generals.  
+
+# There is a *Lot* of Good News
+
+What if you did pick up this book thinking that it *would* do what it exaplained on the cover and explain how to deliver the impossible? Or what if you thought that it might be like many other books on project management, explain some kind of rigid (yet, also, somehow vague) process and claim that if you follow that process closely, you are guranteed to succeed. If you expected either (or both!) of those things from this book, you might be feeling let down at this point. 
+
+But don't be. There's a *lot* of good news. 
+
+## You're better at a lot of this than I am
+
+One of the uncomfortable things that I've come to see as a result of seeing what project management is *really* about and what it is that I'm *really* doing, is that a lot of the skills that are needed for good project management aren't things that I'm particularly good at.
+
+### Talking to C-Level people
+I know you're better at this than I am. How do I know? Because I'm terrible at it. I wish I were good at it but it just isn't my thing.
+
+### Identifying Issues that are Blocking the Team and Getting them Fixed
+I'm *OK* at this - I'd give myself a 6 or 7/10. But there are a lot of people who are a *lot* better at this. I know *lots* of better at this than me. 
+
+### Talking to Users and Customers
+At least with this one I can claim that this isn't my skill set. But what I've come to realise is that without ongoing, if not constant contact with customers and users throughout the development of the software, the product value stream doesn't get built. Also, the subtleties of the funding value stream and how transfer to the product value stream can be managed don't show themselves.
+
+### All the Technical Stuff
+If you've got any technical facility, you've probably got more than me.
+
+### So what *ARE* you good at?
+> I don't solve people's problems, I just televise them - ***Jerry Springer (In Jerry Springer the Opera)***
+
+I'm not special, there are a lot of Scrum Masters, Delivery Managers, Agile Project Managers who can do exactly what I do. How do I know? Because when I talk to them about the projects they're working on, or they talk to me about the projects that they're working on, we talk about the same things: "Ambitious timescales", "Lack of access to customers", "Lack of access to subject matter experts", "Lack of access to environments." Long sign-off or approval processes.
+
+None of us are special (OK, some of us are *really* special, but for very different reasons). But what we are doing is using mostly Scrum and mostly Extreme Programming methods, to get us to prioritise what needs to be delivered, throw up the problems that might stop those things from being delivered, and then having solved those *deliver* software that can actually deliver value.
+
+Oscar Wilde really did say "We are all in the gutter, but some of us a gazing at the stars." What's my superpower? ***Looking in the gutter!*** Because I know that the only way to actually survive is to clean any blockages out of the gutter an make sure everything is flowing smoothly.
+
+# The Air Steward and The Debt Collector
+
+> "If you can keep you head when all about you are losing theirs and blaming it on you." - Rudyard Kipling.
+
+Spending money on software development is an expensive business. And because it's expensive it can be risky for the bottom line of a company, for the career and reputation of the people who have championed the project. At certain points in a project the news can be bad, and people can react to that new emotionally.  
+
+Flying isn't really a risky business. There's a risk involved but, statistically, it's very small. Still people do get very upset about flying. And that upset can show itself in many ways. The job of the air steward is to manage the emotions of their passengers. When their passengers get upset to soothe them, and also, above all, to maintain an appearance of calm themselves.
+
+Being an air steward is, obviously, a job. And the writer Arlie Russell Hochschild has made a very good case for a substantial part of that job being the work of managing emotions - "emotional labour" as she calls it. Emotional labour is about helping others to maintain - or regain - a positive emotional state, whilst at the same time, at least outwardly, maintaining a positive emotional state yourself. 
+
+Once you're familiar with the idea of emotional labour, you start to see it everywhere. You see it in other types of work and professions, doctors, lawyers, waiters, shop assistants, hair dressers. But you also see it in your own life, both in your personal life when pretending to enjoy yourself at some awfully boring social occasion, or maintaining a cheery demeanour while visiting the sick. But also, of course, you see it in your work life. 
+
+"Keeping your head while others are losing theirs" is definitely part of being a project manager. Hochschild's book also deals with the careers and the occasions when certain professions have to project a more negative emotion. Debt collectors can't be swayed by sob stories. Doctors, lawyers and accountants have to give their clients bad news.
+
+This is definitely a part of being a project manager. And in books, presentations, training courses and discussions of the various Agile methodologies this is rarely, if at all, discussed.
+
+And I'll admit that at least some of the time, I'm not good at it. I was kicked off of a government project after two weeks, I was subcontracting to another company, and it nearly lost me my job with them (I'd only been working with them for the same length of time). For a long time after this very negative experience, I would explain that experience as being the result of pointing out that the project couldn't possibly be delivered by the deadline. That was certainly part of it. But the other part was that the naive, and scared product owner, who was starting to realise that the project couldn't be delivered by the deadline, said something which was to my mind idiotic and infuriating in the stand-up and rather than keeping my head, I got annoyed in response. I was out the next day. I've never admitted that before.
+
+It took six months to kick me off another project after I had a very similar conversation with a naive, inexperienced (are you starting to see a pattern?) project director who wanted me to promise that a project would be released by a specific date. 
+
+Only now, as I write this, am I starting to see that the governing factor in whether these "crunch" meetings go well or not might well be the level of experience of the people who are being told the bad news.
+
+In the successful project that I worked on recently, there was a similar "crunch" meeting. Quietly, over a period of several weeks, I'd put together a burn-up chart showing how much work there was and how much work we had done. For those of you who know about Agile, the way that I did this was a bit unconventional. We didn't really have a backlog of all the stories that needed doing - we were pretty creating the stories for a sprint at the beginning (in the middle) of a sprint. And we weren't estimating anything. So what I did was have a meeting with the team where we made a list of all the epics that needed to have been done by the time that we went live. I think that might have been one meeting. 
+
+Then in another meeting I got the team to estimate the complexity of these stories using fibonacci comparison. That gave me a total for the backlog. Then, once a fortnight I had a "mid sprint check" where I asked the team to tell me roughly what percentage "Done" each of the stories was. 
+
+This project had a hard deadline. Pretty much on one day, the old system was going to be turned off and our new one was going to be turned on (I know, I know this is crazy, in the end, we did mitigate this with a phased delivery).
+
+# The Sociopathic Distance
+
+When this piece is in a final publishable form, that probably won't be the title. Because this is a particularly prickly notion. 
+
+I'm just going to come out and say it. Projects go well, projects go badly. A true sociopath will make sure that they are closely associated with any project that goes well, they will also make sure that they are nowhere to be found when a project goes badly. We all know a person like this. We all know a project that has had torrid troubled times and then, when it turns around, suddenly people start appearing who claim to have been involved in the project all along. 
+
+Similarly, we all know of projects where, as it becomes abundantly obvious that the project is going to be a failure, there are all of a sudden very few people who can remember that they were ever involved in it. 
+
+And there's a general view that this is a bad way of behaving (for a long, long, time, that was my view). But is it?
+
+Moving towards praise and avoiding blame, that's a sensible thing to do, isn't it?
+
+What's the alternative? Avoiding praise? Seeking out blame? Taking only the praise and blame that's due to you?
+
+OK - let me tell you a story. I worked on a project that was successful, delivered on time, delivered on budget and well-received by its users. Your estimation may vary as to how unusual that is. Let me tell you this extra detail. It was a government project. Yes, it's unusual. It happens. But not very often.
+
+A really important part of why the project was successful was the product owner. She had been a clerk of the court (they were the people who would be the users). The official line, conventional, Agile thinking is that the product owner should be close to the team. But this product owner didn't do that. In the early days of the project, when the project was wrestling with the kind of "blockers" that most government projects were dealing with in the mid-teens of the twentieth century - lack of access to environments, insistence that projects could be done for nearly free with open source off-the-shelf software - the product owner got herself an early demonstrator of the software on her laptop and took it on the road to show to her former colleagues. For a while she turned up for the key meetings (planning, show and tell) but then after a few, very awkward early meetings where the team wasn't showing much progress, she started to send a deputy.
+
+But this was a well-run Agile project, so the issues that the team needed to tackle came to light early in the process when there was enough time and resources to address them. The effort required to customise the open source software was sized and extra resources agreed. The product owner started turning up to show and tells, planning, and even sometimes stand-ups.
+
+As the project started to show itself to be a success, the product owner started to associate herself more closely with it. 
+
+It might be tempting to disapprove of such behaviour, but there are several reasons that this kind of behaviour might be worthy of approval.
+
+The first is that when she was away from the team this particular product owner was doing exactly the right thing in terms of manipulation of value streams. She was spending as much time as she could with the people who would actually use the system that was getting developed and she was showing them prototypes of the software. So, while the product owner was away from the team she was doing exactly the kind of "value stream irrigation" that is necessary to make a smooth transition from funding value stream, to product value stream. 
+
+The second is that, if the project had been a disaster, in terms of her career she'd done the right thing. She'd kept on good terms with her constituency, and if things had gone wrong, she would have been able to shrug her shoulders, and be disappointed but nobody would have been tempted to put the blame on her.
+
+In his book "The Innovation Algorithm", Genrich Altshuller identifies an essential inventive step as being the removal of a contradiction. He also admits that many successful inventions are less transformational, but still valuable because they manage a contradiction. 
+
+We've already discussed one contradiction, which is central to this book: the process that got the money to start a project isn't the process that will get project done so that it can pay back that money.
+
+This is contradiction is certainly related, but managing it is different. Put bluntly, just to get it out on the page, it's like this.
+
+***Someone who instigates projects who has no reponsbility for failure and take unwarranted responsibility for success will be an utter disaster.***
+
+But 
+
+***If all captains go down with their ships, either captains will be very, very, careful, or there won't be many captains***
+
+Projects are a risky business. 
+
+# A Brief Aside - It's not the End of the World
+
+Of course you want your project to be a success, but every now and then it might be worth just walking through why it won't be the end of the world if it's the end of this project. 
+
+Of course, there will be certain people who want to "up the stakes" and make it sound like it *will* be the end of the world if a project isn't delivered on time. 
+
+But if a project *is* failing, here are some things that you should *absolutely* do and in this order.
+
+1. Look after your health
+No need to go a crazy diet, no need to signup for an ultramarathon. Maybe some need to go for a stroll at lunchtime or do whatever mild exercise it is that you've done in the past (I got through the worst project that I've ever worked on with yoga).
+
+If you see any indications that your health is suffering, get them checked out.
+
+2. Look after your relationships 
+Meet people for lunch, meet people for a drink after work, meet people for coffee. Make sure these are non-work people. 
+
+3. Look after your network
+Go to a meetup. Go to a conference. For me, there are two kinds of conferences, punters (people who you might work for) and practitioners (people who do what you do). 
+
+4. Look after your career
+Go to a meetup, pay for yourself to go on a training course if the company that you're working for won't pay for it.
+
+5. Have the courage to do absolutely nothing
+Sit around and slack. 
+
+6. Creative playdate
+The is an idea that I got from reading "The Artist's" way - but this isn't just for creative people. This is just doing *something* that's for you. 
+
+This is what's going to happen if this project fails: you will get a job on another project.
+
+This is also what's going to happen if this project fails: you will have more experience which you will be able to use to either 
+A. Make this project more likely of success
+B. Realise that this projec isn't going to succeed and get out it and move on to something more promising.
+
+# Agreed Activity vs Keeping Calm and Carrying On
+
+This is another contradiction. 
+
+"Agreed activity" is an idea that I've got from theatrical improvisation. It's when the improvisors who are on stage agree to do something which, from their point of view feels safe, but from the point of view of the audience looks boring.
+
+In improv this often turns out to be some kind of long, repetitive activity. If the setting for the scene is a ship (which could sail anywhere and encounter any adventures) an agreed activity might be something like scrubbing the decks. If the setting is a mountain, it will be repetitive climbing, but never getting to the top. 
+
+Agreed activity is repetitive and everyone is doing the same thing. Well. It looks like everbody is doing something but if fact they're doing nothing. And this is safe for the improvisers on stage. 
+
+The reason improvisers do this is because they are scared and their fear makes them come up with amazingly inventive ways of not being changed. Swabbing the decks makes them feel safe - encountering a storm - or noticing the tentacles of a giant octopus coming over the sides of the ship wouldn't make them feel unsafe, it would mean that they would be changed. 
+
+In software development, agreed activity is also a possibility. In "traditional" waterfall software development projects, requirements were gathered in the abscence of the developers and then the software was developed in the abscence of the business analysts. Both of these are agreed activities. The result of this approach was that a large number of projects didn't even get released, they simply ran out of time and money without ever being used. 
+
+When I run training courses to introduce people to the idea of Agile, I often talk about the first two projects that I worked on as a software developer. Both of those projects followed a "traditional" waterfall project management approach. One was an accounting system for a major oil company, the other was a simluation system for a weapons system. Both projects at the end of the waterfall process had gone through a crucial extra phase: crisis and the threat of litigation. 
+
+Gathering requirements withouth any attempt to test those requirements by developing them into design prototypes that can be shown to users, or working software that can actually be used is avoiding conflict and hence, avoiding change. It's safe. It's an agreed activity. Coding those requirements without any attempt to deliver working code that could actually be used by users is avoiding conflice, avoiding change. It's safe. It's an agreed activity.
+
+## Why not be "safe", "safe" sounds good
+
+But why shouldn't we play it safe? Safe sounds good. OK, rockstars, war heroes, explorers, might seek out danger, but is there anything wrong with wanting a quiet life? Isn't one of the "Agile principles" sustainable pace - the idea that the team should be able to carry on working at the pace that they're working for the long term, no late nights, no working weekends, no heroics. 
+
+There's absolutely nothing wrong with wanting a quiet life. But there are serious problem with the kind of quiet life that comes from this kind of approach - if often ends badly. Either the project gets stopped, or the quiet life is followed by a phase of trench warfare.
+
+The only alternative to agreed activity isn't the chaos of trench warfare (which is actually just another form of agreed activity). An other alternative is to provide little windows for trouble, chaos and conflict inside a more solid structure. 
+  
+## Agreed (Opportunities for) Conflict
+
+Show and tells, standups, and retrospectives provide agreed opportunities for "small batch" conflict. This is potential conflict between the view of the world that's held by the delivery team in their understanding of the project, their understanding of the project captured in requirements and their understanding of the project captured in working software. To this list now, following my recent positive experiences, I would add regulat user testing with users of both design sketches and working software.
+
+If a development team runs itself like this, the conflicts between the aim, goals and dreams of the project and the reality that is being delivered are present every day. Similarly, any conflicts between the team's understanding of the project and the reality of what the client and users actually want is highlighted nearly every day. This could potentially be unnerving. But the way to prevent it from being unnerving is to maintain a rhythm, a different kind of "agreed activity" in which surprise and conflict can arise in small amounts.  
+
+For the two weeks (or however long) of a sprint, the team works on the list of things that's been agreed in that sprint. The meetings are short, they happen at reliably understood times (e.g. every working morning at 9:58, or every other week on a Wednesday at 10:30). They happen in a place which is easy to know and the thing that's supposed to happen in the meeting happens in the meeting. 
+
+When I'm managing a project, I want those meetings to become regular, a habit, second nature. That's so that when things get stressful, or when unexpected, emergency stuff is happening, those meetings still happen. 
+
+Often in such situations, there will be somebody, it might be a senior member of the company, it might be one of the members of the team, who tries to say that we're too busy to have stand-up, or we're too busy to have planning, or it's a waste of time to have everyone turn up to the show and tell. But when that happens, I want there to be such a habit, such an inertia to the "agreed activity" that it's difficult to dislodge. 
+
+## So here's another contradiction - or at least a paradox
+
+The relaxed, repetitive, low stress actions of an agreed activity aren't the problem. The problem is the *kind* of agreed activity. Some agreed activities, the kind we fall into naturally when put under stress tend to avoid risk and avoid change. This is like driving without looking out of the window - it might be fine, but it could be ( it probably will be) catastrophic. But most of the time when we're driving in the right direction and *not* crashing into things we want to be relaxed and doing movements that are well within our capabilities.
+
+So, if we just look at our actions, the actions that are good for a project and the actions are that are bad for a project might *look* very similar. In fact, it's worse than that. Because a project team that's actually doing the right thing will be more obnoxious than a project team that's doing the wrong thing.
+
+A project team that's doing the *right* thing will be reporting (initially at least) a relatively endless stream of problems. Technologies that don't work, people they're supposed to talk to who won't talk to them. Interfaces that turn out to be way more complicated than anyone expected, regulations or even legislation that needs to be complied with that nobody thought about. So here is the heart of another contradiction. A project that "as far as you know" is going well, has a much higher chance of going badly than a project from which you're hearing a lot about - but mostly it isn't good news. 
+
+What we need is relaxed regular actions that reduce the risk of a project and increase it's potential value in small ways.
+
+## The dream and the day
+
+What if we say that project management is about connecting "the dream" (the vision for the project) and "the day" - the time, TODAY! That you have avaialable to move reality just that bit nearer the dream. The difference between agreed activity and relaxed, regular, opportunities for conflict, is that one is moving the project day by day nearer to the dream.
+
+Agreed activity is a self-protection mechanism for the team, they feel there is safety in numbers and agreeing what to do stops them from being changed. But in the same way, the people who are associated with the dream don't want the dream to be changed. 
+
+## A Brief Note About a Relaxed Team 
+
+Software development isn't war. Software development isn't mining. Software development *is* hard work. But *good* software development isn't going to look like a lot of people's idea of what hard work looks like. 
+
+It's very difficult not to react in a negative and emotional way when you're asked to deliver the impossible. And if you're thinking of asking someone else to deliver the impossible for you, you sure also bear that in mind.
+
+One of the things I find it hardest to deal with when I'm managing a team is a request, from the client, the customer or sometimes even from someone further outside the team in the wider organisation that the team should look more *busy*  and more stressed. Of course, this isn't an impossible request. It's possible for a team to look stressed, it's possbile for tension to be heard in their voices, for arguments to breaking out. 
+
+You know that bit in Star Trek (classic, I never got beyond that) where the Enterprise is hit and the lights dim, or even go out for a second and everybody rolls from one side to the other, alarms start sounding, warning lights on the console start flashing and the team on the bridge start running around trying to fix things. Many people who don't have any direct experience of software development seem to think this is what a software development team that is "working really hard" should look like. And as I'm writing this now, I realise that this cliche is itself taken from an earlier cliche of a submarine been partially hit by a depth charge. 
+
+## Be more boring
+One of the unusual things that the great improvisational innovator Keith Johnstone used to shout at his improvisers was "be more boring." But what he meant by that was not for improvisers to fall into agreed activity, but to "go with their obvious." If a scene is set on a pirate ship, the scene soon becomes very boring if the crew on the deck all agree to mop the decks for an hour. But similarly the scene becomes ridiculous if it emerges that pirate ship is a space ship, that then is all a dream, that them becomes a toothpaste factory. There is even a phrase for this opposite disease to "agreed activity" - "trouble salad."
+
+What Johnson realised through his experiments in improvisation was that realistic, interesting, funny, scenes (the valuable output of comedy improvisation) came from saying obvious things in response to other people's "obvious" things.
+
+And that's what good software development looks like, every day, the members of the team should be exposed a little bit to the challenges and contradictions of the project. That's what the daily stand-up, the emphasis on working software, the show and tell, and the retro are about. It's what coupling software development with continuous engagement with the client and the customers is about. But by making this engagement frequent and continuous, this exposure to the risks of the project should be mostly *boring*, it should be within the scope of the abilities of the team. 
+
+#### What does this piece of wisdom mean for *this* book 
+
+One of the things that I'm most interesting, and occasionally *terrifying* about writing a book (which is a project obviously) about project management is thinking as I'm writing about how it applies to the project of writing a book. Ah well, as someone once said, "When the going gets tough, the tough get meta" - me, that was me who said that.
+
+So where am I as I write with regard to using the day to move this project nearer towards the dream?
+
+Well, at the moment, I'm trying to add pages to an *Alpha* - this is a term nicked from software development which means a first prototype that *barely* works - that can be shown to users. My way to get there is this.
+
+1. Write the (early) alpha
+2. Work on structuring the alpha so it reads more like a book.
+3. Find some alph readers who are willing to at least start reading it.
+4. Get feedback. 
+
+If you've been paying attention to *anything* that I've been saying so far in this book, you'll realise that this is in direct contradiction with what I've been saying about how project management should happen (this is a very uncomfortable conversation). 
+
+# Junk Project Management
+
+Junk bonds are a financial instrument that allows people to trade in IOUs from corporations. Because there is the possibility that a corporation might not pay the IOU. Bonds allow trades in the likelihood that a corporation will pay off its debts. For a long time, the trade in bonds had been quite sedate until someone realised that bonds that people in the market *didn't* think would ever pay off (these were referred to as 'junk' bonds) were performing better than bonds in the market that people *did* think would pay off.
+
+Then things got really wild. Some bond traders realised that if they could take control of a company that had bonds that were likely to pay off, they could then have that company borrow lots of money so that it's bonds became "junk" rated. Eventually the whole business ended in tears, with the one of the men who basically invented the Junk Bond market ending up in jail. 
+
+"Why are you telling me this?" you might ask, just as you might ask a rather intense gentleman who sits next to you on the bus and starts an unpromted conversation. 
+
+Well, I suppose part of this is a note and or a question to myself.
+
+Firstly:
+
+>> Are there such things as *junk* projects - i.e. projects that look like they're likely to fail?
+
+Secondly:
+
+>> Could some of those projects actually be more successful and/or more rewarding to work on that projects that look like they might be a success?
+
+Thirdly:
+
+>> If the second question is true, is there some way to deliberately *junk* a project - that is change a perception of perceived success into a perception of perceived failure?
+
+Finally: 
+
+>> Let's just make sure that whatever we do, that no one goes to jail (no one we like, anyway). 
+
+## How to junk a project
+
+### 1) Find out how much work is involved 2) Show actual progress through that work
+
+One straight-forward way to change the perception of the likelihood of success on a project is to make a list of all the things that need doing on a project, get some idea of how big those things are relative to each other and then show what is the project's actual progress through that work. 
+
+### Describe any immovable obstacles
+Is there anything that is completely stopping your project from ever being a chance of success? For example, have you been forbidden to talk to the people who can tell you what the product should do? Or have you been told that the product will have to interface with a database that you know doesn't exist and there are no plans to build (both of those are real examples, from a real organisation). Have you been forbidden to talk to users? Is platform supposed to be hosted on a server that no one in the organisation has ever managed to procure and make ready for live? 
+
+### Find out how similar projects performed
+This is a fascinating one. Because, according to the Nobel prize-winning author Daniel Kahneman, how other projects in an organisation perform is probably the best guide that you have to how your project is going to perform. At the same time, my experience is that if you ask this question anybody who might actually know how previous projects performed will either feign ignorance or amnesia about how they performed, or have a really very good explanation (in that it's enthusiastically and optimistically expressed) about why this project is different.
+
+### Describe the value stream
+
+## You (probably) won't end up in jail, but you might get kicked off the project
+When you start to junk a project, the authorities will try to stop you. 
+
+Oh shit, I've realised that I could do this for *this* project (delivering the impossible).
+
+# Identifying Contradictions is a Good and Scary Thing 
+
+There are no contradictions in nature. Contradictions only exist in our models of the world. Contradictions arise from one part of our model not aligning with another part of our model. 
+
+What this means is that when we unearth a contradiction, we *should* be very pleased. Because what it tells us is that our models are wrong in some way and it gives us some chance to amend our models.
+
+Unearthing a contradiction tells us that our map is wrong in some way. Very often our first reaction to this can be denial. The map isn't wrong. The map *shouldn't* be wrong. As with Elisabeth Kubler-Ross's stages of grief, the next response is often an emotional one. The map "can't be wrong", what the hell are we going to do if the map is wrong? Why the hell didn't anyone tell me that the map is wrong?
+
+The hardest, but most important thing to remember about contradictions is that they are the universe telling you something. But often expression contradictions and acknowledging them can seem utterly disabling. 
+
+The main contradiction that we've unearthed in this book is that the process for getting resources to do a project (the funding value stream) is threatened and attacked by the actual process of implementing the project and getting value from what the project produces (the product value stream). 
+
+One response to this contradiction could be denial "I don't see that as a problem in my organisation," or "I've never seen that as a problem on all the successful projects that I've delivered." Well, I'm sorry, but I don't believe you.
+
+Another response might be anger and frustration followed by, or accompanied by despair and depression (yes, I know it mirrors the Kubler Ross a bit, but I can't see where the bargaining comes in).
+
+But beyond all this comes acceptance. Once we've noticed the contradiction, we can start to manage it. 
+
+You would think. 
+
+But that's not my experience, even with myself. Contradictions are slippery, they want to hide. They are difficult to communicate with other people. We don't naturally think in contradictions. That is, well, we know that we do *acutally* think in contradictions, but we don't like to *think* that we do. 
+
+Rather, in situations where we're talking about work, we tend to like to talk in absolutes. "On time, to budget.", "Error free."
+
+## Koans
+
+In one of the main schools of Zen, which describes itself as a "Way of Liberation" rather than a religion or a philosophy, one of the ways in which spiritual enlightenment is acheived is through the contemplation, discussion and direct exprience of "koans." It its simplest translation, "koan" means "case" - as in a legal case. Probably the most famous koan, which many people who might never even have heard of Zen might know is "the sound of one hand clapping" which is one of the first koans presented to students of Zen.
+
+# What if I junk my own project
+Today is Sunday February the 9th
+
+So I don't know if this is already to "meta" but yesterday when I was writing about junking my own project, but I had the rogue thought that I could do the same to this project - writing this book. 
+
+### 1) Find out how much work is involved 2) Show actual progress through that work
+I don't know how much work is involved. I'll know more after I've made it to the fifty page alpha. 
+
+#### What is your actual progress compared to reality?
+* So far I've written about 12 pages (8-9 percent of what is needed - but it's not in a fit state for publishing).
+
+### Describe any obstacles
+* I'm busy with at least three or four other things (Greek, work, comedy, walking). 
+
+* I don't have confidence/experience that I can actually deliver a book.
+
+#### What are you doing to discover obstacles?
+Well, I'm doing this, which I didn't think I would do.
+
+#### What are you doing to address/remove obstacles?
+Truth be told, nothing much at the moment.
+
+* I do have this idea of asking people to be alpha readers - I think that might be Steve and Themis.
+
+* Before I can show anything to alpha readers I need to get into the habit of printing some of this out and editing it on the bus
+
+### Find out how similar projects performed
+I know that similar projects that I've done have run into the sand. I have 10-50 pages of several books. I can't even tell you why they stopped at that point. They just kind of gave up the ghost. One thing that happens is that my work situation changes and so I my work rhythm is different or I have far less time and the book stops at that point. The other thing that happens is that the book gets to a length where it becomes unwieldy.
+
+I don't know what the structure is, I fear that I've run out of things to say. The phrase that has just popped into my head is that "I get to the edge of the desert and get scared and go home."
+
+#### What could you do differently to make sure that your project has a better chance
+
+### Describe the value stream
+People who are actually have the job of delivering projects and people who want other people to deliver projects for them read the book. As a result of this several things happen:
+
+1) They recommend the book to other people - so I sell books
+2) They still struggle so they ring me and I do consultancy for them
+3) I end up running workshops and courses
+
+#### What are you doing to improve the value stream
+I've done one thing so far, which is to talk about it at Agile Stand-up. The next thing that I need to do is to recruit "Alpha Readers".
+
+### What nagging doubt do you have about this value stream? 
+E.g. with a the personal loan project that I worked on the nagging doubt was that there was no way to make it profitable.
+
+With this book, there's the nagging doubt that I would put enormous amounts of energy into it and not only no-one would read it, but no-one get to hear of it, which is even worse.
+
+There's also a nagging doubt that it's not the kind of non-fiction book that I'd like to *read*. I read and enjoyed Extreme Programming Explained, I read and enjoyed Scrum and XP from the trenches. I'm reading and enjoying "A Life of One's own". Would it be anything like that? I think if it is going to be like that it has to have a way of bringing people, almost hypnotically into every chapter. 
+
+### How will you know when you're done?
+
+I'll have a 150 page e-book that has an ISBN which is available for download as an ebook for kindle (hopefully on the amazon site) and is also available for publish on demand. 
+
+### What will happen after you're done?
+
+I'll be embarrassed how long it's taken and I'll be embarrassed at what's been created because I'll be able to see all of the flaws in it. That's exactly how I feel about animals, it's exactly how I feel about the training course. 
+
+I'm hoping that that will result in consultancy gigs. I suppose what I really need is a course that I can teach other people to do that results in me getting a fee. 
+
+### How do you feel right now?
+
+Depressed. But I know that this is the depression that comes from looking at how things actually are. 
+
+
+# Conventional Project Management Deprogramming 
+
+
+# Random Got you here, why not just do more random
+
+
+# The Wreck of an Idea
+
+“Every book is the wreck of a perfect idea.” - Irish Murdoch
+
+Iris Murdoch was a novelist, and she was writing about novels. In this single phrase she captures the disappointment that she, as a writer feels when she looks at the book that she's actually written and compares it to the pristine idea of the book that she imaginged that she would write. Perhaps she imagined that the book that she wrote would be fabulously well-received and in fact it is only moderately well-receieved. Perhaps she has an idea for a passage of description, for an end-to-end concept that would wow her readership, her critics, and that she herself would be impressed with.
+
+But of course, the real book - the "wreck" is much better than the perfect idea in one crucial way. The real book exists. The real book can have readers. The real book can have sales. The real book can have reviewers and critics.
+
+Again. This is a contradiction. And it's one of the hardest to deal with. It's also one of the most important to deal with. Because dealing with it, managing it, is one of the most rewarding things that you can do.
+
+Project management is about delivering the "wreck of a perfect idea." It is about delivering *something* that can actually be used.
+
+Have you ever had an idea for something that you might do? For this example, it doesn't have to be a work thing. But have you ever had an idea for something you might do and in your head, you imagine how things would be great if you did this thing. It might be a holiday, it might be a new job, it might be training course, it might be a relationship. 
+
+And then, when you've done the thing, have you ever noticed, or been painfully aware that the thing wasn't as good as you thought it was going to be. 
+
+On the other hand have you ever had anything that you've done in your life that you weren't sure about at the time, but you did it despite your misgivings, and that thing paid off, whether it was a holiday, or a training course, or a piece of land that you bought.
+
+One of the weird experiences that I've had when working as an "Agile Consultant" is going around an organisation trying to find success stories that can be written up as "case studies" so that the organisation can blow its own trumpet and win more business based its previous successes. One thing that I noticed is that when I talked to people who had worked on projects which were, at the point that I was talking to the, a total success. They were a success for their customers in that they were delivering a good service to users, and they were a success for suppliers who built the sofware, hey got paid for the origianl development and now were getting paid more and in more regular and less risky circumstances to continue to deliver improvements. The projects were a success.
+
+But talking to the people who were involved in delivering these projects, it's often very difficult to get any positive description of how the project was done. They are scarred by the things that went wrong, the things that weren't delivered on time. The parts of the project that cost way more than anybody expected, the parts of the project that they thought the customers or the users would love that never get used. Even when a project is a "success", it has made money and value for the people who built it, the people who paid for it and the people who use it, it can be very difficult for the people who were involved in the project from the point when it was a beautiful idea to see anything but the wreck.
+
+Murdoch captures in this single line the unpleasant nature of real things - the "wrecks" and that can often be how we feel about them. But it is *really* important not to get too hung up on the beauty of an idea, or get too upset on the ugliness of a wreck, for at least two reasons.
+
+Firstly (and I kind of think this is what Murdoch is saying to herself) if you aren't tolerant of "wrecks", as a team, as an organisation, if you're not prepared to look at wrecks and try to figure out just what is so bad about them, what can be improved, there is no way of getting anything done. That's worth repeating. Without being prepared for the possibility of a "wreck" there's no way of getting anything done.
+
+Second, putting off "wrecking an idea" doesn't stop the idea being wrecked. It just increases the cost, financially, spiritiually and emotionally of deal with the wreck when it appears. Unless of course, the idea is never realised.
+
+But a full understanding of this doesn't stop the emotional impact of the word - "wreck" - it also doesn't stop the emotional impact of looking at early versions of software. They can look quite pityful.
+
+If you're the person who has spent several million pounds on a software development project, or you are the person who has convinced the board to spend several million pounds on a project, it can be a nerve wracking moment to see the first demonstrations of working software. I have seen instances where the first demonstration of working software, several hundred thousand pounds into the spend for the project shows a scree that has one button, the label on the button has a spelling mistake and when the button is pressed, it results in an error. This was obviously a hairy moment for the people who had paid for this project, or the people who had persuaded those people to pay for the project.
+
+And this kind of experience illustrates vividly the contradiction at the heart of delivering the impossible. The only way to effectively deliver *anything* in response to an impossible request is to start to deliver something. But showing that *something* is always going to be inherently threatening to the people who managed to get funding and managment support for the *whole thing*.  
+ 
+
+
+I wrote a post a couple few weeks ago: ten things that you should think about when you’re trying to deliver a software project.
+
+Thinking about these questions again, I realise that a whole bunch of them (Q5: Technical constraints, Q6: Human resources, Q7: Physical resources) are really about identifying bricks. Bricks without straw and bricks in walls. Let’s deal with the straw-less ones first.
+
+Bricks without straw
+
+In the bible, Pharaoh, the king of Egypt, commands that his slaves the Israelites make bricks without straw. Pharaoh is no idiot boss. Pharaoh knows this is impossible. Pharaoh is doing to make life hard for the Israelites because they’re causing trouble.
+
+It might seem strange that in a process as complex and expensive as software development anything similar could happen. But it happens. It happens a lot. Mostly the Pharaoh-equivalent isn’t making things hard on purpose. Mostly it’s just because they’re too busy, they don’t understand what’s actually required for software to happen, or they think that, if they’re paying you figuring out how to do the job should be your problem.
+
+I’ve worked on projects where we were asked to develop software on patchy, slow network connections. I’ve worked on projects where we were forced to do all development on a slow, remote virtual desktop. Those two projects? They were the same project.
+
+I’ve worked on projects where members of the team worked for different companies and were being pitted against each other. Actually, I’ve worked on projects where some members of the “team” were secretly in dispute with the client and so were refusing to do any work. I’ve worked on projects that were entirely dependent on a database that didn’t exist and never would.
+
+Bricks in Walls
+
+Here’s some bad news: some problems can’t be solved. That’s not too much of a surprise? Surely?
+Bricks happen
+
+Here’s some good news: a lot of problems can be solved. If you’re doing Agile software development with a team and you’re doing some kind of frequent inspection and adaptation using stand-ups, show and tells and retrospectives, a lot of problems are quickly going to see the light of day. A lot of these problems, even the bricks-without straw problems, are going to get solved. You feel great. You feel like you’re making progress.
+
+Then you hit a brick wall.
+
+There are some problems that you can’t solve. And these are your project’s brick walls. They are the parameters that shape the overall problem that you’re trying to solve.
+
+Some walls can gotten around, some walls can be overcome, some walls can be undermined and sometimes, in certain circumstances, some walls can be demolished. But then there are some walls that just have to be lived with. And in project management as in the rest of life, if you don’t know where the walls are and acknowledge their presence, your head is going to be very sore and lucid thought a serious challenge.
+
+# An Argument for Delivering the Impossible using the 4 C's
+Context
+- What is the problem?
+        - Customer tells you what they want
+        - You get together a team
+        - You get together a technology
+        - Use that team to make the thing that the customer wants
+        - Anything that can go wrong, will go wrong
+        - Change
+- Bricks without straw
+- Insistence on a function list
+- Arguments about "minimum viable product"
+- Hard deadlines/Ambitious deadlines
+
+Concept
+- What is a value stream?
+- How does sofware work in a value stream?
+- How does getting funding for software work as a value stream?
+        - This is often opaque
+	- However it works it's different from a *delivery* value stream
+
+Concrete Practice
+- create pull
+- pave the way
+- baby steps
+- be open to other value
+- manage the emotions
+- manage status
+- understand the development value landscape - clients, funders
+
+Conclusion
+- it's very hard to make the transition from funded value stream to developed value stream smooth
+- good project management is about managing this transition and making the developed value stream as valuable as possible *OR* making it obvious that the developed value stream
+
+
+# On Asking and Being Asked for the Impossible 
+
+Of course, one good reason why you might be reading a book entitled "Delivering the Impossible" is that you have in fact been asked to do exactly that.
+
+Another reason why you might be reading a book called "Delivering the Impossible" is that you're asking someone else to do that and either you wonder how they're going to get on (think about it, for a second, how do you think they're going to get on?).
+
+This book is for both of you, because this book is about understanding and managing contradictions.
+
+## Why might you ask someone to do the impossible?
+
+Why might you ask someone to do the impossible? It's a good question. There are two possibilities, that you know that it's impossible, or you don't. If you know that something is impossible I think that what you're really asking (very poorly) is a constraint satisfaction problem. I have told the board that I will do this project, I want to go back to the board in six months time and tell the board that this project has been done. In your mind, what's the nightmare scenario? That you'll have to go back to the board and tell them that the project *isn't* done. 
+
+## What are the *possible* responses to be being asked to do the impossible?
+
+It's worth here considering what the responses of a team might be to being asked to do something impossible. First of all, they might not notice. They might have trust in your leadership and imagine that if you think it's possible, then it's possible. 
+
+A second more likely outcome is that the team will pretty much straight away notice that what they're being asked to do is impossible, but not say anything about it. They don't want the conflict they want to get paid. When you're looking, they will make a show of working hard to deliver the impossible. But remember the impossible is actually impossible to deliever, so the moment that your gaze is off them, they won't be trying to deliver the impossible.
+
+ Third, and most unlikely is that anyone in the team will point out that the project, as it's currently described has fundamental problems.
+
+If a team does do that what do you do then? That's the crucial point. What do you do when you're team tells you that what you're asking for is impossible? Do you treat this as a valuable opportunity for negotiation? Do you look for any "Bricks without straw" problems that they need help with, where you can go and get straw? Or do you stand firm asking for the impossible. Or do you just make yourself scarce so that you can't be told the bad news?
+
+There is actually a fourth possibility. That the team straight out refuse your idea from the get go. 
+
+## What does this idea mean for this book?
+
+Well, for this book, I'm both the boss and the team. And it's a good question, what happens when I ask myself to do something which I either think is impossible, or is actually impossible. What am I *actually* going to do. I'm not going to do the impossible thing, because, it's impossible. 
+
+And maybe inside me, there's a boss who has dreams, and there's a team who has to actually work in days, in fact, that's the only place he *can* work. 
+
+
+# If you're so Clever Why aren't you RICH?
+
+This is a very good question. And I'm not sure that I have an answer to it.
+
+But this is a good question to ask anyone who has taken it upon themselves to tell other people what will and won't work in any walk of life. 
+
+No, that's not true. I think I *do* have a couple of answers. 
+
+Answer number one is related to something that we've discussed here: the sociopathic distance. I *think* to be rich you need to be able to take risks in such a way that you are handsomely rewarded when things go well and not punished unduly (financially, emotionally, legally) when things go badly. The whole system of corporations and limited companies is essentially set up for this. 
+
+I think that some of the people who we see as being rich because they are super clever are, no doubt, clever guys, but also they are the ones who did well. Their projects did well.
+
+And in this there might be an important point about project management, but also a point about why I'm not rich.
+
+People who have made money have either got lucky and had one particular project pay off beyond anyone's wildest dreams, or they understand that embarking on ventures is as much about failure as it is about success. Embarking on projects is a risky business. When a project fails, they distance themselves from it, when a project succeeds, they make sure that they take the rewards and the credit.  
+
+
+# Going down for the third time
+
+How many contradictions has the project swallowed? Not managed, not highlighted and acknowledged as a problem, but just swallowed. Someone, probably the customer, or the organisation that is paying for the software has asked the project to swallow this contradiction. Why? Because for the customer, or the organisation that is commissioning the software, this is much easier than addressing or acknowleding the contradiction.
+
+If the answer is more than one, the project is probably doomed. What does doomed mean? The project will never deliver what's required of it. The project will continue to take money until there is no money. But things may actually be worse than that. A doomed project might be breaking the law, a doomed project might cost so much without delivering that it brings down a company, that might be the company or organisation that wants the project, it might be the company or organisation that's delivering the project. It might be both. 
+
+In my experience, a doomed project is very bad for the mental and physical health of the people who are working on it. Why? Because every contradiction that the project swallows pushes the project further and futher from reality, from really being an endeavour that is about producing something this is of value in the real world. Often the result of this completely disconnection between what's going on in the project and reality is an over emphasis on things that look real and important and aren't.
+
+The more contradictions a project has swallowed, the more emphasis there is likely to be on work for work's sake, presenteeism, focusing on hitting arbitrary and crazy deadlines. 
+
+What are some examples of contradictions that a project might be asked to swallow? 
+
+### The best work, with the best people, but we can't pay you
+
+### Do something illegal
+My advice on this is *never* do something illegal. I'm not a legal expert. And jurisdictions vary. But if you think something *might* be illegal, by all means seek legal advice. But if that advice is that something is illegal, don't do it. Of course, lots of things that *are* legal, are still crazy, or just morally wrong.
+
+### Use the software to stop users doing something that they clearly want to do
+
+
+### Solve the problem without a key piece of information
+
+## Can you spit a contradiction out?
+Yes, by making the software available to the people who are supposed to want it, by connecting the software to the environment where it might produce value, this adds a substantial extra piece to the puzzle. For example, yes, there might be internal organisational reasons why a project should be certified as totally secure (nothing can be totally secure) before it is released. But if the software produced by the project is being used and is generating value for the users and value for the organisation, there might possible be an acceptance of *some* level of risk. 
+
+In fact, a "hungry crowd" is often the best cure for the contradictions that a project has swallowed. 
+
+## Questions about *this* project
+Which contradictions has *this* project - this book swallowed? Well, this book puts at least one of its contradictions right out front. This book is called "Delivering the Impossible." Did I mention that delivering the impossible is, *impossible*.
+
+
+# The Arc
+
+If you've picked this book up it probably means that either you've been asked to deliver the impossible or you've asked somebody else to deliver the impossible. You wouldn't feel challenged if what was being asked for were possible. Possible things are boring. The price of delivering possible things is understood. But also the value of possible things is understood. When you ask for a coffee in your favourite barista bar, no matter how complicated that coffee, you're very likely to get the coffee. You're not likely, you're really not likely, to get a cup full of gold or diamonds. There is little risk involved.
+
+By contrast, on the most ordinary, everyday software development project, the costs are often not understood, the risks have neither been explored nor acknowledged and the value is vague. Even the smallest software development projects can be a monumental adventure.
