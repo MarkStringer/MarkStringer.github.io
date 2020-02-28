@@ -1,8 +1,7 @@
 ﻿# Introduction
+>> "Aut inveniam viam aut faciam" - "I shall find a way, or I shall make one."
 
-> "Aut inveniam viam aut faciam" - "I shall find a way, or I shall make one."
-
-I've been doing this Agile project management thing just over ten years. For about seven or eight of those years I've been trying to write a book explaining how to do it. Specifically, I wanted to write a book that captures what it actually feels like. What it's actually like. But also explains to people who might find themselves in the situation of being asked to manage a software development project, how best to improve their chances of making it succeed.
+I've been a project management for software delopment projects for over ten years. For about seven or eight of those years I've been trying to write a book explaining how to do it. Specifically, I wanted to write a book that captures what it actually feels like, what it's actually like and also helps people who might find themselves in the situation of being asked to manage a software development project. If you've been put in the position of managing a software development project I want to help you succeed.
 
 ## Who is this book for? 
 
@@ -15,7 +14,7 @@ This book is *especially* for you if those things that you're being asked to del
 And I'm going to be totally frank here. This book is also for me to get clear in my head and then on the page what managing software development projects is all about. 
 
 
-## Why on Earth did you pick up this book?
+## Why on earth did you pick up this book?
 
 But before we go any further, you have to ask yourself, why did you pick up this book? 
 
@@ -125,10 +124,15 @@ The Requirements
 
 Question #2 was “How reasonable is the list of requirements?” You can answer that question with “gut feel” at the beginning of a project, but the only really way of answering it is by trying to develop some of them. Which requirements should you start looking at? If you can’t get anyone to answer that question, that’s an answer in itself. When you start looking at the requirements can you get any answers to questions about the requirements? No? Again that’s an answer. If you try to make these requirements into working software, how is that received? Are there users who are begging to use what you’ve developed? Are you forbidden from showing what you’ve done to anyone (true story)? The best way to improve your requirements is to start to try to turn those requirements into working software. You will learn a lot by trying to do this. You might not like what you learn.
 
+# The Switch 
 
-# Bricks without straw 
-# What does the 'two-stream' model mean for personal projects?
-## (like writing a book!)
+Think of project management as a big switch. When the project is turned to "Not Done" there'd be a temptation to imagine that the project isn't generating any value. But that's not true, in a way, it would be better if it were. 
+
+People like big ideas. The people who fund projects like big ideas. People who fund projects like positivity. There might be other reasons. Let's say that "app Q" has been a very big success for another company. Then a project that describes itself as similar to "app Q" might get a lot of support and interest.  Let's say "app R" uses "technology k", or a "technology format F" that other high profile successes have used recently, then anyone proposing "app R" using "technology format F" could get funding, support, and goodwill. 
+
+Having a "delivery capability" as an organisation is about having the strength to push the switch to done.
+
+# What does the 'two-stream' model mean for personal projects? (like writing a book!)
 
 >> When the going gets tough the tough get going - Billy Ocean
 >> When the going gets weird the weird turn pro - Hunter S Thompson
@@ -147,20 +151,14 @@ So, I'm going to get back to software development in another post, but for now, 
 I'm brainstorming now. 
 
 1. Actually get a publishing deal! If someone gave me some money to write the book, that might be an incentive to finish it. 
-2. Capture actual progress - how many words written (I do this with my walking and my weight)
-3. Deliver something that works early (this is nicked from software development) 
+2. Capture actual progress - how many words written
+3. Deliver something that works early (this is nicked from software development) but it's a very important point. One aim for any "Early alpha" of this book should be that if helps anyone who is struggling with delivering a project, especially a software development project.
 4. Establish a "no matter what" routine (again this is nicked from software development)
 5. Work towards a reasonable deadline, or a series of reasonable deadlines.
 6. Work at a sustainable pace
 
 
-# The Switch 
 
-Think of project management as a big switch. When the project is turned to "Not Done" there'd be a temptation to imagine that the project isn't generating any value. But that's not true, in a way, it would be better if it were. 
-
-People like big ideas. The people who fund projects like big ideas. People who fund projects like positivity. There might be other reasons. Let's say that "app Q" has been a very big success for another company. Then a project that describes itself as similar to "app Q" might get a lot of support and interest.  Let's say "app R" uses "technology k", or a "technology format F" that other high profile successes have used recently, then anyone proposing "app R" using "technology format F" could get funding, support, and goodwill. 
-
-Having a "delivery capability" as an organisation is about having the strength to push the switch to done.
 
 # Why are you doing this?
 
