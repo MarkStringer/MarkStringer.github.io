@@ -13,6 +13,12 @@ This book is *especially* for you if those things that you're being asked to del
 
 And I'm going to be totally frank here. This book is also for me to get clear in my head and then on the page what managing software development projects is all about. 
 
+## The structure of this book
+1. Context - who is this book for? Why did you pick up this book?
+2. Concrete practice - if you've pick up this book because you have been asked to delier an impossible project, or have asked someone else to deliver an impossible project, here's what you should do.
+3. Concepts - these are ideas that my concrete practice is based on.
+4. Conclusions - What have we learnedd? What should you do if you want to get better at delivering the impossible? What might be worthy of futher investigation? What should you do next?
+
 
 ## Why on earth did you pick up this book?
 
@@ -60,52 +66,48 @@ Are you involved in the delivery of software projects? I am.
 
 I’ve put together a list of questions to ask yourself about any project that you’re working on. The answers to the questions are on a 1–10 scale. This isn’t science. It’s mostly about gut feel. The number that floats into your head when you first look at a question is probably the right number.
 
-Q1: (On a scale of 1 to 10) How sensible is the deadline?
+Q1. (On a scale of 1 to 10) How sensible is the deadline?
 If there’s any description of the deadline as “aggressive” or “ambitious”, that should push the score down. If the deadline hasn’t been in any way informed by how much work there is to do and what the team is capable of, that should push it down too. If there’s no deadline, then score should be really low.
 
-Q2: How reasonable is the list of requirements?
-Add points if you think there’s a list somewhere that roughly reflects what the thing is supposed to do. Score low if it’s a requirements document. Score even lower if it’s a requirements document written by a third party that no longer works on the project.
+Q2. How reasonable is the list of requirements?
+Add points if you think there’s a list somewhere that roughly reflects what the thing is supposed to do. Score low if it’s a requirements document rather than a list of items, some headings, some more details that are expected to become more detailed over the course of the project. Score even lower if it’s a requirements document written by a third party that no longer works on the project.
 
-Q3: How good is the representation of the client?
+Q3. How good is the representation of the client?
 Add points if there’s someone you can call a “product owner” or “product manager”. Add extra points if this person is available to the team most of the time. Add even more points if there is evidence that this person is representing what the organisation paying for this software and knows what they want it to do.
 
-Q4: How good is user engagement?
+Q4. How good is user engagement?
 Is there evidence that the team is taking into account what users want and the team is checking with users how they will respond to what the team builds? Is there engagement with users all the way through the project?
 
-Q5: Technical constraints?
+Q5. Technical constraints?
 How easy is it to realise the project technically? Does the team have a platform for development? Is there a platform for release? Are there platforms for testing? Are there any requirements to use certain architectural stacks or certain architectures? Is this causing problems or delays?
 
-Q6: Physical resources?
+Q6. Physical resources?
 Do the team have all the physical resources that they need to deliver what’s required? Do they have an office that they can get into? Is it habitable? Is there a working toilet (true story)? Does the WiFi work?
 
-Q7: Human resources?
+Q7. Human resources?
 Does the team have the right mix of skills at the right levels to do what’s required?
 
-Q8: Value landscape?
+Q8. Value landscape?
 Does anybody want the software that the team are developing? Score this highly if it’s certain that people do. Score it low if there’s either no indication, or the indications are extremely uncertain (e.g. it’s a completely new product that no one has thought of before).
 
-Q9: Management landscape?
+Q9. Management landscape?
 Beyond the product owner, what is the appetite and support for the product? What do senior managers in the organisation think? Score lower if you don’t know or you are certain there is genuine antagonism. Score high if you know that this could really save some CEO’s bacon.
 
-Q10: Independence?
+Q10. Independence?
 To what degree is this project independent of other projects or external factors, e.g. interfacing with other systems, licensing by an external regulatory authority?
 
 If you’re working on a project, you could answer all of these questions, divide by 10 and then get an overall score out of 10. If you think back to projects that you’ve worked on, you could do this for one of those. I did this for four projects that I’ve worked on. It was a very interesting exercise. Then next time that I get chance when I’m running training I’ll run it with everyone in the room and see what their score are.
 
 If you just did this for a project that you’re working on, how do you feel now?
 
-My thoughts looking at the scores from the projects that I tried are that any project that scores over 5.0 probably has a reasonable chance of success and projects scoring over 6.0 are the ones that we’d all like to be working on. Any project scoring less than a 4.0 is in serious trouble. But that’s just the averages. If any individual score is below 4.0, that on its own can probably bring down a project. It doesn’t matter how well your project has been implemented if nobody wants it. It doesn’t matter how much your customers love what you’ve done if someone in the organisation is going to make sure that it is never released.
+My thoughts looking at the scores from the projects that I tried are that any project that scores over 5.0 probably has a reasonable chance of success and projects scoring over 6.0 are the ones that we’d all like to be working on. Any project scoring less than a 4.0 is in serious trouble. But that’s just the averages. If any individual score is below 4, that on its own can probably bring down a project. It doesn’t matter how well your project has been implemented if nobody wants it. It doesn’t matter how much your customers love what you’ve done if someone in the organisation is going to make sure that it is never released.
 
 
-# Some more thoughts on the 10 questions
-
-So last week I wrote a blog post with a list of questions that you might ask yourself if you were working on a software development project. The idea was that you score those questions out of ten. This gives you an idea where you should devote your efforts to improve the chances of the project’s success. From the average you can decide whether this is a project that you want to work on, or a project that you want to walk away from, or run.
-
-Here are more thoughts about those ten questions.
-It’s almost nothing to do with Agile
+## It’s almost nothing to do with Agile
 
 Some kind of flavour of Scrum is how I’m going to do any software development project. In my view, if you’re not inspecting and adapting, you’re going to fail and Scrum is a pretty good way of doing that. But it really doesn’t matter how perfect your methodology is, it’s not going to save you if, for example there’s no contact with the people who are going to use the software. A perfect software development methodology will not make a project succeed if it’s not something that people want.
-Most of the things on this list can’t be improved “At Scale”
+
+## Most of the things on this list can’t be improved “At Scale”
 
 Of the ten questions in this list, my view is that only two — technical constraints and physical resources are kind of thing that can be approved “At Scale.” Big organisations can arrange for office space for their teams. Big organisations can make it easy for their teams to gain access to technology platforms. Of course, big organisations can also make both of these things much harder than they are in a start-up.
 It’s very hard to change the answers to a lot of the questions on that list
@@ -122,7 +124,9 @@ Question #1 was “How reasonable is the deadline?” The one thing that you wil
 
 The Requirements
 
-Question #2 was “How reasonable is the list of requirements?” You can answer that question with “gut feel” at the beginning of a project, but the only really way of answering it is by trying to develop some of them. Which requirements should you start looking at? If you can’t get anyone to answer that question, that’s an answer in itself. When you start looking at the requirements can you get any answers to questions about the requirements? No? Again that’s an answer. If you try to make these requirements into working software, how is that received? Are there users who are begging to use what you’ve developed? Are you forbidden from showing what you’ve done to anyone (true story)? The best way to improve your requirements is to start to try to turn those requirements into working software. You will learn a lot by trying to do this. You might not like what you learn.
+Question #2 was “How reasonable is the list of requirements?” You can answer that question with “gut feel” at the beginning of a project, but the only really way of answering it is by trying to develop some of them. Which requirements should you start looking at? If you can’t get anyone to answer that question, that’s an answer in itself. When you start looking at the requirements can you get any answers to questions about the requirements? No? Again that’s an answer. 
+
+If you try to make these requirements into working software, how is that received? Are there users who are begging to use what you’ve developed? Are you forbidden from showing what you’ve done to anyone (true story)? The best way to improve your requirements is to start to try to turn those requirements into working software. You will learn a lot by trying to do this. You might not like what you learn.
 
 # The Switch 
 
