@@ -28,7 +28,7 @@ twitter_username: Mark_Stringer
 github_username: MarkStringer 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: hyde
 plugins:
   - jekyll-feed
 
