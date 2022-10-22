@@ -1,1 +1,1 @@
-![the graph](assets/file.png)
+![the graph](/assets/file.png)
