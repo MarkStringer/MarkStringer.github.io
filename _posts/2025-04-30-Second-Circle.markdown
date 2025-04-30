@@ -1,6 +1,6 @@
 # Second Circle
 
-![A conversation](../assets/conversation.jpg)
+![A conversation](/assets/conversation.jpg)
 
 This is something that my show is about.
 
