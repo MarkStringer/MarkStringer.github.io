@@ -1,5 +1,7 @@
 # Second Circle
 
+![A conversation](../assets/conversation.jpg)
+
 This is something that my show is about.
 
 This book - [Presence by Patsy Rodenberg.](https://www.amazon.co.uk/Presence-Positive-Energy-Success-Situation/dp/0141039477)
