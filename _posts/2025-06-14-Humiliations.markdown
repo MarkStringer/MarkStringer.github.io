@@ -24,9 +24,9 @@ I said that I'd sent the publisher some chapters, and that I was revising some o
 
 Part of me feels like I'm making a fuss over nothing. But part of me feels that I'm really not. Part of me thinks, that it's these kind of sideways comments that cut so deep and do stop so many people dead in their tracks.
 
-Because, in my experience, this is the kind of interaction that can make it very easy to give up, give in, give out. It's the kind of couple of lines that can make someone give way. Allow themselves to be distracted. Acknowledge all the very good reasons why they shouldn't be creating. Seeing sence realising there's no real reason why they should be doing something new.
+Because, in my experience, this is the kind of interaction that can make it very easy to give up, give in, give out. It's the kind of couple of lines that can make someone give way. Allow themselves to be distracted. Acknowledge all the very good reasons why they shouldn't be creating. A think like this gives them the chance they need to "see sense." To realise that there's no real reason why they should be doing something new.
 
-Part of the reason that I'm "Always," working on my book, is that I find it very difficult to concentrate for more than about 45 mins.
+Part of the reason that I'm "Always," working on my book, is that I find it very difficult to concentrate on my writing for more than about forty-five minutes
 
 And as I'm saying that, there's a voice in my head telling me that's because I'm lazy. And it's because I'm stupid. And it's because I can't apply myself to anything.
 
