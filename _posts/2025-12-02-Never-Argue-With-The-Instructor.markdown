@@ -1,5 +1,7 @@
 # Never argue with the instructor - except...
 
+![The Gentle Art of Self-Defense](/assets/TheGentleArtOfVerbalSelfDefense.jpg)
+
 I've just been reading "The Gentle Art of Verbal Self-Defense" by Suzette Haden Elgin. And I've been reading it slowly and carefully, making notes. 
 
 Part of the reason for this is that I've also been reading "The Notebook: A History of Thinking on Paper" by Rolan Allen. And one of the things that I realised from reading *that* book is that I gained one piece of actual wisdom from my university education. This is that piece of wisom. Ready? For certain subjects (I studied philosophy), it's much more important to understand one or two books very well rather than reading lots of books. This of course also fits with prioritising spending most of your time hanging around with your mates and watching afternoon TV and recovering from hangovers. 
