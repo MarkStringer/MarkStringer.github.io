@@ -1,5 +1,7 @@
 # Why are there no verbal defence classes?
 
+![By Nicola_Adams_London_2012.jpg: cormac70derivative work: Ianmacm - This file was derived from: Nicola Adams London 2012.jpg:, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=20937734](/assets/Nicola_adams_crop.png)
+
 A quick google shows that the market worldwide for martial arts classes is over $100 Billion a year.
 
 Here's the point I want to make. 
