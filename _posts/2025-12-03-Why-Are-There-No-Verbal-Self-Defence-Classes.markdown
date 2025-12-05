@@ -1,4 +1,4 @@
-# Why are there no verbal defence classes?
+# Why are there no verbal self-defence classes?
 
 ![Nicola Adams](../assets/NicolaAdams.png)
 
