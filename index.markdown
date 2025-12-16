@@ -1,11 +1,13 @@
 ---
 layout: default
+title: Home
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+# Mark Stringer
+
+This is my home page.
+
+- [Publicity diary](/publicity-diary/)
+- [All posts](/posts/)
+- [About](/about/)
+
