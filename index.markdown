@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Mark Stringer
-
 This is my home page.
 
 - [Publicity diary](/publicity-diary/)
