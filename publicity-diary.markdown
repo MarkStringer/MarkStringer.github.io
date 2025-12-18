@@ -3,8 +3,6 @@ title: Publicity Diary
 permalink: /publicity-diary/
 ---
 
-# Publicity Diary
-
 > Forgive me. I simply do not know what I am doing.
 
 > Kenneth Koch - Variations on a theme by William Carlos Williams
