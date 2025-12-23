@@ -6,14 +6,24 @@ permalink: /about/
 
 ![Mark Stringer Author Performer Project Manager](/assets/MarkStringerAuthorPerformerProjectManager.jpg)
 
-Mark Stringer has worked in the software development industry for 30 years. He worked as a programmer, applications researcher and then, for the last fifteen years, as a project manager. He’s worked for companies such as IBM, Xerox and Cambridge University. 
+My name is Mark Stringer. I want to improve the way we all do project management.
 
-He has wrote "Delivering the Impossible" because of a realisation. He seemed to be repeatedly reading the same book about project management, but with different titles. This book claimed that, if only you follow some prescribed methodology, everything would be lovely. His experience was, that no matter what methodology you used, things very often weren’t lovely at all.
+I do this in three ways:
 
-In recent years, as well as writing this book, he has written and performed one-man shows – “Delivering the Impossible,” and "The Biscuit Tin and The Biscuit" at the Brighton and Edinburgh Festivals. 
+- by managing projects (I still work as a project manager)
 
-He has an honours degree in philosophy from the University of St Andrews, Scotland.
+- by writing about project management
 
-He is married and lives in London, England and Thessaloniki, Greece.
+- by talking and performing
 
-His hobbies are learning Greek, joke writing and looking for his slippers.
+I have worked in the software development industry for 30 years, first as a programmer and applications researcher, and for the last fifteen years as a project manager. I’ve worked for companies such as IBM, Xerox and Cambridge University.
+
+I wrote Delivering the Impossible after a realisation. I seemed to be repeatedly reading the same project management book with different titles. Each claimed that, if you followed a prescribed methodology, everything would be lovely. My experience was that, whatever methodology you used, things very often weren’t.
+
+In recent years, alongside writing this book, I have written and performed one-man shows — Delivering the Impossible and The Biscuit Tin and The Biscuit — at the Brighton and Edinburgh Festivals.
+
+I have an honours degree in philosophy from the University of St Andrews, Scotland.
+
+I am married and live in London, England and Thessaloniki, Greece.
+
+My hobbies are learning Greek, joke writing and looking for my slippers.
