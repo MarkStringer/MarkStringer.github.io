@@ -7,7 +7,7 @@ title: Home
 
 I'm a writer, performer and project manager.
 
-![Mark Stringer Author Performer Project manager](/assets/MarkStringerMeOnStagei_small.jpg)
+![Mark Stringer Author Performer Project manager](/assets/MarkStringerMeOnStage_small.jpg)
 
 This is a single-page site. Blog posts, show reports. Performance dates. Everything goes in this page. 
 
