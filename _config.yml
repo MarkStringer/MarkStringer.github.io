@@ -1,3 +1,4 @@
 title: Mark Stringer
 description: Delivering the Impossible
-theme: minima
+markdown: kramdown
+permalink: pretty
