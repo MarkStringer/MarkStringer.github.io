@@ -14,7 +14,6 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 If you want to contact me, my email address is mark.stringer@gmail.com - phone (+44) 07803257982.
 
 ---
-
 <a id="feb-04"></a>
 ## Wednesday 4th February 2026
 
@@ -55,6 +54,60 @@ Projects are about putting users in touch with that value.
 If we think about projects in this way, we can deliver something useful and valuable.
 
 Even in situations where delivering what was initially promised would be impossible.
+
+---
+
+<a id="feb-03"></a>
+## Tuesday 3rd February 2026
+
+Joke writing exercises from yesterday.
+
+### Word definitions 
+
+*Define the following words:*
+
+Pentastich
+
+Brucine
+
+Panocha
+
+Chiasma
+
+Macrura
+
+Fitché
+
+Heythrop
+
+Labanotation
+
+### Explain to a Martian
+
+1. Write down three people you really don't like.
+
+2. Explain to a martian why you **love** them.
+
+### Sayings
+
+*Rewrite these well-known sayings:*
+
+Devil take the hindmost
+
+Old soldiers never die, they just fade away
+
+Manners maketh man
+
+All's well that ends well
+
+Never put off until tomorrow what you can do today
+
+You can't teach an old dog new tricks
+
+The more the merrier
+
+You can't take it with you
+
 
 ---
 
