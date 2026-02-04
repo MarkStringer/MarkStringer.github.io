@@ -20,7 +20,7 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 What's the simplest way of explaning my book?
 
-[![Delivering The Impossible](BookCover.jpg)](https://www.amazon.com/Delivering-Impossible-Successful-Software-Management/dp/B0FVDH4NJV/ref=sr_1_1?crid=350QMXX2JB8ME&dib=eyJ2IjoiMSJ9.wNytdDD3LgLSV6xP5GmyoUyX4DIWf8E9bnJDXTzaoE8MzqSN4buCmdokxljtZCWJXCcNSN2OaJkkcPy2K33wjN6WepK0dD4qohdRQXk3VkI_T-QZkbBwtLc9LKBa3f4yxaX31Zq6Z1LA2EDC_sZicl_4JzfaOKl-5WW_r0Gbk-Mul_iTnBSLgMW-rsULPL_AXpHNuwzDGEFUg1yKobfqtvqsdbM7cplVrcsTfIJGoJo.7Iqr6p6V_K69C-FvLWqvUXD5C4dU7xTIeRURqHT-O5Y&dib_tag=se&keywords=delivering+the+impossible&qid=1770189068&sprefix=delivering+the+impossib%2Caps%2C275&sr=8-1)
+[![Delivering The Impossible](/assets/BookCover.jpg)](https://www.amazon.com/Delivering-Impossible-Successful-Software-Management/dp/B0FVDH4NJV/ref=sr_1_1?crid=350QMXX2JB8ME&dib=eyJ2IjoiMSJ9.wNytdDD3LgLSV6xP5GmyoUyX4DIWf8E9bnJDXTzaoE8MzqSN4buCmdokxljtZCWJXCcNSN2OaJkkcPy2K33wjN6WepK0dD4qohdRQXk3VkI_T-QZkbBwtLc9LKBa3f4yxaX31Zq6Z1LA2EDC_sZicl_4JzfaOKl-5WW_r0Gbk-Mul_iTnBSLgMW-rsULPL_AXpHNuwzDGEFUg1yKobfqtvqsdbM7cplVrcsTfIJGoJo.7Iqr6p6V_K69C-FvLWqvUXD5C4dU7xTIeRURqHT-O5Y&dib_tag=se&keywords=delivering+the+impossible&qid=1770189068&sprefix=delivering+the+impossib%2Caps%2C275&sr=8-1)
 
 There's a temptation to think that project management is simple.
 
