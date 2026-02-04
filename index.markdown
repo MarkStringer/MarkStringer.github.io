@@ -15,6 +15,7 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="feb-04"></a>
 ## Wednesday 4th February 2026
 
 What's the simplest way of explaning my book?
