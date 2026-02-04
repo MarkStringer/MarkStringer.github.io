@@ -29,7 +29,7 @@ Projects run "late".
 
 Projects end up being "over budget".
 
-Sometme projects aren't delivered at all.
+Sometimes projects aren't delivered at all.
 
 Why does this keep happening again and again?
 
@@ -47,9 +47,9 @@ Projects aren't really about delivering "exactly what it says on the tin."
 
 Projects are about discovering value. 
 
-Projects are about delivering that value to users.
+Projects are about putting users in touch with that value.
 
-If we think about projects in this way, we can deliver something.
+If we think about projects in this way, we can deliver something useful and valuable.
 
 Even in situations where delivering what was initially promised would be impossible.
 
