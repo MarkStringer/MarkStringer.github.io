@@ -14,6 +14,7 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 If you want to contact me, my email address is mark.stringer@gmail.com - phone (+44) 07803257982.
 
 ---
+
 <a id-"mar-20th"></a>
 ## Friday 20th March 2026
 
