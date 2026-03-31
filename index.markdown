@@ -15,6 +15,50 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="mar-31st-video"></a>
+## Tuesday 31st March 2026
+
+## Every Project is a Romance
+
+[![Every Project is a Romance](https://img.youtube.com/vi/I4N_X4_uLeA/0.jpg)](https://youtube.com/shorts/I4N_X4_uLeA)
+
+David Foster Wallace was attributed with saying that every love story is a ghost story. The idea being that every relationship has got the ghosts of other relationships in the past.
+
+I think every project is some kind of romance. Certainly some kind of story.
+
+The classic reasons for marriage — money, love, revenge — are pretty good motivations for a project happening too.
+
+And then there are the disaster movie reasons. Burning platforms. Sinking ships. Fear that if the project doesn't happen, something bad is going to happen. Or jealousy that somebody else has got a project like it.
+
+There's some kind of drama in the background that has caused the project to happen. Whether it's a positive, passionate desire for the project to happen, or fear.
+
+It's a good idea to find out what that drama is.
+
+Because if you don't, the project isn't going to make much sense.
+
+---
+
+*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
+<a id="mar-29th-video"></a>
+## Sunday 29th March 2026
+
+## You Are Not Paul McCartney
+
+[![You Are Not Paul McCartney](https://img.youtube.com/vi/tNp1UMDpN68/0.jpg)](https://youtube.com/shorts/tNp1UMDpN68)
+
+So, I had this friend who was passionate about music, loved music, and wanted to learn the guitar. And I suggested to him that he get some lessons. And he said he didn't want to get any lessons. I said, "Well, why don't you want to get some lessons?" And he said, "Oh, because if I go to lessons, then I have to learn to read music, and I don't want to learn to read music." I said, "Well, it's not that hard to learn to read music." He said, "Yeah, but you know, Paul McCartney doesn't read music and he was worried that if he did read music, then he wouldn't be so creative anymore." And it felt rude to point it out, but I had to point out to my friend that he's not Paul McCartney. And so it's probably fine for him to read music because he's not the world's most successful composer ever.
+
+---
+
+*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="mar-28th-video"></a>
 ## Saturday 28th March 2026
 
