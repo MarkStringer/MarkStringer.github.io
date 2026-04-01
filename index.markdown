@@ -20,6 +20,8 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ## You Can Now Book a Ticket
 
+![You Can Write a Book](/assets/YouCanWriteABook.png)
+
 The Edinburgh Fringe listing for *You Can Write a Book* is live.
 
 [You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book)
