@@ -15,6 +15,19 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-1st"></a>
+## Wednesday 1st April 2026
+
+## You Can Now Book a Ticket
+
+The Edinburgh Fringe listing for *You Can Write a Book* is live.
+
+[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book)
+
+Greenside @ Riddles Court, Clover Studio. 17–29 August 2026 (not Sundays). 18:20, 50 minutes. £10 / £5 concession.
+
+---
+
 <a id="mar-31st-video"></a>
 ## Tuesday 31st March 2026
 
