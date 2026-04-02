@@ -15,6 +15,36 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-2nd-video"></a>
+## Thursday 2nd April 2026
+
+## Negative Capability
+
+[![Negative Capability](https://img.youtube.com/vi/BmoAKxdhRd4/0.jpg)](https://youtube.com/shorts/BmoAKxdhRd4)
+
+I was replying to a comment on LinkedIn yesterday about what's involved in being a project manager. And I remembered something from the conclusion of my book, *Delivering the Impossible* — this notion from John Keats of negative capability.
+
+I'm going to read the quote here because I can't remember it:
+
+*"Capable of being in uncertainties, mysteries, doubts without any irritable reaching after fact and reason."*
+
+What Keats is saying is that negative capability is this ability to put yourself out there — in uncertainty, mysteries, doubts — and not get irritable about it, not reach after fact and reason.
+
+This is obviously a hugely difficult thing to do. Blindly recommending that people should do this is probably not a great idea. But it's something you definitely have to do as a project manager: sometimes just be comfortable with the fact that there are an awful lot of things you don't know.
+
+And coming back to my show — *You Can Write a Book* at the Edinburgh Fringe — it's definitely something you have to do as a writer as well. Be comfortable with uncertainty. Including things like when your book's going to be published.
+
+I don't want to knock our education system — but I don't think it's just the education system. I'm not sure where in our lives we have a safe space to experiment with negative capability, and get used to the idea of it being an okay thing.
+
+I think it takes a long time. And if people get to the point where they're comfortable with it, they've kind of had to figure it out themselves.
+
+---
+
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-1st"></a>
 ## Wednesday 1st April 2026
 
