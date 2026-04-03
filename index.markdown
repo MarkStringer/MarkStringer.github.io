@@ -15,6 +15,32 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-3rd-video"></a>
+## Thursday 3rd April 2026
+
+## Grammar for People Who Aren't Twats
+
+[![Grammar for People Who Aren't Twats](https://img.youtube.com/vi/le-kfpUgfDU/0.jpg)](https://youtube.com/shorts/le-kfpUgfDU)
+
+I had this idea for a book show called "Grammar for People Who Aren't Twats." I got the idea because I went to a talk by Gyles Brandreth, who'd written a book called *Have You Eaten, Grandma?* Apparently publishers want a book every ten years on grammar, and it had been ten years since *Eats, Shoots & Leaves*.
+
+What I realised is that there's this weird class thing associated with grammar. It's like having to do your driving test in full dinner dress with a bow tie. And then there are these other bits of grammar — like split infinitives and the Oxford comma — which is like: that's not just requiring dinner dress. That's like you have to have a butler and a monocle.
+
+In fact, there are just a very few simple things you need to learn. And everybody who's a speaker of English — not even a native speaker — is entitled to use them. It's not like there's some ivory tower of people who know how to use English correctly.
+
+The real reason to learn grammar is so that you can reach more of the people who speak English. The estimates vary, but somewhere between 1.5 billion and 2 billion people around the world speak this crazy language of ours. If you can get the apostrophes in the right place and figure out when to put a full stop — this really helps other people read what you've written.
+
+And the other thing I've realised: it really helps you read it too. When I've taken the trouble to properly punctuate my work and make the English more readable, and then I read it back — I can see where the holes are in my argument. What's wrong with it. It makes it much easier to think about.
+
+So, yeah. Grammar shouldn't just be for twats.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-2nd-video"></a>
 ## Thursday 2nd April 2026
 
