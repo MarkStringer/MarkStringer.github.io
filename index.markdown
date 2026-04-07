@@ -15,6 +15,26 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-7th"></a>
+## Monday 7th April 2026
+
+## Actual printed copies of my book are on their way
+
+![An invoice from Germany](/assets/invoice.jpeg)
+
+An invoice from Germany — with stern instructions not to try to pay it.
+
+It all feels a bit le Carré.
+
+But I think this means that ACTUAL PRINTED COPIES OF MY BOOK! are on their way to me.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-3rd-video"></a>
 ## Thursday 3rd April 2026
 
