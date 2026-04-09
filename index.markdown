@@ -15,26 +15,6 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
-<a id="apr-7th"></a>
-## Monday 7th April 2026
-
-## Actual printed copies of my book are on their way
-
-![An invoice from Germany](/assets/invoice.jpeg)
-
-An invoice from Germany — with stern instructions not to try to pay it.
-
-It all feels a bit le Carré.
-
-But I think this means that ACTUAL PRINTED COPIES OF MY BOOK! are on their way to me.
-
----
-
-*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
-*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
-
----
-
 <a id="apr-8th-video"></a>
 ## Tuesday 8th April 2026
 
@@ -51,6 +31,26 @@ What I tried to do instead is show a whole bunch of ways of seeing projects that
 Things like: delivering on time and to budget. Delivering what you initially said you were going to deliver. Those sound like compelling things, don't they?
 
 One of the things I explain in the book is why they're not.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
+<a id="apr-7th"></a>
+## Monday 7th April 2026
+
+## Actual printed copies of my book are on their way
+
+![An invoice from Germany](/assets/invoice.jpeg)
+
+An invoice from Germany — with stern instructions not to try to pay it.
+
+It all feels a bit le Carré.
+
+But I think this means that ACTUAL PRINTED COPIES OF MY BOOK! are on their way to me.
 
 ---
 
