@@ -35,6 +35,30 @@ But I think this means that ACTUAL PRINTED COPIES OF MY BOOK! are on their way t
 
 ---
 
+<a id="apr-8th-video"></a>
+## Tuesday 8th April 2026
+
+## Multiple Points of View
+
+[![Multiple Points of View](https://img.youtube.com/vi/lWws5-lEmDI/0.jpg)](https://youtube.com/shorts/lWws5-lEmDI)
+
+The idea for my book, *Delivering the Impossible*, is a whole bunch of different points of view — different ways of seeing project management.
+
+Rather than giving you a prescriptive way of dealing with projects — the way a lot of books do, saying "this is the one way, if you do it this way, everything will be fine" — my experience is that that's not true. There are so many different factors involved that you can't really follow one particular set of methods.
+
+What I tried to do instead is show a whole bunch of ways of seeing projects that are helpful. And then — here's the thing — show a bunch of ways of seeing projects that aren't helpful, but that are actually very common.
+
+Things like: delivering on time and to budget. Delivering what you initially said you were going to deliver. Those sound like compelling things, don't they?
+
+One of the things I explain in the book is why they're not.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-3rd-video"></a>
 ## Thursday 3rd April 2026
 
