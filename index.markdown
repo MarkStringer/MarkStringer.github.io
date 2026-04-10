@@ -15,6 +15,34 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-10th"></a>
+## Thursday 10th April 2026
+
+## Shuddering to a Halt
+
+[![Shuddering to a Halt](https://img.youtube.com/vi/Z5TlMReUx2o/0.jpg)](https://youtube.com/shorts/Z5TlMReUx2o)
+
+Should I be doing this?
+
+I've written one book. It's a particular kind of book — project management. And now I'm doing a show telling people they can write books. All kinds of books. Books I've never written.
+
+Should I be allowed to do that?
+
+I call this shuddering to a halt. It happens when you start something. The word "should" appears a lot. Should I be saying this? Should I be the one saying it?
+
+Getting anything done quite a lot of the time involves ignoring these shoulds.
+
+I've been reading about cooperation and competition — how closely they sit together. We cooperate with the same people we compete with. The same turns out to be true with ourselves. Rather than cooperating with ourselves, we end up competing — in ways that don't help.
+
+The shoulds aren't your conscience. They're the competition.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-9th"></a>
 ## Wednesday 9th April 2026
 
