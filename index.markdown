@@ -22,19 +22,7 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 [![Shuddering to a Halt](https://img.youtube.com/vi/Z5TlMReUx2o/0.jpg)](https://youtube.com/shorts/Z5TlMReUx2o)
 
-Should I be doing this?
-
-I've written one book. It's a particular kind of book — project management. And now I'm doing a show telling people they can write books. All kinds of books. Books I've never written.
-
-Should I be allowed to do that?
-
-I call this shuddering to a halt. It happens when you start something. The word "should" appears a lot. Should I be saying this? Should I be the one saying it?
-
-Getting anything done quite a lot of the time involves ignoring these shoulds.
-
-I've been reading about cooperation and competition — how closely they sit together. We cooperate with the same people we compete with. The same turns out to be true with ourselves. Rather than cooperating with ourselves, we end up competing — in ways that don't help.
-
-The shoulds aren't your conscience. They're the competition.
+So, should I be doing this? Should I be doing a show about writing books and telling other people whether they can write books or not? Telling them they can write books. Should I be doing that? I have only written one book. Um, it's a particular kind of book. Should I be allowed to tell people that they can write other kinds of books? You notice how I'm saying the word should a lot? Um, I call this shuddering to a halt. And it's something that happens when you do something. I've noticed that from nowhere kind of well, we probably know where they come from. Um, are all these kinds of shs, these kind of these claims that we should be doing a certain kind of thing rather than another kind of thing. And um what I've started to realize is that actually getting anything done quite a lot of the time involves ignoring these shoulds. Um I've just been reading a book about cooperation and competition and saying that the two things are often um not far apart. They're often very close together. So we're cooperating with the same people that we're competing with. Um, and this seems to be the case with ourselves that often, um, rather than cooperating with ourselves, which we should be a good thing, right? Should be an easy thing, we end up competing with ourselves in ways that aren't necessarily helpful.
 
 ---
 
