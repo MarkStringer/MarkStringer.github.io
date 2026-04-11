@@ -15,6 +15,28 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-11th"></a>
+## Saturday 11th April 2026
+
+## Powerlessness is Part of Progress
+
+[![Powerlessness is Part of Progress](https://img.youtube.com/vi/KtU2M5bAg6A/0.jpg)](https://youtube.com/shorts/KtU2M5bAg6A)
+
+I heard that my fellow Yorkshireman Patrick Stewart — Sir Patrick Stewart, I think it is — said about acting that the real job is getting humiliated at auditions. That's what you're really doing. You're going to lots and lots of auditions. You're not getting them. You're not getting them because you're bald or you're not bald, or you're too old or you're not old enough, or you're fat or you're not fat enough. All of these random reasons, you're going to get rejected as an actor. And if that's going to upset you, then it's the wrong job.
+
+And I sort of realized this about writing as well. I think it's probably one of the issues. It's connected to what I was talking about yesterday about the shoulds. Once you get some kind of success or some movement, you encounter this wall of other things that maybe you should be doing, or things you don't know how to do, which aren't what you'd like to be doing.
+
+I'm waiting for copies of my book to be delivered. I'm really, really keen that they don't get lost. I'm not happy with the cover of my book. I wish it was something different. I'm not happy with the price of my book. I wish it was something different. And I feel embarrassed that I want to appear in control, as if I know what I'm doing, but I don't.
+
+And so that kind of feeling of powerlessness — wrapping back to Patrick Stewart — that kind of feeling of powerlessness is part of the business of progress. And if you're not comfortable with that, then you're probably not going to make a lot of progress. This is the same, I think, for project management and for writing. And who tells you that?
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-10th"></a>
 ## Thursday 10th April 2026
 
