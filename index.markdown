@@ -34,8 +34,7 @@ And I think that's probably one way into finding a voice. As I've been reading l
 
 ---
 
-*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
-*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+*Work in progress shows: [You Can Write a Book](https://www.eventbrite.co.uk/e/you-can-write-a-book-tickets-1986985757890) — The Cavendish Arms, Stockwell. Tuesday 16th & 30th June 2026, 9:00pm. Free.*
 
 ---
 
