@@ -15,6 +15,30 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-18th"></a>
+## Friday 18th April 2026
+
+## Tell Me a Story
+
+[![Tell Me a Story](https://img.youtube.com/vi/7dVqSlPYfqM/0.jpg)](https://youtube.com/shorts/7dVqSlPYfqM)
+
+I went to an event at a local bookshop where a published author and an agent were going to review first lines from people's books. I was a bit negative about it going in — I thought, well, this is two posh women going to say rude things about people's attempts at writing. But they were actually more positive than that. It was a very interesting event.
+
+One thing that the novelist Freya Bromley said — somebody asked her about writing style and I thought, this is a really difficult question to answer. I'm not sure there's a useful answer. And she said something I thought was really interesting. She said: "Tell me a story."
+
+That was a very interesting way of getting into your style — your style, not A style, your style. You've got a way you tell a story to a child. You've got a way you used to tell stories to your parents when you were making things up or making excuses. You go to where you probably tell a story to the police if you were found hanging over a body with a knife in your hand and blood all down your front.
+
+There are different ways of telling stories. But that's a really interesting way into thinking about style — not to worry about it, but to worry about telling a story in a particular context.
+
+And I think that's probably one way into finding a voice. As I've been reading lots and lots of books about writing, one of the things that comes up over and over again is that what you're trying to do by writing lots is not necessarily get the first few things you write published and become a bestseller. What you're trying to do is find a voice — find a way of saying things.
+
+---
+
+*[You Can Write a Book](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book) — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
+*Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-17th"></a>
 ## Thursday 17th April 2026
 
