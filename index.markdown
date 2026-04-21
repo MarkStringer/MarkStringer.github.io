@@ -15,6 +15,21 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ---
 
+<a id="apr-21st"></a>
+## Tuesday 21st April 2026
+
+## A Sighting in the Wild
+
+![Delivering the Impossible — my book](/assets/MyBook.jpg)
+
+My book is out and people are actually buying it! This is a sighting of one in the wild.
+
+---
+
+*Work in progress shows: [You Can Write a Book](https://www.eventbrite.co.uk/e/you-can-write-a-book-tickets-1986985757890) — The Cavendish Arms, Stockwell. Tuesday 16th & 30th June 2026, 9:00pm. Free.*
+
+---
+
 <a id="apr-18th"></a>
 ## Friday 18th April 2026
 
