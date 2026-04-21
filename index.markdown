@@ -43,7 +43,7 @@ And I think that's probably one way into finding a voice. As I've been reading l
 
 ## Every Book on Project Management is a Lie the Author Knows They're Telling
 
-![Mark Stringer reading Delivering the Impossible](/assets/mark-reading-dti.jpg)
+![Delivering the Impossible — book cover](/assets/MyBook.jpg)
 
 Every book on project management is a lie the author knows they're telling.
 
