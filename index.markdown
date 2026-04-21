@@ -24,6 +24,8 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 My book is out and people are actually buying it! This is a sighting of one in the wild.
 
+[Click here if you want to buy it!](https://www.amazon.co.uk/Delivering-Impossible-Successful-Software-Management/dp/B0FVDH4NJV/ref=sr_1_1?crid=SZ56FSOWIRMH&dib=eyJ2IjoiMSJ9.JgF02wvUI0ZgIMtr5-CNJp6htzn4T5K209s0Nn9G_CvGjHj071QN20LucGBJIEps.YC8akOUEThh8NlbtYtrEChgxouR5gEQStK7Wgh1J4vw&dib_tag=se&keywords=delivering+the+impossible%3F&qid=1776775427&sprefix=%2Caps%2C131&sr=8-1)
+
 ---
 
 *Work in progress shows: [You Can Write a Book](https://www.eventbrite.co.uk/e/you-can-write-a-book-tickets-1986985757890) — The Cavendish Arms, Stockwell. Tuesday 16th & 30th June 2026, 9:00pm. Free.*
