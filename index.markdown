@@ -60,8 +60,6 @@ I'll be posting updates here every day. Like an old-fashioned serial.
 
 *Work in progress shows — FREE — [The Cavendish Arms, Stockwell, London](https://www.eventbrite.com/e/you-can-write-a-book-tickets-1986985757890). Tuesday 16th & 30th June 2026, 9pm.*
 
-*[Buy Delivering the Impossible on Amazon](https://amzn.to/4t4Pic8)*
-
 ---
 
 <a id="apr-21st"></a>
