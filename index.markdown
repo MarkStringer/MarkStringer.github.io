@@ -52,6 +52,8 @@ I'll be posting updates here every day. Like an old-fashioned serial.
 
 [Blue Pencil Agency First Novel Award 2026](https://bluepencilagency.com/blue-pencil-agency-annual-competitions/bpa-first-novel-award-2026/)
 
+[Buy Delivering the Impossible on Amazon](https://amzn.to/4t4Pic8)
+
 ---
 
 *[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–26 August 2026. Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
