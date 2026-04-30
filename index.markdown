@@ -20,7 +20,7 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 
 ## The daftest marketing idea I've ever had - and it involves work!
 
-![Mark reading Delivering the Impossible](/assets/mark-reading-dti.jpg)
+![The Least Interesting Case of Ernesto Klee — book cover](/assets/ErnestKlee_BookCover.jpg)
 
 I wrote a book. A chunk of it got written on the Metropolitan line. Every weekday morning for the whole of one May.
 
@@ -47,8 +47,6 @@ The Blue Pencil Agency First Novel Award 2026. Entry closes 31st May. You only n
 I think I can manage that.
 
 The working title is *The Least Interesting Case of Ernesto Klee.*
-
-![The Least Interesting Case of Ernesto Klee — book cover](/assets/ErnestKlee_BookCover.jpg)
 
 I'll be posting updates here every day. Like an old-fashioned serial.
 
