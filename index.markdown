@@ -48,6 +48,8 @@ I think I can manage that.
 
 The working title is *The Least Interesting Case of Ernesto Klee.*
 
+![The Least Interesting Case of Ernesto Klee — book cover](/assets/ErnestKlee_BookCover.jpg)
+
 I'll be posting updates here every day. Like an old-fashioned serial.
 
 [Blue Pencil Agency First Novel Award 2026](https://bluepencilagency.com/blue-pencil-agency-annual-competitions/bpa-first-novel-award-2026/)
