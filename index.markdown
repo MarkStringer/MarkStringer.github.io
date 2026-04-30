@@ -18,7 +18,7 @@ If you want to contact me, my email address is mark.stringer@gmail.com - phone (
 <a id="apr-30th"></a>
 ## Thursday 30th April 2026
 
-## The Daftest Marketing Idea I've Ever Had
+## The daftest marketing idea I've ever had - and it involves work!
 
 ![Mark reading Delivering the Impossible](/assets/mark-reading-dti.jpg)
 
