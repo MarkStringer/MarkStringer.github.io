@@ -5,6 +5,8 @@ title: Home
 
 # Mark Stringer
 
+**[The Least Interesting Case of Ernesto Klee](/ernesto-klee)** — my new novel, written chapter by chapter every weekday in May 2026.
+
 I'm a writer, performer and project manager.
 
 ![Mark Stringer Author Performer Project manager](/assets/MarkStringerMeOnStage_small.jpg)
