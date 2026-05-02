@@ -117,7 +117,9 @@ So you would have seen this man go into the shop next to the bent Horse shoe –
 
 "Fuck. Fuck just about covers it."
 
-"Any special requests. Nothing expensive. Nothing too noticeable. And it won't be missed. And I'll be round in about twenty minutes."
+"Any special requests."
+
+"Nothing expensive. Nothing too noticeable. And it won't be missed. And I'll be round in about twenty minutes."
 
 "Not here, the car park of the pub."
 
