@@ -69,6 +69,8 @@ The idea that, on the night when he finally thought he'd got to the bottom of wh
 
 ---
 
+<a id="chapter-2"></a>
+
 ## Chapter 2 — Mr Muscle
 
 [Note about the previous chapter - it wasn't the gun. It was the prawns.]

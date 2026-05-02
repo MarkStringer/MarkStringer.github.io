@@ -17,9 +17,11 @@ The novel has its own page at `ernesto-klee.md` (served at `/ernesto-klee`).
    ```
    pandoc "/home/mark/projects/TheLeastInterestingCaseOfErnestoKlee/Chapter N - Title.docx" -t markdown
    ```
-3. Append a new section to `ernesto-klee.md` in chapter number order (Chapter 1 first, then Chapter 2, etc.):
+3. Append a new section to `ernesto-klee.md` in chapter number order (Chapter 1 first, then Chapter 2, etc.). Each chapter must have an HTML anchor before the heading so it can be linked to directly:
    ```markdown
    ---
+
+   <a id="chapter-N"></a>
 
    ## Chapter N — Title
 
