@@ -71,7 +71,7 @@ The idea that, on the night when he finally thought he'd got to the bottom of wh
 
 ## Chapter 2 — Mr Muscle
 
-[Not about the previous chapter] It wasn't the gun. It was the prawns. Jackie had ordered a prawn biriyani earlier that evening. And before deciding to kill himself, he'd not eaten two huge king prawns.]
+[Note about the previous chapter - it wasn't the gun. It was the prawns.]
 
 So what would you have seen if you were watching Ernesto Klee that April afternoon, walking down the street, walking down Archway road in fact? With the whole of London laid out in front of him. Well you would have seen a middle aged man in some kind of video conference on his phone. If you were close enough to hear, you might have heard him shout.
 
