@@ -66,3 +66,121 @@ Jackie Spanner hated villains. And do you know the kind of villains he hated the
 Jackie had been told many times to stop investigating the death of Aimee Finch. Who had been beaten to death by someone, just out of camera shot, in the car park of the Greenhouse pub in Muswell Hill. Jackie hadn't listened.
 
 The idea that, on the night when he finally thought he'd got to the bottom of what happened, and who had killed her, he would waltz barefoot into the night in inappropriate nightwear was laughable. The idea that, after shooting himself, he'd tidy up, was about as likely as him doing it if he'd still been alive.
+
+---
+
+## Chapter 2 — Mr Muscle
+
+[Not about the previous chapter] It wasn't the gun. It was the prawns. Jackie had ordered a prawn biriyani earlier that evening. And before deciding to kill himself, he'd not eaten two huge king prawns.]
+
+So what would you have seen if you were watching Ernesto Klee that April afternoon, walking down the street, walking down Archway road in fact? With the whole of London laid out in front of him. Well you would have seen a middle aged man in some kind of video conference on his phone. If you were close enough to hear, you might have heard him shout.
+
+"No, I don't want to see the body! I want to see the table? What? Of course it's on a tray. Show me the tray."
+
+There's probably a special name for this move, if you forked out for a mime class – and, to be fair, Ernesto Klee was in North London, and that was the kind of thing that people in North London seemed to do more frequently than anyone might expect.
+
+You could imagine an instructor in a full body leotard.
+
+"This move is called 'le mur de verre.' In French that means 'the glass wall' so we're walking along, relaxed and comfortable and then BAM! It's like our whole body has smacked into a wall."
+
+Ernesto Klee had never been near a mime class. If he'd ever had any temptation to inquire in that direction, the insistence that you do the class in a leotard would have probably been the deal breaker.
+
+But right now, on the pavement, in front of the Happy Sausage Cafe and within sight of the drinkers in the Bent Horseshoe pub, he performed his own perfect "mur de verre." It was, as if he'd walked straight into a glass wall. An unexpected, solid object that stopped him in his tracks.
+
+Jackie Spanner had been murdered.
+
+So that's what you would have seen. A middle-aged man walking down the street and looking as if he'd walked smack into an invisible solid wall.
+
+What you would have seen next was even more peculiar. You would have seen the slightly unkempt, slightly shabby man, throw the phone that he'd just been looking at on the pavement and start jumping up and down on it. Then you'd see him, apparently worry that he hadn't punished this phone enough for what it had done. Pick it up again. Walk to a pedestrian crossing, where traffic was queuing for the lights to change.
+
+You would see him bend down, as if to pick something up. But if you were watching carefully – and you might have guessed by now, that someone was – you would have seen him put his partially broken phone in the gutter, and deliberately kick it under the wheels of a large truck. You may have seen this man, inspect the remains after the truck had sailed on up the hill, along the A1 and North.
+
+Then you may have seen the man turn around and, looking perhaps slightly surprised that the shop he needed to visit was right in front of him. Ok, the shop he *really* needed to visit was the Bent Horseshoe, but he knew he needed to be sober and awake, he realised for probably the next 24 hours.
+
+So you would have seen this man go into the shop next to the bent Horse shoe – a shop with a sign that said "Baz's Phone Bits" and showed an image of some kind of cartoon mammal – what was that? A marmot? A blue capybara? Zoologically it was confused. But it was talking into a mobile phone. And it looked very happy about it.
+
+---
+
+"Div"
+
+"Ernie"
+
+"I need a car"
+
+"We've got some lovely ones on the forecourt."
+
+"Don't fuck about. This is serious, they killed Jackie."
+
+"Fuck"
+
+"Fuck. Fuck just about covers it."
+
+"Any special requests. Nothing expensive. Nothing too noticeable. And it won't be missed. And I'll be round in about twenty minutes."
+
+"Not here, the car park of the pub."
+
+"You're taking the piss right?"
+
+"Why not? It's the last place they'd look."
+
+"OK, twenty minutes."
+
+---
+
+"It's lime green. And are those flames down the side?"
+
+"Nav said it was bright"
+
+"It's throbbing."
+
+"I'm colour blind, so I can't tell."
+
+"And it sounds like what is it? Some kind of muscle car? Why is it growling?"
+
+"You said something that won't be missed. Trust me, he won't miss it. He's in the Whittington beeping – has been for six months."
+
+---
+
+"Oddly intelligent idiots bring chickens…" He was doing it in his head. Seven? Seven was G. He realised it wasn't much of a code if they were on to him.
+
+Five minutes, and he was checking. Making sure he'd got it right. Maybe Jan didn't check it any more. Come on. Even if he didn't check it every minute. Every day. He'd be checking it now.
+
+Shouldn't be really doing this when he was driving. And this motor was a beast. Keeping it under seventy wasn't easy. And you couldn't exactly just tuck in behind a Nissan Micra and do fifty five.
+
+Then his brand new burner phone rang. It was a number he didn't recognise.
+
+"It was the prawns right?"
+
+"Of course it was the prawns."
+
+"Do you think it's meant for us?"
+
+"You're out there in plain sight. And no one's bothering you. It's meant for me."
+
+"If they're going to kill you, what's the point in warning you? Maybe they're just trying to scare you."
+
+"Well, they've succeeded."
+
+"Where are you?"
+
+"Somewhere on the M4 doing ninety – pissing off a dude in a black BMW"
+
+"Type this into your satnav – actually no – that's probably – get to Birmingham and then ask."
+
+"Birmingham."
+
+"Yes, Birmingham."
+
+"Who the fuck goes to Birmingham?"
+
+"Well, exactly."
+
+"Is it a long job?"
+
+"Could take months. Maybe by then this whole thing will have blown over."
+
+"Eight years? How many investigations? How many millions? It doesn't look like it's blowing over. And this thing with Jackie – it's going to make the papers again…"
+
+"Let's talk when you're somewhere safe. I'll text you the address and the keys are with the neighbour – a Mrs Ting."
+
+"Mrs Ting?"
