@@ -188,3 +188,115 @@ Then his brand new burner phone rang. It was a number he didn't recognise.
 "Let's talk when you're somewhere safe. I'll text you the address and the keys are with the neighbour – a Mrs Ting."
 
 "Mrs Ting?"
+
+---
+
+<a id="chapter-3"></a>
+
+## Chapter 3 — Keys
+
+Number 45a?
+
+Klee looked up and down the street – it was the only new build on Pachelbel Road. All the other houses looked, to his eye, to be Victorian.
+
+Unusually, there was a name on the bell. It said “Ting.”
+
+He rang the bell.
+
+“Go away! I haven’t left the gas on!” shouted somebody from behind the glass.
+
+“Mrs Ting? Is that Mrs Ting?”
+
+“It’s them foreigners at 45! It them German curries they make there always making them German curries. Stinks like gas!”
+
+“Er, my name is Ernesto Klee.”
+
+There was a slight pause.
+
+“Are you a German?”
+
+“Er no.”
+
+“Where was you born then?”
+
+“Pontefract. West Yorkshire.”
+
+There was a longer pause.
+
+“Well, I didn’t leave the gas on.”
+
+“I’m sure you didn’t,” said Klee. He glanced next door at number 45 – where he’d nearly knocked until he noticed the “a” in the address. It shared a wall with Mrs Ting’s house. If she had left the gas on, a spark would have probably taken out 45 and 45a – and solved at least one problem for whoever it was who had to decide how to number the houses.
+
+And having interrogated, or having been interrogated by Mrs Ting for about a minute, his instincts told him that Mrs Ting had left the gas on.
+
+There was a new voice and a new shadow behind the obscured glass.
+
+“Mother, come away love, I’ll deal with this.”
+
+The door opened slightly.
+
+Klee wasn’t expecting what he saw. It was a woman of about 35. With a lot of red hair. She’d obviously just got out of bed – possibly at the sound of her mother’s persistent denials about the gas. A lot of red hair and a lot of pale skin since she was only just about covering herself in a dressing gown. Noticing that Ernie was noticing, she tried to cover herself. It had the unhelpful effect of getting Klee to focus, definitely more than he should, on whether she was managing to cover up her cleavage.
+
+Then she looked up. Then there was eye contact.
+
+She laughed. Why did she laugh? To let him know that it was OK that he was looking? To recognise that he could hardly not because she was hardly wearing anything.
+
+No, don’t be stupid. It wasn’t love at first sight. But it was. Well it was something.
+
+Brrr. Right. Both at the same time, they came to their senses.
+
+“You’re Mr Klee? I have a key for you.” She laughed again at the rhyme, he guessed. For Klee, it sounded absolutely glorious.
+
+A hand, and an arm, again, barely clad in a dressing gown came out through the gap in the door.
+
+Klee took the keys.
+
+But didn’t move. He didn’t want to move because, really, he would like a bit more local knowledge about the house he was moving into, okay, that was one reason. The other one was that he didn’t really, straight away, want to end the conversation.
+
+“Did you know Mr Boht?”
+
+The red-haired woman seemed to be struggling terribly to keep her dressing gown together and also hold the door ajar.
+
+“I did, I used to know him quite well when I was a little girl.” She laughed again.
+
+“Listen. I’ve just finished a shift.” He didn’t feel she needed to explain why she was wearing no clothes in the middle of the afternoon. But she had. “Could maybe give me a chance to – to put on some clothes. And you can look round the chapel and then perhaps come back and have some tea.
+
+“And don’t be cooking any curries!” shouted Mrs Ting.
+
+“Mother!” The tone wasn’t exactly annoyed, but more “we’ve talked about this before.”
+
+“That sounds like a great idea,” said Klee, “Erm?” That was of course the only polite way to ask her her name. To say “you know my name, so what’s yours?” would somehow seem slightly rude. To say “Madam! You have the advantage of me!” would be downright weird.
+
+“Lillian.”
+
+“Lillian Ting?”
+
+Again the laugh! “I know! But not for years. Lilly Jones is my married name. About the only good thing I got from my husband was his name.”
+
+Pause.
+
+Awkward pause.
+
+Slightly more awkward pause.
+
+“Right!” said Klee in the way that would have involved smacking his hands on his knees if he’d been sitting down, and indicated to anybody English that the meeting was over.
+
+“So, where is number 47?”
+
+Another laugh.
+
+“It’s just there!” her arm extending further beyond the door than it had so far. Freckles, Klee noticed.
+
+Oh yeah, that giant fucking chapel. Blocking out the sky! How could he not have noticed that.
+
+He turned round to give it a good look. And told himself that this might be one of those times that he’d heard Americans call a “teachable moment.” Wasn’t that what he was always telling his sergeants? Getting stuck in one way of seeing things. That was how you got stuck. That was the main problem with being racist, or homophobic. Or even an inverse snob. It stopped you seeing a different angle, the bigger picture. And right now, on the drive across country to Kings Norton, on the south side of Birmingham, he’d imagined a terraced house. Yes, Pausing had said it was a house an old guy had used as a warehouse. But he hadn’t imagined it would actually be bigger than a lot of warehouses. He was completely lost thinking about this for a few seconds, before he realised that he still hadn’t quite finished the conversation with the redhead, he felt he could now call Lilly. He turned back quickly wondering if they might have shut the door while he’d been staring and revering – that can’t be the right word.
+
+The door was still ajar. And Lilly was still smiling and looking out of it.
+
+“Shut the door and come on in girl. Standing on the doorstep with no knickers on.” Any first meeting between two English people, who immediately found each other, well, quite attractive actually, was going to be awkward. But Mrs Ting’s intervention managed to make it extremely awkward.
+
+Again the laugh. But perhaps a bit more strained now.
+
+“Good luck, Mr Klee. Perhaps we’ll see you for tea a bit later!”
+
+And now the door was shut.
