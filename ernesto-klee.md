@@ -289,7 +289,15 @@ Another laugh.
 
 Oh yeah, that giant fucking chapel. Blocking out the sky! How could he not have noticed that?
 
-He turned round to give it a good look. And told himself that this might be one of those times that he’d heard Americans call a “teachable moment.” Wasn’t that what he was always telling his sergeants? Getting stuck in one way of seeing things. That was how you got stuck. That was the main problem with being racist, or homophobic. Or even an inverse snob. It stopped you seeing a different angle, the bigger picture. And right now, on the drive across country to Kings Norton, on the south side of Birmingham, he’d imagined a terraced house. Yes, Pausing had said it was a house an old guy had used as a warehouse. But he hadn’t imagined it would actually be bigger than a lot of warehouses. He was completely lost thinking about this for a few seconds, before he realised that he still hadn’t quite finished the conversation with the redhead, he felt he could now call Lilly. He turned back quickly wondering if they might have shut the door while he’d been staring and revering – that can’t be the right word.
+He turned round to give it a good look. And told himself that this might be one of those times that he’d heard Americans call a “teachable moment.” Wasn’t that what he was always telling his sergeants? Getting blinded by just one way of seeing things. That was how you got stuck. That was the main problem with being racist, or homophobic. Okay, of course it wasn’t the main problem.
+
+But it was the self-defeating, case-killing problem for a detective.
+
+Even being a snob. Or an inverse snob. It stopped you seeing a different angle, the bigger picture. The big picture like a giant Unitarian Chapel.
+
+On the drive across country to Kings Norton, on the south side of Birmingham, he’d been imagining a terraced house, or possibly something grander and detached.
+
+Yes, Pausing had said it was a house an old guy had used as a warehouse. But he hadn’t imagined it would actually be bigger than a lot of warehouses. He was completely lost thinking about this for a few seconds, before he realised that he still hadn’t quite finished the conversation with the redhead, he felt he could now call Lilly. He turned back quickly wondering if they might have shut the door while he’d been staring and revering – that can’t be the right word.
 
 The door was still ajar. And Lilly was still smiling and looking out of it.
 
