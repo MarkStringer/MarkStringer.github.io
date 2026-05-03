@@ -291,7 +291,7 @@ Oh yeah, that giant fucking chapel. Blocking out the sky! How could he not have 
 
 He turned round to give it a good look. And told himself that this might be one of those times that he’d heard Americans call a “teachable moment.” Wasn’t that what he was always telling his sergeants? Getting blinded by just one way of seeing things. That was how you got stuck. That was the main problem with being racist, or homophobic. Okay, of course it wasn’t the main problem.
 
-But it was the self-defeating, possibly case-killing problem for a detective.
+But it was a self-defeating, possibly case-killing problem for a detective.
 
 Even being a snob. Or an inverse snob. It stopped you seeing a different angle, the bigger picture. The big picture like a giant Unitarian Chapel.
 
