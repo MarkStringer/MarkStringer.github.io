@@ -308,3 +308,104 @@ Again the laugh. But perhaps a bit more strained now.
 “Good luck, Mr Klee. Perhaps we’ll see you for tea a bit later!”
 
 And now the door was shut.
+
+
+---
+
+<a id="chapter-4"></a>
+
+## Chapter 4 — Tent
+
+He liked this moment. Let’s face it, he liked most things about this job that he’d been forced into.
+
+“I need somewhere to stay.”
+
+Awkward pause.
+
+“Well, I suppose you could stay here for a few nights and sleep on the couch. But Maggie’s going to complain eventually.”
+
+“Who’s Maggie? Have you found yourself another woman?”
+
+“Maggie is the corgi the previous one left behind.”
+
+“I can’t keep up.”
+
+“To be frank, neither can I.”
+
+“Anyway, it can’t be your house. Not safe for you, not safe for me, not safe for Maggie.”
+
+“I know, but listen, I have an idea.” Another pause. “Ernie? Are you there?”
+
+“I’m still listening.”
+
+“Don’t be keeping quiet to see what I’m going to say on me. I’m not going to incriminate myself.” Again, another pause. “Yeah, yeah, I know. Don’t be so sure. Look, I’m doing a favour for a mate. And I’m taking over his live-in security guard business.”
+
+“A favour for a mate? That sounds – legal.”
+
+“It’s Kosher – in fact, he’s Kosher. Anyway, long story, his wife divorced him”
+
+“There’s a lot of it about.”
+
+“You’re telling me. But somehow Jewish Kevin.”
+
+“Kevin? A Jewish bloke called Kevin?”
+
+“He rediscovered his heritage when he – look, that’s not the point. The point is, he got divorced, then he came into some money. Wrong way round for the ex wife, but right way round for Kevin. And so Kevin went on holiday in the south of France, met someone.”
+
+“This is very touching. What has it got to do with me? Or even you?”
+
+“Kevin is planning on being away for a while. And he asked me to run his house sitting, live-in security guard business. And I was thinking, you need a place to stay, with no direct connection to anyone you know and...”
+
+...and that’s why he was standing there in the chapel. A Unitarian Chapel. That had – from what he figured out from the internet, been working as exactly that until thirty years ago.
+
+“The old boy died. And the place is full of stuff – according to his nephew.”
+
+Yes, the place was full of stuff.
+
+This was apparently a classic design for a chapel of the period. The downstairs bit – “The nave” with rows of pews. And then an upstairs balcony. All the benches on the balcony were filled with books. Except the ones that were filled with paintings. Landscapes mostly from what he could see, except the occasional “portrait of a lady” type. Klee didn’t know much about art – but he knew he didn’t like most of these.
+
+“He lived in a converted Chapel and filled it with books and antiques. The nephew doesn’t want to send the house clearance people until he’s had a chance to have a look. But he’s a banker in New York and he’s working on some deal. So it might be months before he gets a chance to come over.”
+
+On the floor between the benches, mostly in boxes, but sometimes just stacked in the open were sets of china. And in and amongst them figurines.
+
+“I don’t know how he made his money, but his nephew seems to think he had enough of it. Enough anyway to spend on the roof which was the main thing he talked about. Apparently, whenever they talked.”
+
+Cigarette cards. Framed and then the frames stacked, tightly, again tucked in between the benches. Football players from the thirties and forties. Cricketers. World War One biplanes.
+
+“He’s converted the chapel into a house.”
+
+No he hasn’t. Thought Klee.
+
+Not really. There were two sets of stairs up to the balcony. And on the way up the stairs on one side was a tiny room – no bigger than a cupboard with a sink, a fridge, and a hotplate sitting on a microwave.
+
+Off the same landing on the other side was a toilet. In some of the hastiest plumbing Klee had ever seen, someone had built a ledge just inside the toilet door – he’d discovered it by tripping over it. They’d gouged a hole in the floor to expose the drain. And plumbed in a shower head to create the least glamorous wet room you had ever seen. Not something that would ever make it onto the cover of house and gardens, but the mould creeping up the walls seemed to like it.
+
+So, primitive kitchen, nearly primordial bathroom. But where did he sleep?
+
+In the giant tent of course!
+
+He’d seen this before, in fact he’d done this before in a giant hangar that he’d been asked to guard.
+
+“Where the hell am I going to sleep? This thing is ten thousand square metres?”
+
+“Put up a tent, that’s what the last guy did.”
+
+“What happened to the last guy?”
+
+“Well, he died of.”
+
+“What?”
+
+“Pneumonia. Apparently Kevin kept telling him to make sure he wrapped up well. But he didn’t.”
+
+Three layers of socks, two of them thermals. He thought again about Jackie. Jackie should have stopped pulling on that thread. Then he’d have got to finish his prawns.
+
+So Klee had got himself a tent, and a camp bed, and a mattress and two sets of thermals. And he’d been fine.
+
+But this wasn’t that kind of tent. This tent was made of – carpets!
+
+That was part of the wonder of the modern world. Oh yes, there were certainly some horrors. But there were also some wonders. And this was one particular wonder of the modern world. Ernesto Klee could point his burner smart phone at the carpet – tent - thing that took up most of the space in the centre of the chapel. The space called the nave (he’d looked that up on the internet too). Klee could point his smart phone at the tent thing, take a few pictures and then ask the all-important question:
+
+"What the fuck is this?"
+
+A tent. A Berber tent apparently.
