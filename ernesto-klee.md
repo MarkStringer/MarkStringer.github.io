@@ -409,3 +409,56 @@ That was part of the wonder of the modern world. Oh yes, there were certainly so
 "What the fuck is this?"
 
 A tent. A Berber tent apparently.
+
+---
+
+<a id="chapter-5"></a>
+
+## Chapter 5 — Baltazar
+
+It was strung right across the chapel. Tied to the columns. Making him worried about them again. Was it OK to fill the whole balcony with all that stuff?
+
+"What happened to Klee? Did Banks and his boys finally catch up with him?"
+"No, he was hiding out in some derelict chapel in Birmingham and the balcony fell on him."
+He'd cleared a space on a pew to look at the tent.
+It was really the first chance that he'd had to sit down, quietly, since he'd heard about Jackie's death.
+Bayt al-sha'ar – "House of hair." The traditional ones were woven from the hair of their enemies. No they weren't! Racist. They were woven from goat hair. A super smart material, apparently. Warm if it's cold, cool if it's warm.
+
+But he didn't think this was an original one. From what he'd found online, from the pattern, he thought this was one that was commissioned for an international exhibition. And the carpets were British. Axminster in fact. Showing off British industry.
+
+He knew why he was sitting down and having a pause. He didn't want to go in the tent. Baltazar! That's what he could call it. Was that a Hobson Jobson? He wasn't quite sure and couldn't be bothered to look it up just now. Hobson Jobson was a word that you took from another language, but didn't get quite right. He thought about how the French seemed to have done this with English – "Le footing" instead of jogging. He couldn't go around saying "bayt al-sha'ar" it didn't fit in English, and he didn't, despite his name, speak any other languages. But Baltazar! He could say that!
+
+It took him only two circumnavigations before he found a way in. And realised that there was a draw rope – in fact an entire mechanism, with a wooden handle, and a peg, the only one, conspicuously attached to a column. As people often seem to say when talking about tents – and claim falsely when talking about bedsits they're trying to sell – the tent was deceptively spacious.
+
+There was room in there for a single bed. And an armchair. And a telly. He was very relieved to see the telly. Even with the light, spilling in from chapel – which was itself weak – it was almost completely black inside Baltazar – the tent. But shining around inside, with the torch from his phone he saw another rope with a wooden handle. For a moment, he wondered if there was some mechanism that meant he could close the "door" from inside, having opened it from outside. Even though he couldn't imagine how such a mechanism could work.
+
+But no, he pulled the rope and the lights came on.
+
+What had he been expecting to see?
+Not this. He'd been expecting to see a sad old man's final retreat – that was what the kitchen and the damp cupboard that doubled as a bathroom had led him to expect.
+
+But this was, well it was opulent. There were carpets on the floor – and carpets – actually, no they were of some lighter material – he guessed it was some kind of specific material for bedcovers. And he guessed he could look up the name and he guessed that he wouldn't be able to remember it. And a vibrant green armchair – again upholstered in some kind of material.
+
+Here's the thing though. Outside in the chapel, everything looked old. Baltazar looked her age. The balcony was filled with antiques. There was an occasional table next to the armchair and a footstool in front of it. Klee sat down.
+
+He tried to turn on the telly. And his first attempt worked.
+
+Wasn't that weird?
+
+Well, it probably was. He was sitting in a fake Bedouin tent, in a deconsecrated protestant chapel – briefly, until he'd come to his senses, and turned it off, watching Countdown. Outside was a stolen lime green – limes aren't that colour, it was more "cartoon alien ectoplasm" – car. That he'd used to escape the city he'd lived, loved and worked in all his adult life. Because maybe, the people who had killed his best friend and colleague – a policeman who had made the cardinal mistake of trying to actually catch bad guys, maybe those people, just maybe they were going to try to murder him as well. Oh, and the neighbour, well not actually the neighbour, the racist neighbour's daughter, well, from what he could see of her through the three or four inches that she'd been willing to open the door, was hot.
+
+No part of this wasn't weird. It was far from an ordinary day.
+
+And in all the kerfuffle. He hadn't really given Mr Boht, Mr Julius Adolphus Boht, that much thought right up to that point. But now he was giving him a little bit more. Walking around in the chapel, he'd assumed that Boht was some kind of crazy hoarder. Looking at the kitchen, and then at the bathroom, he'd imagined someone in a string vest and porridge-coloured Y-fronts. Nobody wears string vests anymore, do they? Not *that* kind of string vests, anyway.
+
+And now Ernesto Klee realised he hadn't eaten anything, hadn't drunk anything, since he'd left London.
+
+He knew that there was the offer to go next door and get a cup of tea from Lilly – although he didn't know what the mother would make of that.
+
+But he also knew that a crucial part of moving into a new place and making yourself at home was making that first cup of tea. He realised he hadn't bought any of the necessary ingredients. So he realised he'd be dependent on whatever had been left behind. When did Boht die? How many days ago?
+
+Fifteen minutes later he was back in the armchair with a passable cup of tea. In the single cupboard in the kitchen he'd found a fairly recent-looking box of teabags. In the fridge, and in the freezer he'd found – nothing. That was very odd. But he had found little sachets of UHT milk. It was disgusting. But for some reason, not as disgusting as tea without milk. So now there he was sitting in another man's armchair. Inside another man's fake Victorian Bedouin tent, watching some TV show about antiques.
+
+Did Boht deal in antiques? Were those things out there actually antiques? He'd heard that cigarette cards were collectibles. He knew nothing about paintings, maybe some of the paintings were valuable.
+
+Why did they have to be valuable?
