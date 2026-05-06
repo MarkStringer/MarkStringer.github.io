@@ -462,3 +462,143 @@ Fifteen minutes later he was back in the armchair with a passable cup of tea. In
 Did Boht deal in antiques? Were those things out there actually antiques? He'd heard that cigarette cards were collectibles. He knew nothing about paintings, maybe some of the paintings were valuable.
 
 Why did they have to be valuable?
+
+---
+
+<a id="chapter-6"></a>
+
+## Chapter 6 — Dust
+
+Dust!
+
+He'd woken up at his favourite time in the middle of the night. 4.44am.
+His "favourite" time. The time when, no matter how well things were
+going he was convinced they were about to turn shit. 4.44am. The time of
+night, when if things were really going badly, he was convinced that
+they were going to get worse.
+
+4.44. His wife was never coming back. What little money he had was going
+to be spent on fleeing, on evading these people who were supposedly
+chasing him. Or he was going mad. No one was chasing him. He was running
+around the country, crazy, running from nobody. He wasn't that
+important. No one was chasing him. He was running from shadows and
+ghosts. Oh yeah? Was it a shadow or a ghost who interrupted Jackie
+Spanner in the middle of king prawn biriyani and made him walk out on
+the icy patio? Was it a ghost that shot him and then gently laid down
+the shotgun on the picnic table?
+
+But talking of ghosts, what about the chapel he was in now? Who was
+cleaning it? Why wasn't there any dust? He hadn't found a hoover --
+although it wasn't the first thing he looked for in a new house. It was
+about the fifteenth thing he looked for – when he'd been in a place
+about a week. Yes, that's it – about a week.
+
+This place was spotless. Someone was coming in and cleaning. They'd been
+in. In the last week. Who?
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\----
+
+"So what do I have to do, do I have to stay in the place the whole
+time."
+
+"No. In fact, coming and going is part of the idea. If people see
+there's someone in the house, that they're going out and coming back.
+Oh, you know this. Villains are cowards. They're only going to burgle a
+place if they think there's no one in there. Except for the psychos who
+get off on beating up little old ladies."
+
+"So just come and go, like I live there?"
+
+"Exactly."
+
+"And is there a wage?"
+
+There was a pause on the other end of the line. He knew former detective
+sergeant Lucas Pausing was pulling a face.
+
+"Fucking tight wad Yorkshireman. I can pay you – but it's not much. And
+I'd have to route it round the houses. And you know what we always say
+about following the money."
+
+"I'm yanking your chain, I don't need paying. I'm just wondering. If I
+were really doing this job for real, what would I look like? It's like a
+security guard job right? So I'd be broke, or on the verge of broke."
+
+"Yeah, you're going to have to cut down on that lavish lifestyle, and
+leave the designer suits in the wardrobe. Maybe stick to the supermarket
+brand sausages and stay off the fancy export lager. You still got that
+blue suit with the mustard stains down both trouser legs? That would be
+OK."
+
+"Fuck off Pausing."
+
+Pausing laughed.
+
+"Let me know if you need anything Ernie. And stay safe."
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\----
+
+After his 4.44 panic, he awoke late – after nine and ravenous. And
+decided that before he shopped for groceries, he needed a proper
+breakfast. A brief look on his burner phone showed him that there was a
+breakfast place around the corner.
+
+But as he locked the door, with the enormous key and wondered if it was
+going to fit in his trouser pocket, he caught sight of the bright green
+monstrosity that Dev had given him. Was it stolen? Technically, it was
+stolen.
+
+Certainly, if the chap whose name was on the log book managed to ascend
+the Glasgow coma scale to double figures (Eye opening, spontaneous – 4,
+Verbal response 5 – oriented, physical response 6 – obeys commands).
+One of the questions that he might ask back, might be "Where's my
+fucking car?" And his second questions might be "Oh my god! You didn't
+leave it in the hospital car park!"
+
+Then again this guy was plumbing the depths of the Glasgow coma scale.
+Eye opening? 1 - None. Verbal response? 1 - None. Physical response? 1 -
+None. And according to Dev, the reason was that he'd taken an unplanned
+journey through the windscreen of his lime green sex machine and been
+found – after quite a lengthy search – upside down in a hawthorn bush
+about 20 feet away from the verge of the North Circular.
+
+Even so, maybe there were some other people a bit further up the Glasgow
+coma scale, although Klee thought bitterly in the Met, he hadn't known
+that many, and they, or some of their mates in the West Midlands police,
+even if they didn't open their eyes to sounds or commands, might open
+them and check the number plate of a retina-splitting lime green muscle
+car.
+
+It was only now, he noticed, right next to the chapel there was a
+garage. But his heart sank. He was tired of trying to make sense of
+piles of junk that might not be junk. There was a lock on the garage. A
+conventional Yale lock. And next to the huge, mostly rusty key for the
+chapel side door, on the same ring was a Yale key. He tried it. And the
+door opened.
+
+The garage was completely empty.
+
+Completely empty!
+
+But on the floor was sawdust. And a few oil stains. And the sawdust was
+reasonably fresh.
+
+A car had been here. Until very recently. And now that car was not here.
+Where the hell was that car? Did whoever did the dusting take the car?
+Did the cleaner take the car?
+
+Some things weren't adding up. Klee tried to avoid them. He knew he had
+enough trouble in his own life, without bothering with any trouble that
+might have been in Boht's life. He tried to tell himself that this was
+great news. The chapel was reasonably clean – apart from the mould in
+the bathroom. The garage was empty, he could drive the great green
+monstrosity in there, right now. And stroll out for breakfast. It was
+fine. It was fine. He kept trying to tell himself.
+
+But a voice that was also him. A voice closely related to the 4.44
+voice. A voice that he knew was the voice that had kept him alive this
+long. The voice that, even when he tried to ignore it, even though he
+could put it off until after breakfast, he would finally have to listen
+to. That voice. Said this.
+
+This is not fine.
