@@ -758,3 +758,139 @@ been dead more than two weeks -- but the place seems to be spotless."
 "Oh, yes, I should have probably told you about that -- and she's due in
 today. The cleaner, well, the cleaner is my mother."\
 "Mrs Ting?"
+
+---
+
+<a id="chapter-8"></a>
+
+## Chapter 8 — Books
+
+"And that was the Bee Gees with 'Tragedy' its greatest hits of the
+seventies and eighties all morning long, here at Those Were The Days
+FM."
+
+Klee had tried the key in the lock, but the door was open. And music
+from the seventies and eighties was blaring out from a portable stereo
+that he hadn't noticed before, but could see from its slot on the pew,
+surrounded by a pile of audio cassettes -- audio cassettes! And CDs.
+CDs! He could see that that was its spot. Mrs Ting hadn't brought it
+with her.
+
+Mrs Ting was in the balcony. Singing along to a song that he remembered
+that for some reason had a French chorus "Chanson pour les petits
+enfants." Singing at the top of her voice, over the sound of the hoover.
+
+He didn't know quite what to do with himself. It seemed too peculiar to
+go and sit in his tent. I mean just that phrase was pretty odd.
+
+He didn't want to go up into the balcony and startle her. So he tried to
+clear some space on a pew, lifting up a box full of crockery and placing
+it gently on the floor.
+
+"Who's there? Who is it?"
+
+Mrs Ting was peering over the balcony. Klee looked at the portable
+stereo -- he remembered when these were all the rage and figured out how
+to turn it down.
+
+"It's me Mrs Ting."\
+"Oh Mr Klee! I wondered when you'd be back." She was in a tabard. And
+her hair was in a scarf. Somehow she looked much younger. Or maybe now
+she looked her age. Which Klee realised, uncomfortably, was about his
+age. And she was much friendlier.
+
+"Just a moment Mrs Ting."
+
+Klee found looking up at her a tad awkward. Like just about every
+conversation between two English people who didn't know each other well,
+and, actually, like many conversations between English people who did
+know each other well. And of course, through his entire career, as soon
+as anyone knew you were a policeman, in their head, he realised, even
+the most innocent, law abiding citizens, they did this thing. They
+thought of the thing that they didn't want a policeman to know.
+
+Did they have marijuana plants in the attic -- they looked up at the
+ceiling. Were they worried that the car's tyres were bald - they
+actually went out of their way to look at it in the driveway. Had they
+killed their abusive partner and really struggled to know what to do
+with the body? They stared really hard at the uneven paving on their
+patio.
+
+Maybe Mrs Ting didn't know yet that he was a policeman. Because when he,
+slightly breathlessly, made it to where she was standing in the middle
+of the balcony. She was all smiles. If she had killed anyone, she
+clearly didn't think Ernesto Klee had any chance of finding them.
+
+"I'm glad you're here," she said, smiling again. I wanted to ask, Mr
+Boht, he had me do his laundry. Do you want me to do your laundry?
+
+Laundry. Klee didn't want to admit that he only had the clothes he stood
+up in. "I don't have anything for you just now."
+
+"That's fine," said Mrs Ting. "Anything you do need washing -- just
+leave it in the back in the basket next to the machine."
+
+"What machine?"\
+"The washing machine."
+
+"There's a washing machine? Where is it? In the kitchen? I didn't see
+it."\
+"Ha kitchen! You mean where he has his hotplate?"
+
+"No, it's in the back?"\
+"In the back?"
+
+"Behind the books."
+
+In their first meeting, it had crossed Klee's mind that Mrs Ting had
+some kind of cognitive deficit. Now it crossed the mind of both Mrs Ting
+and Ernest Klee that maybe it was Ernesto Klee who had the cognitive
+deficit. Klee had another go -- but he sensed he wasn't on firm ground.
+
+He gestured at the pews behind them.
+
+"These are the books."\
+"Yes," said Mrs Ting, a little shortly. He could see that the temper
+he'd seen when he'd knocked to get the keys was never far from the
+surface. "But they're only the picture book and the books that won't fit
+on the shelves. Most of the books are in the back room."
+
+The back room.
+
+He'd missed an entire room! And, in the nature of this building. It
+wasn't just a normal sized room. It was the Sunday school room at the
+back of the building. And it was the same size as the chapel but without
+any of the fixture and fittings. No pulpit, no organ. No balcony. Just a
+rectangular box. A rectangular box, about the size of a tennis court.
+Filled with books.
+
+And Klee, at one point, rumoured to be the best detective in the Met.
+Had missed it. But Klee excused himself a little bit when he saw that it
+essentially, from the chapel, anyway, it had a secret entrance. The door
+was part of a dark wall, panelled in dark wood which had been stained
+and varnished a dozen times. And it was made to look like the rest of
+the wall. The only clue that there might be something behind it was a
+lightened patch on what turned out to be the door. The place where hands
+had for years worn the stain and the varnish away. Although Klee
+realised it might have been a clue if he'd taken the time to walk around
+the outside of the building he would have discovered that he'd been
+placed in charge of a building that was twice the size that he'd
+originally thought.
+
+Mrs Ting looked back at him. She was putting the key to the secret door
+back on its ledge.\
+"Sorry love, I thought you knew about the books. The washing machine is
+on the other side. First time you probably need to follow me. It's a bit
+of a..."\
+"A maze?"
+
+"Yes! that's exactly right! That's what it is! A maze."
+
+As he followed Mrs Ting, who set off at the pace of someone who had
+walked through a maze of bookshelves many times and no longer thought it
+that strange. He looked at the titles of the books.
+
+There appeared to be everything!
+
+Mass market paper backs. Hard back novels. Antiquarian. He wondered if
+there was any system to their order on the shelves.
