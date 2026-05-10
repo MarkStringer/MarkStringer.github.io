@@ -894,3 +894,81 @@ There appeared to be everything!
 
 Mass market paper backs. Hard back novels. Antiquarian. He wondered if
 there was any system to their order on the shelves.
+
+
+---
+
+<a id="chapter-9"></a>
+
+## Chapter 9 — Maze
+
+For a moment Klee wondered if he knew anything about exploring mazes.
+He'd heard -- what was it? -- you keep a hand on one wall and just keep
+walking? But then he realised, all he had to do was follow Mrs Ting.\
+\
+"I just follow the fire extinguishers," she said.
+
+"I'm sorry?"\
+"The fire extinguishers. I used to get lost -- I mean it's like a maze
+in here."
+
+"Er, yes."\
+"So Mr Boht, he put fire extinguishers at all the junctions."
+
+"Was Mr Boht in the book trade?"\
+"Ooh, I don't know, he never said."
+
+"When did he move here?"
+
+"Must have been, well, it was just after our Lilly was born. And my
+Jimmy was still alive."\
+"Jimmy?"\
+"My husband. He was an awful man, and I'm glad he's dead."
+
+"Right."\
+"1995 he died. So before that. A little before that."\
+All the time they were talking they were walking. Mrs Ting was moving at
+a pace. She didn't seem to be looking at the fire extinguishers. But he
+noticed that she was following their logic. Always taking a turn where
+one was placed.
+
+They came out into what was clearly the middle of the maze. A large
+leather-topped desk and a chair. A sideboard. With a drinks tray and all
+the equipment to make tea and coffee, a kettle and the water container.
+
+An enormous space, thought Klee. With just two chairs. Both of them for
+Boht. It didn't look like he ever expected company.
+
+He was following Mrs Ting at speed. But he was ready for a sit down. He
+was also interested to have more of a look around at the things on the
+shelves in front of the books that surrounded Boht's desk -- this was
+his office, wasn't it?
+
+But Mrs Ting didn't seem to want to stop. She was sort of lightly
+jogging on the spot. "I was going to show you the back."
+
+"The back."
+
+"Yes, there's a back door. He didn't use it much. But if you're staying
+here, you probably need to know where the back door is -- you know,
+like, in case of" -- she searched for a word and he realised that he
+didn't have any good idea what that word might be -- "emergency," she
+said, eventually.
+
+And off she went -- past another fire extinguisher to her left. In the
+middle, he could see the ceiling. He realised that up to that point, he
+hadn\'t seen the ceiling. The corridors of the bookshelves were covered
+in some kind of semi-translucent material -- he guessed it was to
+protect the books.
+
+Now he was pretty comfortable that he\'d got the fire extinguisher
+system for finding his way down. He didn't feel the need to chase after
+Mrs Ting quite so closely, but he increased his speed when he heard her
+scream.\
+\
+"Them bastards."\
+"Mrs Ting."\
+"I bet it's them bastards next door."\
+Of course he quickened his pace. The final corridor of books and
+bookshelves led him to an entrance hall. And to a set of double doors,
+which had clearly been jimmied or smashed open from the outside.
