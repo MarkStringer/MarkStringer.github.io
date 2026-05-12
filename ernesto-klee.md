@@ -1169,3 +1169,142 @@ Oh great. A boss watching him at all times. Having to make sure he
 didn't walk any where in his pants, or in a wet suit. Or a suit of
 armour.\
 "Yes, of course. That will be fine."
+
+---
+
+<a id="chapter-11"></a>
+
+## Chapter 11 — Pine
+
+A bar lock on the back door -- so it can could only be opened from the
+outside.
+
+A bar lock on the front double doors of the chapel. It took a while
+picking and pulling through the pews to reach it. That was the door Klee
+thought, that you'd walk through if were walking down the aisle and
+getting married here -- people must have done that.
+
+A new lock and an and extra lock on the side door to the chapel. And
+cameras. Cameras on the balcony in the chapel.
+
+And then cameras in the organ loft. There was an organ loft! A different
+set of stairs behind a different, what looked like just a panel. Cameras
+in the organ loft pointing across at the balconies and down at the pews.
+
+But what about the school room? The book maze? That's what it was wasn't
+it? A maze of books. A labyrinth of books. Well, one pounting tight on
+the back door -- the one that had just been pretty much barred with a
+giant locked bar. The jimmied hole patched.
+
+"I've had a bit of a walk around. It's going to be big job. I've rigged
+nightly clubs, I've rigged, football grounds. I've never rigged a maze
+before. To be honest with you."
+
+Like all tradesmen that Klee used. Preston Vanz, came recommended by the
+London criminal fraternity.
+
+It just took one call.
+
+"Big G"\
+"Mr K"\
+"You used to have clubs in Birmingham didn't I hear."\
+"I have many regrets, in a long life."
+
+"And that's one of them."\
+"It is. They should have a giant sign at the Watford Gap services 'Turn
+round now mate, you're making a mistake.'"
+
+"How did it happen?"\
+Bernie Gersten let out a long, low sigh.
+
+"It's a long story. It involved a woman, a poker game. And a bloke who
+fell in a canal -- twice."\
+Klee knew he'd be sitting in his office. Possibly one of the darkest
+spaces he'd ever been in his life. Especially that time, when it had
+looked like Bernie was going to have to kill him. That was all a
+misunderstanding. They'd sorted it out. They'd laughed about it later.
+Well, Bernie had laughed.
+
+He imagined that long out of Bernie, sitting in his office. Was Bernie
+still smoking actually cigarettes. Now it seemed as antiquated as well
+-- wearing a suit of armour. Was it smoke he was blowing out on that
+sigh? Or was it a vape now? No longer tobacco scented.
+
+"When you needed locks changing, or cameras fitting, who did you use?"
+
+"Dalton Vanz -- I'll send you a number. But he's long retired. It's his
+boy now. A right techno whizz kid. Or God! What's his name. Preston!
+Another place that should have a warning label on the outside."
+
+"Not a big fan of the North then Mr G."Bernie Gersten let out a long,
+low sigh.
+
+"In London, you know where you are."\
+And so does everybody else, thought Klee.
+
+"You're not setting up outside the M25 are you Mr K?"\
+"Don't be daft." Something happened in Klee's chest, as if he'd just
+swallowed something icy and vinegary at the same time. Don't worry,
+Bernie wasn't going to tell anyone.
+
+"It's my old auntie, she still lives in a bungalow in Stirchley. Some
+junkies just tried to do over her place. In the middle of the night. She
+fought them off with with the Hoover -- actually a Henry -- but she
+doesn't want to have to sleep with it next to her bed."
+
+What was the point of lying to Bernie G? One of the smartest villains
+he'd ever met.
+
+"Well." He said, obviously, now more curious, because he'd been lied to.
+Achieving, Klee realised the opposite of what Klee had intended. "You
+can't be too careful."
+
+\
+So Preston Vanz had essentially tripled te security of the place. And
+links to the new system had been sent to Mr Turps. But what to do about
+the maze?
+
+"Tomorrow I can bring you a camera for every corner," he said tucking
+into a piece of cake\
+nearly the size of his dread locked head. Mrs Ting had taken an instant
+shine to Preston. Which made Klee question his original idea that she
+was a racist. Maybe it was that she just didn't like Germans? Or people
+she suspected of being Germans.
+
+As Preston had worked, she'd pestered him with unrequested cups of tea.
+Getting the milk and sugar combination so exactly right on the third go
+that Preston had exclaimed on the third sip!
+
+"Oh, that's a good cup of tea Mrs Ting!" Ensuring the appearance of
+further cups and also cake.
+
+What a day! Klee could see from the way that the sun was streaming in
+through the chapel windows that it was starting to set.
+
+"I was thinking just for tonight Mr Klee, we could put just one three
+sixty camera above." Preston pointed up through the mesh. He was sitting
+on the arm of the armchair at the centre of the maze, eating his cake.
+
+"And then tomorrow I can put cameras, I don't know -- at every
+junction?"
+
+"That sounds great," said Klee. "But I don't know you're going to get up
+there"\
+"Well can't he take the stairs?" Mrs Ting was taking away Preston's
+plate and mug.
+
+Klee was getting sick of saying "What stairs?" But he said it again.
+
+In yet another cupboard was as spiral staircase which lead up to a
+walkway. Here's where the lights were that lit the maze. And from up
+here, he could see the pattern of the maze. And the mesh that covered
+it.
+
+It occurred to him that he could draw himself a map of the maze. Which
+somehow, made him feel more comfortable than relying on the fire
+extinguishers. The mesh was kept in place, along the top of every
+bookcase by a line of bricks. They weren't house bricks. They seemed to
+be covered in rubber. They reminded Klee of something that he hadn't
+seen in maybe forty or so years. The rubber covered bricks that they
+used to dive down to the bottom of pool and retrieve as part of their
+personal survival medals at the swimming baths.
