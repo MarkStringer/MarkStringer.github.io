@@ -1024,3 +1024,148 @@ and leaf mould down one aching side, standing on. It was suburban semis
 in both directions. With no sign of any movement but in the middle
 distance the sound of the accelerator being floored in the kind of car
 that had deliberately not silenced exhausts.
+
+---
+
+<a id="chapter-10"></a>
+
+## Chapter 10 — Armour
+
+"Somebody tried to break in."\
+"Did they succeed?"
+
+"No, but they tried to do it in the middle of the day."
+
+"Most of the locks are feeble."\
+"Well, you're the security consultant."\
+"Will it be OK with the nephew if I get something a bit more -- well a
+bit more anything -- fitted? Something with a bit more oomph."
+
+"I'm guessing so. But maybe you should talk to him yourself."
+
+\-\-\-\-\-\--
+
+"Mr Pausing assured me that you're the best man for the job. And that
+paying you to stay in my uncle's house is the best way of keeping it,
+and all of it's things safe Mr Klee"\
+"That's very kind of him."
+
+"But now, I hear that on the first day, that my uncle's house has been
+burglarised -- in broad daylight."
+
+Clients. That was one thing at least about being a copper. You didn't
+really have clients. Well, when you were on the murder squad. There was
+this idea I suppose that you were avenging the death of the victim. And
+so, you could, possible say that that person, the dead person, was the
+client. But as a client, they were great. Because they didn't interfere.
+They didn't tell you how to do your job.
+
+And of course, every now and then, a member of the public would tell you
+that they were paying your wages -- as if they were the first person
+who'd thought of it. And yes, of course, is some sense, technically, you
+did work for them. But not in a sense that meant that you couldn't,
+mostly, tell them to hop it, or, possibly something stronger if they
+were getting on your nerves.
+
+But Jonathan Terpsichore -- what the hell kind of name was *that?*
+Pronounced "Turps -- ick -- o'ree!" was a client that he couldn't tell
+to hop it.
+
+"I understand Mr Terpsichore, it is very disappointing. I was talking
+with Mr Pausing. And he thought that it might be better if I talked to
+you personally."
+
+"What time did this break-in happen?"\
+"Around mid-day."\
+There was a pause.\
+"So, that's what? Seven a.m. New York Time?"
+
+"Yes." Why on earth did that matter?\
+There was another pause.\
+"Okay." As if that made sense -- why did that make sense.
+
+He had to assume that Terpsichore was looking at his, just as he was
+looking at Terpsichore. He'd shown him -- at his insistence -- the door.
+
+He knew what he wanted to do to make things a bit more secure. And he
+knew who he wanted to do it. And if it were his own house. Or if it were
+a place that they'd been trying to look after on the job, it would have
+been sorted by now.
+
+"And you don't think we should call the police?"
+
+Terpsichore looked frail. Klee realised that he must be about the same
+age as him. Maybe ten years older at most. It was difficult to get the
+measure of anyone over a video link, and he'd turned on a fake
+background -- so there was no context. He imagined that his skin, if you
+were to touch it would be papery. He had blue eyes and sandy hair. The
+resting place for his mouth didn't seem to be in a straight,
+symmetrical, neutral expression. He was wearing a business suit and a
+tie. On his top half, anyway, who knew what anyone was wearing under the
+desk these days. Wet suit? Stockings and suspenders -- suit -- of
+armour? Klee's thoughts were drifting, wondering if ordinary Chinos
+often caused him a rash, and he'd only ever tried leather trousers --
+once! What the hell would iron pants be like?
+
+"Mr Pausing said that he'd leave that to your judgement, and of course,
+if there were insurance, involved, but my uncle -- my uncle didn't
+believe in that kind of insurance."
+
+"Sweet Jesus holy fuck no! We're not calling the police! That's the
+whole point of this gig, is to avoid the police!" Is what Klee wanted to
+say.
+
+But what he did say was.\
+\
+"I wish it were the case that the police would pursue a matter like this
+Mr Terpsichore, but having been a policeman myself, I'm afraid, that all
+we'd really get out of the process is a crime report number."
+
+"Yes, I understand, it's rather the same. Here in New York. So what do
+you propose."\
+"I have an associate. Who specialises in securing," - a pause --
+"addresses" -- he was going to say crime scenes, murder scenes.
+
+"But of course" he continued. There's a cost.
+
+"Yes, of course. How much are we talking about?"
+
+"It might be several thousand."\
+Now there was no pause, "I think, give the circumstances, that would be
+very good idea. What kind of thing would this involve."\
+"Well, decent locks -- probably a bolt for this back door, and some
+surveillance cameras."\
+"If we had that, why would we need you?"\
+"Well..." He had a point, why did they need him? What good had he been
+so far? There he was pointing his phone at a massive villain-shaped hole
+in a door that -- some security guard he was -- he'd only found out
+about half an hour before. Not the hole! The door!
+
+"My apologies Mr Klee, it's the nature of my business to have to deal
+with aggressive and confrontational people all day long. And the
+temptation is to become aggressive and confrontational and, sad to say,
+I seem to spend all of my days, and most of my nights engaged in my
+business. And this tends to spill over into, family matters. It's become
+a serious source of grievance for my wife."
+
+"That's quite all right."\
+Klee was very glad that he hadn't been asked to justify his presence.
+Because wasn't sure that he would have been able to. But then he'd
+started to get worried that "Turps" was going to start sharing his
+domestic problems. And that was something he hardly ever wanted anyone
+to do -- even when it was his job to listen to them.
+
+"So it's ok for me to bring in my -- associate? And fit some locks and
+some surveillance cameras."\
+"Yes, it's quite alright. In fact, I think it's the right thing to do."\
+"Righto, I'll get right on it."\
+"Oh Mr Klee"\
+"Yes, Mr Turps" he realised that might not be a great idea just calling
+him that in his head "-- ick -- O'ree?" he finished.\
+"Would it be possible to send me the links to the feeds from the
+surveillance?"
+
+Oh great. A boss watching him at all times. Having to make sure he
+didn't walk any where in his pants, or in a wet suit. Or a suit of
+armour.\
+"Yes, of course. That will be fine."
