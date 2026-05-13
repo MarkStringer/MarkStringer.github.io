@@ -7,6 +7,16 @@ title: The Least Interesting Case of Ernesto Klee
 
 <img src="/assets/ErnestKlee_BookCover_half.jpg" alt="The Least Interesting Case of Ernesto Klee — book cover" width="900" height="1350" style="max-width:100%;height:auto;" />
 
+It had crossed his mind that being a security guard might be an easier life than being a murder detective.
+
+But after a break-in on his first day, things aren't going too well.
+
+Someone has stolen something from Ernesto Klee - the trouble is, he's not sure exactly what.
+
+And he can't call the police, because he's fairly sure they are trying to kill him. His wife isn't talking to him - mainly because of the whole police trying to kill him thing.
+
+Worse still, his daughter is still talking to him, and she's telling him things that no father wants to hear.
+
 A novel written in May 2026, one chapter at a time, every weekday morning.
 
 ---
@@ -1308,3 +1318,130 @@ be covered in rubber. They reminded Klee of something that he hadn't
 seen in maybe forty or so years. The rubber covered bricks that they
 used to dive down to the bottom of pool and retrieve as part of their
 personal survival medals at the swimming baths.
+
+---
+
+<a id="chapter-12"></a>
+
+## Chapter 12 — Burger
+
+A good night.
+
+Maybe because he felt he could sleep a little more soundly after
+installing the locks and the cameras. Maybe because he'd got used to
+living in a tent, in a chapel, next to a maze. Maybe because the day
+preceding that night of uninterrupted unconsciousness had been
+absolutely exhausting. When was the last time he'd actually chased
+villains like that?
+
+When was the last time he'd chased villains and jumped off a wall? One
+of the advantages of being in the Met was that there was always someone
+in uniform who you could send off to do the chasing.
+
+No four forty-four wake-up call from his deepest, darkest fears. And
+there was even more good news. He'd found the shower! Not the dank
+mouldy cupboard on the stairs up to the balcony. No, beyond the library,
+there was a wonderful new bathroom and also a kitchen.
+
+So, this morning, he'd walked through his maze – his maze! And
+showered, and then, making himself a coffee, he'd walked back as far as
+the centre, took a seat and took a minute to take stock.
+
+You're on the run from the Met. Or at least you think you are. There's
+only one way to know for sure, and that would be to give them a chance
+to catch you.
+
+You've been put in charge of a chapel full of STUFF! Paintings,
+cigarette cards, French art deco glass.
+And you've also been put in charge of a maze of books.
+
+He had to spend most of the morning waiting in. For deliveries. One of
+the aspects of fleeing for your life in a, slightly, stolen lime green
+car in fear for your life from Europe's, apparently largest and most
+efficient police force, is that you don't have any time to pack.
+
+So Ernesto Klee, in the quiet evening after all the kerfuffle the day
+before had ordered himself some pants and some socks and some t-shirts.
+
+He didn't trust on-line to deliver a pair of trousers that fitted. So he
+looked up the nearest Luke and Fletcher. Luke and Fletcher was the store
+where he always bought his trousers. When he'd been on the force, it was
+the place where he'd always bought his suits.
+
+There was an out of town store on an industrial estate, not far from the
+chapel. But for some reason, that didn't interest Klee.
+
+There was a store in the centre of town. And he knew why he wanted to go
+there.
+
+He wanted a bus ride, and he wanted a burger.
+
+Sherlock Holmes had his pipe and his violin and therefore, it is to be
+deduced, my dear Watson, his despairing neighbours. Morse had his opera.
+Poirot had his tisanes, that didn't even sound inviting in the books.
+
+Klee had buses and burgers. He'd seen an interview once with a
+professor, some Nobel prize winner. And it was on some kind of youth
+show. Maybe what they call now an "Ask me anything" and, of course,
+somebody had asked this guy "Where do you get your ideas from?"
+
+And, because obviously the kind of person who wins a Nobel prize, well,
+there's a chance that he's a bit of a nerd. He was very serious about
+the answer.
+"Well for me, it's the three B's" and he held up three fingers "Bus,
+bath and..." and Klee wondered if the third would be burger. But no, in
+this particular genius's case, the third magic B was "Bed."
+
+Klee wasn't sure he had any good ideas in bed. Yes, he knew how that
+sounded. And it was probably right. Terrors. Oh yeah. He had those.
+Frequently at four forty-four. Bad ideas? Like sleeping with Elaine
+Sketchley, definitely. Humiliating moments, well, he'd had a few. Where
+was this meandering thought going?
+
+Bus. The bloke had nailed it with the bus. Upstairs and the very front
+if possible. It was hard not to slip into some kind of trance. It was
+hard not to be fascinated by what you could suddenly see over people's
+fences that you couldn't see at street level.
+
+Bath? Maybe. Things had to be going really badly for Klee to run a bath.
+Klee was more of a shower man. But he'd had good ideas in the shower,
+certainly. Something about that moment when the water hit his feet. That
+was another quirk maybe about Klee. Maybe it was a good question to ask
+someone if you were getting to know them – when you get into the
+shower? Which bit of you do you get wet first? Klee hated showers with
+fixed heads, you sometimes got them in cheap hotels. Because he wanted
+to get his feet wet first. Always.
+
+But he was disappointed when the famous Nobel prize-winning guy didn't
+say burger. He'd seen some documentary about how the whole experience of
+walking into a burger restaurant – and it had been his favourite,
+Billy's Burgers – was engineered to be easy, smooth and reassuring. And
+maybe that was it. Maybe it was that the food was the same every time.
+Klee never went for the new, tantalizing option.
+
+He ordered the same thing every time. They'd changed the cheese in '93
+and it had taken him a few years to get over that.
+
+The bus ride had done its trick. He'd slipped into a reverie. He'd found
+himself in the centre of Birmingham. A shopping centre on top of a
+railway station connected to another shopping centre. Another maze. And
+he'd banged around it until he'd found Luke and Fletcher's. He didn't
+need to try them on. He knew their trousers fitted.
+
+And so he'd rewarded himself with a burger in Billy's Burgers. The whole
+morning he'd been in a bit of a turn yourself around, sort yourself out
+kind of haze. Occasionally he'd check his phone. Check the app that
+showed him the cameras. But then he'd sink down into, what he suspected
+might be a new routine.
+
+Get the bus into town, do your bits and then order a Billy's double
+bubble burger. But as Ernesto Klee took that first bite. He came out of
+his trance, as if he'd bitten into the burger and broken a tooth.
+
+This single thought brought him to his senses, and made him finish his
+burger, that he normally liked to savour and eat slowly. This single
+thought made him pick up his bags with his new clothing, jump into a cab
+at the rank and shout out the address of the chapel that had been his
+home for the last 48 hours.
+
+He thought he knew why the garage was empty.
