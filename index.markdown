@@ -9,11 +9,11 @@ title: Home
 
 I'm a writer, performer and project manager.
 
-![Mark Stringer Author Performer Project manager](/assets/MarkStringerMeOnStage_small.jpg)
+[![Delivering the Impossible — book cover](/assets/DeliveringTheImpossible_cover.png)](https://amzn.to/4t4Pic8)
 
-This is a single-page site. Blog posts, show reports. Performance dates. Everything goes in this page. 
+This is a single-page site. Blog posts, show reports. Performance dates. Everything goes in this page.
 
-If you want to contact me, my email address is mark.stringer@gmail.com - phone (+44) 07803257982.
+**Email: [mark.stringer@gmail.com](mailto:mark.stringer@gmail.com) — Phone: [+44 07803 257982](tel:+4407803257982)**
 
 ---
 
