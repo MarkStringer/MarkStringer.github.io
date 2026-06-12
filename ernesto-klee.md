@@ -1445,3 +1445,317 @@ at the rank and shout out the address of the chapel that had been his
 home for the last 48 hours.
 
 He thought he knew why the garage was empty.
+
+---
+
+<a id="chapter-13"></a>
+
+## Chapter 13 — Pasties
+
+"Boht is, was, Darren Oliver Brand."
+
+He was the mastermind behind a gold bullion job in the mid nineteen
+nineties. Mid-nineties? October 14^th^ 1994 to be exact.
+
+The gold was divided up in a lock up in Essex and his half was never
+seen again, nor was he.
+
+The received wisdom is that the tricky bit with gold is smelting it down
+and then fencing it.
+
+And that's how the others got caught.
+
+But David Oliver "Dobby" Brand was known as the "general." Because all
+of his jobs were planned with military precision. Or at least that's
+what they said. Remember, we're dealing with villains. And the kind of
+villains who were doing jobs in 1994 -- they weren't like previous
+generations that had done national service. I think they might have been
+anybody who could get beyond planning what they had for breakfast. But
+it is true that Brand was a planner.
+
+The first job that he'd been involved in was the Cadfield Farm heist. An
+unusual payroll that was all in cash, in the early nineties. They got
+away with all the money, but there was a problem. Brand had put enormous
+amounts of effort into planning the robbery. And the gang stopped the
+transport that had all the money in a culvert. They used some kind of
+jammers to stop the radio signals from the security vans. And they
+didn't use violence. Well, nobody got hurt anyway. That was another
+Dobby signature. They used some kind of anaesthetic they'd nicked from
+the hospital. And masks.
+
+The anaesthetic had the added benefit of wiping the memories of the
+guards in the van -- none of them could remember a thing. Not even the
+one who later, it turned out had been and accomplice.\
+\
+This was Dobby's first known real job. Before that, he literally had
+been knicking stuff of the back of lorries. and it had all kinds of
+inspired touches.
+
+There was just one problem. Actually, there were two problems. The first
+problem -- and this might not sound like one - was that they got away
+with a lot of money. It was more than in a normal week because they were
+going to lay off about half of the workers. The project was winding
+down, so there was holiday, bonuses.
+
+Why was it a problem that they'd nicked so much?
+
+Well, the payroll was insured. And the insurance company and the police
+force -- that time it was West Yorkshire. It was a combination of
+commercial necessity and professional pride. The police had to catch the
+robbers.
+
+So, even though it looked like good look at the beginning, it was
+actually bad luck.
+
+The other thing was that this supposed strategic genius had done
+absolutely no planning about what to do with the money. None. Gang
+members walked away with suitcases full of cash and did exactly what
+you'd expect gang members to do who had never had money before in their
+lives and suddenly had a suitcase full of cash.
+
+They spent it?
+
+Exactly.
+
+All plod, had to do was ask around. Who was looking flush? Have you
+heard of the "stripper theory?"
+
+I'm taking it, this hasn't got anything to do with painting and
+decorating.
+
+"There was this guy who was really good at predicting when the market
+would collapse. Very good. In the last crash, he'd made enough money --
+some people can decide they've made enough money. And so, he wrote a
+book letting on how he did it -- or letting on some of it anyway -
+'Stripper theory.'"
+
+Basically, as a young, horny, nerdy man, he'd spend a lot of time in
+strip clubs. And because he was essentially harmless, he'd ended up
+talking to a lot of the strippers.
+
+One night he'd had a conversation with one of the strippers, Vanessa --
+she was that most unusual of strippers -- a veteran. But she was saying
+it was time to hang up her pasties.
+
+What are pasties?
+
+"They're the things that you stick on the end of your nipples."\
+"Not with super glue, I'm guessing, how do you know this?"\
+"My wife left me, remember? Didn't yours leave you?"
+
+Sometimes, they have tassels on. Vanessa's had tassels on. Her
+speciality was getting one set of tassels to rotate one way and the
+other set to rotate the other way.
+
+There were two reasons Vanessa was giving up. Firstly, gravity was
+making the job of getting the tassels to rotate, just a little bit
+trickier every day. Secondly, a recession, maybe even a depression was
+coming.
+
+At this, our boy Bernard's ears pricked up. How did she know a recession
+was coming?
+
+Vanessa shrugged -- "tips are dropping off."
+
+Not enough glue on the pasties.
+
+Bernard didn't want to suggest that maybe it was that Vannesa charms
+were, perhaps fading. But Vanessa made her money and had managed to keep
+herself safe (mostly) by knowing what men were thinking. It wasn't that,
+she said. She had a regular clientele. If they were just going to
+someone younger, she'd know. They were visiting less, and they were
+paying less because they were broke. And that's what it had been like
+last time.
+
+Last time?
+
+Last time there was a recession.
+
+This is all very educational, but why are you telling me this Dr?
+
+What did young men who'd never had money before and suddenly had
+suitcases full of cash spend their money on?
+
+"Strippers! Hookers!"
+
+"Exactly. That's how they found most of the gang."
+
+"Honour among thieves? Bollocks. They all gave up Dobby in the hope of
+lighter sentences. Also, the coppers picked up the idea that the other
+members of the gang didn't like him that much. He was the one who'd
+insisted on wearing gloves all the time. He was the one who'd been
+lecturing them about not spending their money all at once. He was the
+one who'd been right. And we all know." Pausing looked at Klee, very
+pointedly, we all know how annoying that can be. They told themselves
+that somehow it was his fault that they'd got caught. They were more
+than keen to grass him up.
+
+But there was a problem. There was no sign that he'd spend any of the
+money, and that was mainly because he was nowhere to be found.
+
+Dobby Bland learned a lot from that job. Firstly, you needed to do as
+much planning about what to do with the money as you do about how to
+take it.
+
+Secondly, stay away from villains.
+
+Three years later. The Collaigne-Schotts bullion robbery showed that
+he'd been learning and he'd been thinking big.
+
+None of the gang had records. Well, they had military records. Again. No
+actual violence on the job. Again, hospital anaesthetics and guards who
+genuinely couldn't remember.
+
+And as much attention was paid to getting rid of the gold and turning it
+into money as was paid in the planning of the job. They had a smelter.
+They had a moody gold dealer. They had someone to launder the money into
+houses and businesses. Well, that's what they had in the side that got
+caught. Because Dobby Brent, after a brief discussion in a Nissen hut in
+Essex with the other members of the gang -- was never seen again.
+
+The job relied on the fact that Stansted Airport has a huge runway. The
+main security strategy for this gold, was to load it onto the plane in a
+far corner, where, well, I'm guessing, prying eyes wouldn't see. It was
+tempting to think that it was safe to load an enormous amount of gold
+onto the back of a specially adapted 747 in one far corner of the
+runway, that nobody would be watching. Bit of a flaw in this security
+strategy.
+
+Somebody *was* watching. Again -- it was suspected that there was
+someone on the inside, but this time, they never figured out who.
+
+There was some technical skill in the gang though. They figured out how
+to cut a Land Rover sized hole in the fence that didn't get detected by
+the security systems. And they turned up at just the right minute. Hence
+the suspicion that it was an inside job. And there was some explosive
+knowledge. They did the Michael Caine thing -- they blew the doors off!
+
+Masks on. Filled the van with sleepy, sleepy, goodnight fumes. Charges
+on the doors, They knew exactly where to blow the doors to get the
+hinges and 5, 4, 3, 2, 1 and boom! "Robert est sa oncle."
+
+"What?"
+
+"Bob's your mother's weird older brother who passes out at Christmas
+while the kids are opening their presents and the cartoons are still on.
+He doesn't even make it to lunch."
+
+"Actually, he was called Eric."
+
+"This is a brilliant theory. There's just one problem with it."
+
+"Oh you're gonna nit pick now are you? Pick holes in it?"
+
+"No."
+
+"No?"
+
+"I'm not gonna pick holes. I'm just going to blow one giant hole.
+Michael Cain blowing the doors off hole. Boht can't be Brand."
+
+"Why not?"
+
+"Because Brand has been in the freezer in the crypt. For the last thirty
+years."
+
+"It's not a crypt. Unitarian chapels didn't have..."
+
+"The cellar. It's downstairs. It's dark. It's a bit damp. I'm not going
+to argue. The freezer in the cellar. The body in the freezer in the
+cellar? It's Brand. From the sell-by dates on the peas -- it's tricky of
+course, because it's frozen food. I don 't think he made it to that
+Christmas 1994."
+
+Klee held up a printout of a black and white photograph of Brand.
+
+And next to it, he held up his phone. Even with the Jack Frost
+impression, it was definitely the same face.
+
+---
+
+<a id="chapter-14"></a>
+
+## Chapter 14 — Sheep
+
+"Wha'? Argh!"
+
+4.44am
+
+Congratulations.
+
+They don't have official most wanted lists in the UK, but Interpol do.
+Of course he's not at the top of it now. It's all terrorists now.
+
+But he was on top of it for a while.
+
+You've found the villain who got away with 247 kilos of gold. Current
+value? About 25 million quid.
+
+But you found him in a freezer.
+
+And you didn't find the gold.
+
+5:03am
+
+Jewellery quarter. Birmingham has a jewellery quarter! He didn't know
+precisely what went on there. But he could guess. Jewellery! Somebody
+could sell the gold bit by bit. Somebody could sell gold to businesses
+in the jewellery quarter. Hell, someone could set up businesses in the
+jewellery quarter, maybe Boht had done all of this.
+
+Who the hell was Boht?
+
+Why did he have a chapel?
+
+That was the thing to do tomorrow -- find out more about the chapel.
+
+It had been a chapel until the late 80's. He knew that. He'd seen
+leaflets and posters for the fundraising.
+
+Minutes!
+
+He'd seen minutes of the fundraising meetings. There were names in
+there! That was a place to start.
+
+"Boht doesn't exist."
+
+"Colour me unsurprised."
+
+"You know what that means?"\
+"If I'm being perfectly honest, no I don't."
+
+"It means my client doesn't exist. Oh actually there is someone with
+that name. But I've looked at pictures -- he's not my client."\
+"The way you talk about clients, I'd have thought that was their ideal
+state."
+
+"What?\
+"Non existence."
+
+"Well I suppose this one is approaching the ideal state. Because not
+only does this client not exist, they're paying their bills."
+
+"What's he want me to do? Why am I here?"
+
+"And what should we do? Should I pull you out? Find you something else?
+There's a sheep farm in Norfolk. You wouldn't have to farm the sheep..."
+
+"No way we're walking away from this now."\
+"But you might be in danger."
+
+"Of what? Waltzing out into the night in a negligee, shooting myself in
+the face and then tidying up? Haven't you figured out what this could
+mean?"
+
+"What do you mean what this could mean?"\
+"What do you think you might be able to buy with 25 million quid's worth
+of gold."
+
+"We can't keep it Ernie."\
+"I wasn't thinking about having Rolexes up my arms, and I already have a
+sports car."
+
+"What then."
+
+"I dunno, maybe we could spend it on burning off the cover for the top
+plod at the met."
