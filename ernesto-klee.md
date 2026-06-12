@@ -1465,7 +1465,7 @@ and then fencing it.
 
 And that's how the others got caught.
 
-But David Oliver "Dobby" Brand was known as the "general." Because all
+But Darren Oliver "Dobby" Brand was known as the "general." Because all
 of his jobs were planned with military precision. Or at least that's
 what they said. Remember, we're dealing with villains. And the kind of
 villains who were doing jobs in 1994 -- they weren't like previous
@@ -1485,10 +1485,10 @@ the hospital. And masks.
 
 The anaesthetic had the added benefit of wiping the memories of the
 guards in the van -- none of them could remember a thing. Not even the
-one who later, it turned out had been and accomplice.\
+one who later, it turned out had been an accomplice.\
 \
 This was Dobby's first known real job. Before that, he literally had
-been knicking stuff of the back of lorries. and it had all kinds of
+been nicking stuff off the back of lorries. And it had all kinds of
 inspired touches.
 
 There was just one problem. Actually, there were two problems. The first
@@ -1504,7 +1504,7 @@ force -- that time it was West Yorkshire. It was a combination of
 commercial necessity and professional pride. The police had to catch the
 robbers.
 
-So, even though it looked like good look at the beginning, it was
+So, even though it looked like good luck at the beginning, it was
 actually bad luck.
 
 The other thing was that this supposed strategic genius had done
@@ -1559,7 +1559,7 @@ Vanessa shrugged -- "tips are dropping off."
 
 Not enough glue on the pasties.
 
-Bernard didn't want to suggest that maybe it was that Vannesa charms
+Bernard didn't want to suggest that maybe it was that Vanessa's charms
 were, perhaps fading. But Vanessa made her money and had managed to keep
 herself safe (mostly) by knowing what men were thinking. It wasn't that,
 she said. She had a regular clientele. If they were just going to
@@ -1590,10 +1590,10 @@ pointedly, we all know how annoying that can be. They told themselves
 that somehow it was his fault that they'd got caught. They were more
 than keen to grass him up.
 
-But there was a problem. There was no sign that he'd spend any of the
+But there was a problem. There was no sign that he'd spent any of the
 money, and that was mainly because he was nowhere to be found.
 
-Dobby Bland learned a lot from that job. Firstly, you needed to do as
+Dobby Brand learned a lot from that job. Firstly, you needed to do as
 much planning about what to do with the money as you do about how to
 take it.
 
@@ -1610,7 +1610,7 @@ And as much attention was paid to getting rid of the gold and turning it
 into money as was paid in the planning of the job. They had a smelter.
 They had a moody gold dealer. They had someone to launder the money into
 houses and businesses. Well, that's what they had in the side that got
-caught. Because Dobby Brent, after a brief discussion in a Nissen hut in
+caught. Because Dobby Brand, after a brief discussion in a Nissen hut in
 Essex with the other members of the gang -- was never seen again.
 
 The job relied on the fact that Stansted Airport has a huge runway. The
@@ -1632,7 +1632,7 @@ knowledge. They did the Michael Caine thing -- they blew the doors off!
 
 Masks on. Filled the van with sleepy, sleepy, goodnight fumes. Charges
 on the doors, They knew exactly where to blow the doors to get the
-hinges and 5, 4, 3, 2, 1 and boom! "Robert est sa oncle."
+hinges and 5, 4, 3, 2, 1 and boom! "Robert est son oncle."
 
 "What?"
 
@@ -1651,7 +1651,7 @@ He doesn't even make it to lunch."
 "No?"
 
 "I'm not gonna pick holes. I'm just going to blow one giant hole.
-Michael Cain blowing the doors off hole. Boht can't be Brand."
+Michael Caine blowing the doors off hole. Boht can't be Brand."
 
 "Why not?"
 
@@ -1663,7 +1663,7 @@ years."
 "The cellar. It's downstairs. It's dark. It's a bit damp. I'm not going
 to argue. The freezer in the cellar. The body in the freezer in the
 cellar? It's Brand. From the sell-by dates on the peas -- it's tricky of
-course, because it's frozen food. I don 't think he made it to that
+course, because it's frozen food. I don't think he made it to that
 Christmas 1994."
 
 Klee held up a printout of a black and white photograph of Brand.
@@ -1729,8 +1729,9 @@ that name. But I've looked at pictures -- he's not my client."\
 "The way you talk about clients, I'd have thought that was their ideal
 state."
 
-"What?\
-"Non existence."
+"What?"
+
+"Non-existence."
 
 "Well I suppose this one is approaching the ideal state. Because not
 only does this client not exist, they're paying their bills."
@@ -1749,13 +1750,13 @@ mean?"
 
 "What do you mean what this could mean?"\
 "What do you think you might be able to buy with 25 million quid's worth
-of gold."
+of gold?"
 
-"We can't keep it Ernie."\
+"We can't keep it, Ernie."\
 "I wasn't thinking about having Rolexes up my arms, and I already have a
 sports car."
 
-"What then."
+"What then?"
 
 "I dunno, maybe we could spend it on burning off the cover for the top
-plod at the met."
+plod at the Met."
