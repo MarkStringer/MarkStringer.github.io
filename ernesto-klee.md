@@ -79,6 +79,40 @@ The idea that, on the night when he finally thought he'd got to the bottom of wh
 
 ---
 
+<a id="chapter-1-5"></a>
+
+## Chapter 1.5 — Pigeon
+
+Mrs Petaloudes was the only other person on his street at that time of day. It was mid-morning. The commuters had gone and the school runs had been done.
+
+That was maybe why Mrs Petaloudes was there on the street at that time of day. Mrs Petaloudes liked to feed the birds. Ever since he'd lived in the street, he'd seen her around. But he used to see her feeding the birds in the park. She was banned from the park now.
+
+What had happened to the attitude to feeding the birds? Somehow, in an age where attitudes to everything seemed to be hardening, the attitude to feeding birds had gone the same way. Especially the attitude to feeding ducks bread. There were even signs now in the park explaining in vivid detail the damage to the gastrointestinal tract of your average mallard that chunk of white sliced could do. The sign might have even included diagrams.
+
+Anyway, the result of all this raised awareness was that Mrs Petaloudes, along with the man who insisted on turning up pissed and naked at three in the morning and putting cat food through his ex's letter box, and the youths who decided they wanted to play football in the street next to the bloke's house, whose car was so expensive he'd had to broker his own insurance deal on the Lloyds markets. All of these terrible threats to society had got the same anti-social behaviour orders. So Mrs Petaloudes, actually it was probably her son-in-law. Yes, she wasn't alone, she just preferred the company of ducks, homicidal Canadian geese and pigeons to her own family. And so, it had been mentioned to her that if she fed birds grain in the street, rather than ducks bread in the park, it would require another antisocial behaviour order -- the street not having as many bylaws as the park, she might not have as much legal trouble. And by the time the local neighbourhood watch got around to that, there'd been a change of government and locking up your neighbours for being mildly annoying had gone out of fashion and destroying our country because our bananas weren't the right shape was all the rage.
+
+Something like that.
+
+He was watching his own house. From across the street. He was actually watching it from behind a rhododendron in the garden of a house that looked like it was abandoned.
+
+Would they be watching his house? He guessed if they were going to come after him, they probably would be. But were they coming after him? All that dancing in the street he'd done, smashing his phone and buying a new one, was that really necessary?
+
+Mrs Petaloudes was followed by a flock of pigeons, enormous seagulls, a few ducks that must have somehow got the message that she had taken her act on the road. She waddled, head down along the pavement, clad entirely in black, black headscarf dragging her black shopping cart behind her. She reached a spot on the pavement where the parked cars cleared because there were two driveways next to each other. Here was Klee's driveway with his boring grey car. And next to it, over a low wall, was the uninsurable supercar.
+
+Out the back of Klee's house was a garden. By some amazing stroke of luck, it was a garden that he could see better than anyone else, but it wasn't his! He didn't have to maintain it.
+
+There was a large bush, nearly a tree, which he didn't notice much for the rest of the year, but which in the autumn was covered in red berries. At some specific point, these berries must be ripe, and when they were, the bushes were suddenly covered in pigeons. But not ordinary pigeons, big, fat wood pigeons. Not the Trafalgar Square bad boys, their lardier and most slow-moving bigger cousins.
+
+At a particularly tricky point in Klee's life. Which point hadn't been tricky? He could hear his wife saying sharply - "Well, being suspended, looking like you were going to be fired without a pension, that wasn't a high point either." At that point, he'd often sat at his kitchen table and looked out over the garden. And that autumn he'd watched the pigeons. Often, he'd watched them with Jackie, who would come round whenever he got the chance.
+
+Somebody at a party had asked him once what his soul animal would be, and he'd said "wood pigeon." Almost without thinking. Maybe it was just the thought of being able to eat enormous amounts without getting any grief for it. He also, for some reason, quite liked the idea of swaying around upside down, eating the cotoneaster berries.
+
+Mrs Petaloudes delved deep into her shopping trolley and in a single movement she spread wheat and sweetcorn grains across the bonnet of his car, and his neighbours super car. Klee was reminded of this because, as he was watching his house, to figure out if he was being watched, fingering his keys, and wondering if this was stupid and he should just get in the car and drive off. While he was thinking all of this, and watching Mrs Petaloudes shower his car bonnet in grain, a large wood pigeon landed on the bonnet of his car.
+
+And then his car exploded.
+
+---
+
 <a id="chapter-2"></a>
 
 ## Chapter 2 — Mr Muscle
