@@ -1267,72 +1267,6 @@ And next to it, he held up his phone. Even with the Jack Frost impression, it wa
 
 <a id="chapter-14"></a>
 
-## Chapter 14 — Listing Badly
-
-It was a habit he’d picked up when he was a new recruit. He’d got in trouble for.
-
-“You’re not supposed to write everything down Klee. Just the pertinent points.”
-And you weren’t supposed to keep notebooks that weren’t the official notebooks. Not while you were on duty anyway. 
-
-So, he would turn it into a kind of song, in his head. He’d make a list.
-
-So like now, sitting in the café, he’d known the minute he walked in would be his local. And then he’d started to read about how to 
-
-Man and woman in hi-vis.
-
-Hay fever tablets. 
-
-And air freshener! Klee tried to stop his mind from boggling. If your nose was blocked from hay fever, why did you need the air freshener? Or was the story that you needed the hay fever tablets because otherwise you couldn’t breathe, but when you could breathe – whatever environment it was that was that you were in, you were going to need air freshener.
-
-Then he’d read the books on how to have a perfect memory or how to remember anything. 
-
-Every now and again through his career in the Met, someone would exclaim that he had a photographic memory. He didn’t. He had a terrible memory. He especially didn’t think visually at all. He thought in words.
-
-What he would find himself doing, especially in crime scenes, is talking to himself, telling himself what he could see, and then going over and over this list of things that could see in his head.
-
-Was it poetry?
-No.
-
-Was it like a rap or hip-hop word spitting.
-
-Jesus no.
-
-What was it?
-
-Do you know what it was most like?
-
-Well, Then You Have a Go!
-
-What?
-
-Well, Then You Have a Go!
-
-What the hell was that?
-
-WTYHAG – as it was never known – was a Saturday night prime time TV show. The premise was that there would be a demonstration from an expert. A chef would demonstrate how to bone a chicken. Someone would do something with origami.
-
-A serial killer would expertly dismember a body.
-
-OK that never happened. 
-
-So, the gag of the show was that the contestants would be terrible at the cake decorating or hair cutting or beef jointing – come to think of it, there was actually quite a lot of dismemberment. But whoever was best at it, at the end of the show, they would get the chance – just the chance – to win a prize – actually prizes.
-
-And the way the prizes worked was that the person who’d been really good at origami and Airfix kit assembly would watch a series of aspirational prizes go past on a conveyor belt.
-
-A teas made! A cuddly toy! A fondue set. What the holy living fuck was a fondue set? This was the seventies. A machine that woke you up to the blurpy blurpy sound of a tiny amount of tea being made with explosive inefficiency right next to your ear – that was the height of sophistication. Actually, the fondue set went beyond the height of sophistication. Nobody really knew what it was for. A mysterious black cauldron. Some kind of lamp that needed to be lit. A peculiar set of sharp implements. 
-
-Klee was probably actually finished at Hendon before he realized that there was a difference between fondue and Voodoo.
-
-Are we anywhere near the point?
-
-We are not. We are quite a long way from it.
-
-The point was this. Klee taught himself to remember every item on the conveyor belt. So when it came to making lists of the things he saw when he was on a crime scene, or on a bus, he did it. Almost without thinking.
-
----
-
-<a id="chapter-14"></a>
-
 ## Chapter 14 — Sheep
 
 “Wha’? Argh!”
@@ -1524,3 +1458,69 @@ Boht might have spent, Boht might have hidden it where we can’t find it.”
 “It is?”
 
 “Call Preston, and then take the car out of the garage.”
+
+---
+
+<a id="chapter-15"></a>
+
+## Chapter 15 — Listing Badly
+
+It was a habit he’d picked up when he was a new recruit. He’d got in trouble for.
+
+“You’re not supposed to write everything down Klee. Just the pertinent points.”
+And you weren’t supposed to keep notebooks that weren’t the official notebooks. Not while you were on duty anyway. 
+
+So, he would turn it into a kind of song, in his head. He’d make a list.
+
+So like now, sitting in the café, he’d known the minute he walked in would be his local. And then he’d started to read about how to 
+
+Man and woman in hi-vis.
+
+Hay fever tablets. 
+
+And air freshener! Klee tried to stop his mind from boggling. If your nose was blocked from hay fever, why did you need the air freshener? Or was the story that you needed the hay fever tablets because otherwise you couldn’t breathe, but when you could breathe – whatever environment it was that was that you were in, you were going to need air freshener.
+
+Then he’d read the books on how to have a perfect memory or how to remember anything. 
+
+Every now and again through his career in the Met, someone would exclaim that he had a photographic memory. He didn’t. He had a terrible memory. He especially didn’t think visually at all. He thought in words.
+
+What he would find himself doing, especially in crime scenes, is talking to himself, telling himself what he could see, and then going over and over this list of things that could see in his head.
+
+Was it poetry?
+No.
+
+Was it like a rap or hip-hop word spitting.
+
+Jesus no.
+
+What was it?
+
+Do you know what it was most like?
+
+Well, Then You Have a Go!
+
+What?
+
+Well, Then You Have a Go!
+
+What the hell was that?
+
+WTYHAG – as it was never known – was a Saturday night prime time TV show. The premise was that there would be a demonstration from an expert. A chef would demonstrate how to bone a chicken. Someone would do something with origami.
+
+A serial killer would expertly dismember a body.
+
+OK that never happened. 
+
+So, the gag of the show was that the contestants would be terrible at the cake decorating or hair cutting or beef jointing – come to think of it, there was actually quite a lot of dismemberment. But whoever was best at it, at the end of the show, they would get the chance – just the chance – to win a prize – actually prizes.
+
+And the way the prizes worked was that the person who’d been really good at origami and Airfix kit assembly would watch a series of aspirational prizes go past on a conveyor belt.
+
+A teas made! A cuddly toy! A fondue set. What the holy living fuck was a fondue set? This was the seventies. A machine that woke you up to the blurpy blurpy sound of a tiny amount of tea being made with explosive inefficiency right next to your ear – that was the height of sophistication. Actually, the fondue set went beyond the height of sophistication. Nobody really knew what it was for. A mysterious black cauldron. Some kind of lamp that needed to be lit. A peculiar set of sharp implements. 
+
+Klee was probably actually finished at Hendon before he realized that there was a difference between fondue and Voodoo.
+
+Are we anywhere near the point?
+
+We are not. We are quite a long way from it.
+
+The point was this. Klee taught himself to remember every item on the conveyor belt. So when it came to making lists of the things he saw when he was on a crime scene, or on a bus, he did it. Almost without thinking.
