@@ -1465,31 +1465,47 @@ Boht might have spent, Boht might have hidden it where we can’t find it.”
 
 ## Chapter 15 — Listing Badly
 
-It was a habit he’d picked up when he was a new recruit. He’d got in trouble for.
+It was a habit he’d picked up when he was a new recruit. He’d got in trouble for it.
 
-“You’re not supposed to write everything down Klee. Just the pertinent points.”
+“You’re not supposed to write everything down, Klee. Just the pertinent points.”
 And you weren’t supposed to keep notebooks that weren’t the official notebooks. Not while you were on duty anyway. 
 
-So, he would turn it into a kind of song, in his head. He’d make a list.
+So, he would turn it into a kind of song, in his head. Worst rap ever! He’d make a list.
 
-So like now, sitting in the café, he’d known the minute he walked in would be his local. And then he’d started to read about how to 
+Like now, sitting in the café, he’d known the minute he walked in it would be his local. 
 
-Man and woman in hi-vis.
+Man and woman in hi-vis. Orange hi-vis? Who works in orange hi-vis?
 
-Hay fever tablets. 
+The woman offering the man hay fever tablets. 
 
-And air freshener! Klee tried to stop his mind from boggling. If your nose was blocked from hay fever, why did you need the air freshener? Or was the story that you needed the hay fever tablets because otherwise you couldn’t breathe, but when you could breathe – whatever environment it was that was that you were in, you were going to need air freshener.
+And then showing him two packs of air freshener! Klee tried to stop his mind from boggling. If your nose was blocked from hay fever, why did you need the air freshener? Or was the story that you needed the hay fever tablets because otherwise you couldn’t breathe, but when you could breathe – whatever environment you were in, you were going to need air freshener.
 
-Then he’d read the books on how to have a perfect memory or how to remember anything. 
+A woman, thirties, short hair, no wedding ring. Two dogs. A poodle, or something like that, one of these adorable crosses. And a dog, the shape of a corgi, but with grey-blue spots on a white background. And pale, grey-blue eyes.
 
-Every now and again through his career in the Met, someone would exclaim that he had a photographic memory. He didn’t. He had a terrible memory. He especially didn’t think visually at all. He thought in words.
+A large man, who somehow managed to look clumsy, even when all he was doing was walking in the shop. He paid with a card which he got out of his wallet, several other cards dropped to the floor, he bent to pick them up. As he bent down, he caught a basket of crisps that was in front of the checkout with the top of his head. The small Indian woman behind the counter – whose name was Anunciata – came out from behind the counter to help him pick up the crisps. The small Indian man fixed him with a glance. Making sure that he paid. This guy’s name was Donny. It had crossed both Donny, and Klee’s mind that this clumsiness was just an act to create a distraction so that the clumsy man could steal chocolate, or crisps. A lot of effort for a packet of crisps. 
 
-What he would find himself doing, especially in crime scenes, is talking to himself, telling himself what he could see, and then going over and over this list of things that could see in his head.
+But now, watching the clumsy man try to put sugar in his coffee, he changed his mind. No, this was real clumsiness. Maybe some neurological condition. The man – a big man, with woolly dark hair, and enormous shoes – he thought of Jackie for a moment, walked back towards the door with his coffee. Somehow, he had put the plastic lid on it incorrectly and it was spilling and dripping down his hand.
+
+Listing what he could see. And then, remembering what he could see.
+
+He’d seen a book in a house. Someone had been burgled. Their shelves had rivalled Mr Boht’s. The victim of the burglary was a magician. And one entire bookshelf was books on memory. 
+
+When they’d asked the man – a young man. Looking at the bookshelves and the carpets, and the curios. Yes, that’s what they were, curios. Blonde hair, twentysomething. Already going bald. 
+
+When, off the top of his head (so to speak) he listed exactly the things that had been stolen, the other policemen were immediately suspicious. Was this an insurance job? No, it wasn’t, no insurance.
+
+But what he did have was a good memory. A Chinese puzzle box, a set of steel rings, a book of 1,000 card tricks that can be done without preparation. A guillotine (1:24 scale).
+
+Klee had started with one book, “Remember Everything!” But before long, he had his own bookshelf full of books on memory tricks. 
+
+Every now and again through his career in the Met, someone would exclaim that he had a photographic memory. He didn’t. He had a terrible memory. He especially didn’t think visually at all. A lot of the memory books suggested that you create an image to remember someone’s name, for example. He would struggle to do that. He could make it work. He thought in words. The sound of the words, talking to himself. Fortunately only in his head. Not out loud. 
+
+What he would find himself doing especially in crime scenes, is doing that, talking to himself, telling himself what he could see, and then going over and over this list of things that he could see in his head.
 
 Was it poetry?
 No.
 
-Was it like a rap or hip-hop word spitting.
+Was it like a rap or hip-hop word spitting?
 
 Jesus no.
 
@@ -1501,7 +1517,7 @@ Well, Then You Have a Go!
 
 What?
 
-Well, Then You Have a Go!
+“Well, Then You Have a Go!”
 
 What the hell was that?
 
@@ -1515,7 +1531,7 @@ So, the gag of the show was that the contestants would be terrible at the cake d
 
 And the way the prizes worked was that the person who’d been really good at origami and Airfix kit assembly would watch a series of aspirational prizes go past on a conveyor belt.
 
-A teas made! A cuddly toy! A fondue set. What the holy living fuck was a fondue set? This was the seventies. A machine that woke you up to the blurpy blurpy sound of a tiny amount of tea being made with explosive inefficiency right next to your ear – that was the height of sophistication. Actually, the fondue set went beyond the height of sophistication. Nobody really knew what it was for. A mysterious black cauldron. Some kind of lamp that needed to be lit. A peculiar set of sharp implements. 
+A Teasmade! A cuddly toy! A fondue set. What the holy living fuck was a fondue set? This was the seventies. A machine that woke you up to the blurpy blurpy sound of a tiny amount of tea being made with explosive inefficiency right next to your ear – that was the height of sophistication. Actually, the fondue set went beyond the height of sophistication. Nobody really knew what it was for. A mysterious black cauldron. Some kind of lamp that needed to be lit. A peculiar set of sharp implements. 
 
 Klee was probably actually finished at Hendon before he realized that there was a difference between fondue and Voodoo.
 
@@ -1524,3 +1540,124 @@ Are we anywhere near the point?
 We are not. We are quite a long way from it.
 
 The point was this. Klee taught himself to remember every item on the conveyor belt. So when it came to making lists of the things he saw when he was on a crime scene, or on a bus, he did it. Almost without thinking.
+
+---
+
+<a id="chapter-16"></a>
+
+## Chapter 16 — Henry
+
+“Henry”
+“Ernest”
+“Where are you? It sounds noisy.”
+“I’m at a boot sale in the middle of an air field.”
+“Anything interesting?”
+“Mostly it’s stolen power tools getting shifted before the rozzers get here.”
+
+“Do the rozzers bother with things as trivial as stolen power tools?”
+
+“Well, the things I took hardly cost more than a van full of power tools and they made sure they sent me down.”
+
+“Wasn’t the mistake you made stealing from Lord Gatling?”
+“Possibly.”
+“And then trying to fence the things you stole in an antique shop in the village.”
+“Yes, that was part of it.”
+“A shop owned by Lord Gatling.”
+“Those were my salad days, when I was green in judgement and had a brain like a mushed avocado.”
+
+Henry Jayne was a celebrity. After a shaky start, in the world of work – getting a prized job as an assistant curator in a local stately home – things had gone almost immediately awry, when, not priceless, but rather, very definitely high-priced antiques started to go missing from Shelaghbrightdown (pronounced Sheldon) Hall.
+
+Part of Henry’s mistake was that he didn’t know Barry Gatling. Yes, Barry Gatling was a Lord. Yes, Barry Gatling had a title and land. No, Barry Gatling was not gentry. Barry Gatling was also a thief. And like many thieves, there was nothing that Barry hated more than being stolen from.
+
+When Henry had become a moderately famous TV star, it had been in all the papers about his “colourful” past. 
+
+Henry was a participant in a TV show “X Marks the Spot.”
+
+It was part antique show, part children’s party-style treasure hunt.
+
+Each pair of ordinary members of the public was paired with an “Antiques expert” and given a series of objects as clues. The clues inevitably led to a local tourist attraction that was trying to vary its approach to marketing. 
+
+And as Henry said himself, he was “taken from the country jail” and “by a set of curious chances”, had become the nation’s favourite antiques expert.
+
+At that point, there’d been just one snag. Henry hadn’t really known all that much about antiques. But something strange happened. 
+
+And it was as the result of a conversation that Henry had had with a serial killer. 
+
+“He wasn’t really a serial killer.”
+“He killed four people.”
+“Yes, but they weren’t random people. And it wasn’t for sex, or for the thrill. He was quite sane.”
+“He chopped them up and distributed them across Gloucestershire.”
+“But that was a sensible thing to do – he was trying to avoid detection. They tricked him out of his business. Anyway. When I knew him, he was the gentlest soul that you could possibly imagine. And I don’t know why he decided to take me under his wing.”
+“It wasn’t… the obvious?”
+
+“Oh no, he wasn’t gay!”
+
+Henry never said what it was that the Crickley Hill killer said to him. But it had clearly set him on a different path. And since leaving prison, he had used all the money and time that being on a successful TV show gave him to learn as much as he possibly could about antiques. His specialism was porcelain. He had written several books. But he had a good eye for antiques. 
+
+And beyond that, he had a villain’s sense of when something was pukka, and when something was moody.  Even though he’d been a rubbish thief. And that’s exactly what Klee felt he needed right now.
+
+“I have fallen among antiques.”
+“Are you sure? The last time you suggested I come and look at what you thought were antiques, it was like we were in a skip.”
+
+Klee said nothing, he just flipped the camera round on his phone and slowly scanned the pews. 
+
+“Where the hell are you?”
+“Birmingham.”
+
+“Wait! Wait!”
+“What?”
+“Go back.”
+Klee had been wondering how long it would take, it had crossed his mind that everything in there might be junk, this stuff looked good to him, but maybe he was in a skip again. 
+
+“The lamp.”
+
+“The naked woman?”
+
+“Yes.”
+
+“Can you lift it? And see what’s on the base?”
+
+“I’ll have to put the phone down.”
+Klee tried to lift it.
+“I can’t lift it.”
+“Could you just tilt it on its side?”
+“I’ll ring you back.”
+
+After ten minutes of clearing space, Klee managed to clear enough space on the pew. He gently lifted the glass shade out of the arms of the naked lady. And then as carefully as possible he tilted it on its side.
+
+“I’ve done it.”
+“You’re out of breath?”
+“Yes.”
+“It sounds like you’ve been jogging.”
+“This thing is very heavy.”
+“Show me the base.”
+Klee moved his phone to show Henry the base.
+
+“Ah, how disappointing.”
+
+“Not good?”
+“Not really.”
+“Do you have anything – a key, a coin? That you could use to scratch the base?”
+
+Klee reached in his pocket and pulled out the now useless rusty key that had been the old key for the chapel.
+
+“Gently, gently.”
+
+“Henry? Are you still there?”
+“I don’t say this lightly, Ernest, that is one of the most peculiar things that I have ever seen.”
+
+“Peculiar? Peculiar good, or peculiar bad?”
+“Well, put it this way. If the lamp was an original in bronze, it would be worth about five thousand pounds but…”
+
+“But?”
+“But, it’s most definitely a fake.”
+
+“So, worthless then?”
+“That’s the strange part.”
+
+“Strange?”
+
+“Because if it’s what I think it is, and I’m looking now to see how long it’s going to take me to drive to – where are you in Birmingham?”
+
+“Kings Norton.”
+“If it’s what I think it is, it is probably going to be worth, well, let’s just say, considerably more.”
