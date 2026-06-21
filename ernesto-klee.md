@@ -1569,19 +1569,19 @@ Henry Jayne was a celebrity. After a shaky start, in the world of work – getti
 
 Part of Henry’s mistake was that he didn’t know Barry Gatling. Yes, Barry Gatling was a Lord. Yes, Barry Gatling had a title and land. No, Barry Gatling was not gentry. Barry Gatling was also a thief. And like many thieves, there was nothing that Barry hated more than being stolen from.
 
-When Henry had become a moderately famous TV star, it had been in all the papers about his “colourful” past. 
+When Henry had become a moderately famous TV star, it had been in all the papers about his “colourful” past.
 
 Henry was a participant in a TV show “X Marks the Spot.”
 
 It was part antique show, part children’s party-style treasure hunt.
 
-Each pair of ordinary members of the public was paired with an “Antiques expert” and given a series of objects as clues. The clues inevitably led to a local tourist attraction that was trying to vary its approach to marketing. 
+Each pair of ordinary members of the public was paired with an “Antiques expert” and given a series of objects as clues. The clues inevitably led to a local tourist attraction that was trying to vary its approach to marketing.
 
 And as Henry said himself, he was “taken from the country jail” and “by a set of curious chances”, had become the nation’s favourite antiques expert.
 
-At that point, there’d been just one snag. Henry hadn’t really known all that much about antiques. But something strange happened. 
+At that point, there’d been just one snag. Henry hadn’t really known all that much about antiques. But something strange happened.
 
-And it was as the result of a conversation that Henry had had with a serial killer. 
+And it was as the result of a conversation that Henry had had with a serial killer.
 
 “He wasn’t really a serial killer.”
 “He killed four people.”
@@ -1592,14 +1592,14 @@ And it was as the result of a conversation that Henry had had with a serial kill
 
 “Oh no, he wasn’t gay!”
 
-Henry never said what it was that the Crickley Hill killer said to him. But it had clearly set him on a different path. And since leaving prison, he had used all the money and time that being on a successful TV show gave him to learn as much as he possibly could about antiques. His specialism was porcelain. He had written several books. But he had a good eye for antiques. 
+Henry never said what it was that the Crickley Hill killer said to him. But it had clearly set him on a different path. And since leaving prison, he had used all the money and time that being on a successful TV show gave him to learn as much as he possibly could about antiques. His specialism was porcelain. He had written several books. But he had a good eye for antiques.
 
-And beyond that, he had a villain’s sense of when something was pukka, and when something was moody.  Even though he’d been a rubbish thief. And that’s exactly what Klee felt he needed right now.
+And beyond that, he had a villain’s sense of when something was pukka, and when something was moody. Even though he’d been a rubbish thief. And that’s exactly what Klee felt he needed right now.
 
 “I have fallen among antiques.”
 “Are you sure? The last time you suggested I come and look at what you thought were antiques, it was like we were in a skip.”
 
-Klee said nothing, he just flipped the camera round on his phone and slowly scanned the pews. 
+Klee said nothing, he just flipped the camera round on his phone and slowly scanned the pews.
 
 “Where the hell are you?”
 “Birmingham.”
@@ -1607,7 +1607,7 @@ Klee said nothing, he just flipped the camera round on his phone and slowly scan
 “Wait! Wait!”
 “What?”
 “Go back.”
-Klee had been wondering how long it would take, it had crossed his mind that everything in there might be junk, this stuff looked good to him, but maybe he was in a skip again. 
+Klee had been wondering how long it would take, it had crossed his mind that everything in there might be junk, this stuff looked good to him, but maybe he was in a skip again.
 
 “The lamp.”
 
@@ -1661,3 +1661,92 @@ Klee reached in his pocket and pulled out the now useless rusty key that had bee
 
 “Kings Norton.”
 “If it’s what I think it is, it is probably going to be worth, well, let’s just say, considerably more.”
+
+“Tea?”
+
+“Do you have leaves, a pot and china cups?” Henry gestured around at the pews, several of which were filled with china services. “Ah yes, but about the leaves?”
+“I nipped out and got some specially.”
+
+“In that case yes, palaeolithic cow’s milk if you have it.”
+
+“Not almond?”
+“As you Ernestos” Klee was never quite sure why he added the extra ‘s.’ “As you know, I endeavour to be vegan, these days. But the problem with almond milk is that it just sits at the bottom of the cup and sulks. And I’ve tried the others.”
+
+For the last hour Henry had been walking around the pews, pulling things out. Every time Klee had tried to ask him for a verdict he had held up a hand and then placed a finger to his lips.
+
+But Klee could tell from the expression on his face, that he’d already seen something quite special.
+
+As always with Henry, he was playing a game. So, for an hour or so, he’d left Henry to it, jokingly mentioning that he’d noticed if Henry nicked anything (he so wouldn’t). And he’d slipped out and bought some leaf tea.
+
+He’d let Henry pick a tea service.
+
+“Why don’t we walk through to the other room?” He said slyly. And then breezily walked through the maze as fast as he could.
+
+“Ernestosia, might I ask, what the holy living fuck is this?”
+
+“Oh this? This is my labyrinth.”
+
+Klee knew that Henry’s love of antiquarian books almost matched his love of porcelain. And so he’d deliberately not mentioned the library maze, to make sure he had a big reveal.
+
+He parked Henry in the middle of the maze while he washed the teapot and cups and made the tea.
+
+When he returned he was sitting bolt upright on the chaise longue holding a book in his hand.
+
+“Did you know about this?”
+
+“Know about what?”
+
+He was holding in his hand a tiny book that was no bigger than his palm.
+“You didn’t know about it.”
+
+“What?”
+“You see, whoever put this collection together thought they were being cute. Nearly everything is under the radar, most of the books are worth less than a few thousand pounds. Occasionally, there are yards and yards that are actually worthless.”
+
+“But this? This was quite a serious mistake.”
+“What is it?”
+
+“This is a privately printed edition of ‘Pissing Blue Steam’.”
+
+“Is it some kind of medical textbook?”
+
+Harrison Corner was a blue-eyed, blue-blooded, so, I supposed it was logical that he’d want to piss it.
+
+Harrison came from a family of steel barons in Pennsylvania. As part of the rounding off of his education, he went on a European tour, at, well, let’s say, quite an interesting point in European history.
+
+He in fact left for Europe on the day that Archduke Franz Ferdinand was assassinated.
+
+By the time he got to Paris, the war had already started. And, rather than turn around and go straight back, Mr Corner decided he was going to continue his travels, and the almighty dollar being what it was, that worked out OK, he stayed in luxury hotels on both sides of the front lines. He travelled to Greece, which most people who were averse to dying of water borne diseases didn’t do in those days. And he generally had a ball. It was only the pesky business of the Americans joining the war in 1917 that put a stop to his peregrinations. He ended up in Switzerland for the rest of the war, and there he fell in with a bad lot?
+
+“Protofascists?”
+
+“Not quite.”
+“Communists?”
+
+“Definitely not. The clue is in the title ‘Pissing Blue Steam.’”
+
+“Over ambitious genito-urinary surgeons?”
+
+“Worse than that – Surrealists!”
+
+“Ah!”
+
+“And this is his book of surrealist poetry.”
+
+“Is it any good?”
+
+“It’s utterly appalling, even by the standards of surrealist poetry, which is pretty bad, this is terrible. I suspect it might even be terrible by the standards of books that express a desire for blue excretions.”
+
+“So, why is it of any interest?”
+“Because Harrison Corner wasn’t the trustafarian drifter that he appeared to be.”
+
+“He wasn’t?”
+
+“No, he was a spy.”
+
+“And this is important why?”
+“Because everywhere he went, Paris, Berlin, Constantinople, Vienna, he would leave the manuscript of yet another book of his appalling poems. But hidden in them would be his assessment of the current situation.”
+
+“So what was Boht’s mistake?”
+“Boht?”
+“That’s whose collection this is. Ulysses T Boht.”
+“His mistake was that this book has skyrocketed in value. Last year, Harrison Corner’s great-grand-nephew wrote his biography. And he revealed that his great-great-uncle had been a spy for the Americans. At a time, when the historical view was that the Americans were doing their level best to not get involved. He’s become a kind of American James Bond. But also, an American James Bond who left secret codes in his slim volumes of poetry all over Europe.”
