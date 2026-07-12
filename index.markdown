@@ -22,13 +22,13 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 ## Photos of me
 
-![Mark Stringer — black and white portrait](/assets/mark-portrait-bw.jpg)
+[![Mark Stringer — black and white portrait](/assets/mark-portrait-bw-web.jpg)](/assets/mark-portrait-bw.jpg)
 
-![Mark Stringer — black and white headshot](/assets/mark-headshot-bw.jpg)
+[![Mark Stringer — black and white headshot](/assets/mark-headshot-bw-web.jpg)](/assets/mark-headshot-bw.jpg)
 
-![Mark Stringer — colour portrait](/assets/mark-portrait-colour.jpg)
+[![Mark Stringer — colour portrait](/assets/mark-portrait-colour-web.jpg)](/assets/mark-portrait-colour.jpg)
 
-![Mark Stringer — colour headshot](/assets/mark-headshot-colour.jpg)
+[![Mark Stringer — colour headshot](/assets/mark-headshot-colour-web.jpg)](/assets/mark-headshot-colour.jpg)
 
 "Can you give us a headshot?" That means I have to keep the photos of me somewhere, so why not on the website. Apparently every man is responsible for his own face after forty, so this is my fault. As is almost always the case, the [quote can't be totally bottomed out](https://quoteinvestigator.com/2020/08/17/face/). Maybe it was Lincoln.
 
