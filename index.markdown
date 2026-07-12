@@ -17,6 +17,25 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 ---
 
+<a id="photos-of-me"></a>
+## Sunday 12th July 2026
+
+## Photos of me
+
+![Mark Stringer — black and white portrait](/assets/mark-portrait-bw.jpg)
+
+![Mark Stringer — black and white headshot](/assets/mark-headshot-bw.jpg)
+
+Two photos of me from the book jacket shoot. The first is the full black and white portrait. The second is the same shot trimmed down to a headshot, for the places that only want a face.
+
+Same bloke, two sizes.
+
+---
+
+*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–26 August 2026. Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="apr-30th"></a>
 ## Thursday 30th April 2026
 
