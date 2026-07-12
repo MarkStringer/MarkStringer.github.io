@@ -34,6 +34,8 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 "Can you give us a headshot?" That means I have to keep the photos of me somewhere, so why not on the website. Apparently every man is responsible for his own face after forty, so this is my fault. As is almost always the case, the [quote can't be totally bottomed out](https://quoteinvestigator.com/2020/08/17/face/). Maybe it was Lincoln.
 
+And yes, that final close up is terrifying. Don't have nightmares.
+
 ---
 
 *[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–26 August 2026. Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
