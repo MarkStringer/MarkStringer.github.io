@@ -26,9 +26,17 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 ![Mark Stringer — black and white headshot](/assets/mark-headshot-bw.jpg)
 
-Two photos of me from the book jacket shoot. The first is the full black and white portrait. The second is the same shot trimmed down to a headshot, for the places that only want a face.
+![Mark Stringer — colour portrait](/assets/mark-portrait-colour.jpg)
 
-Same bloke, two sizes.
+![Mark Stringer — colour headshot](/assets/mark-headshot-colour.jpg)
+
+Photos of me from the book jacket shoot. Two in black and white, two in colour. Each full portrait comes with the same shot trimmed down to a headshot, for the places that only want a face.
+
+> Every man over forty is responsible for his own face.
+
+I am well past forty, so this one is on me. The [Quote Investigator](https://quoteinvestigator.com/2020/08/17/face/) traces the line back through Lincoln, Stanton and Seward without ever settling on who said it first.
+
+Same bloke, four ways.
 
 ---
 
