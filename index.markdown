@@ -30,13 +30,7 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 ![Mark Stringer — colour headshot](/assets/mark-headshot-colour.jpg)
 
-Photos of me from the book jacket shoot. Two in black and white, two in colour. Each full portrait comes with the same shot trimmed down to a headshot, for the places that only want a face.
-
-> Every man over forty is responsible for his own face.
-
-I am well past forty, so this one is on me. The [Quote Investigator](https://quoteinvestigator.com/2020/08/17/face/) traces the line back through Lincoln, Stanton and Seward without ever settling on who said it first.
-
-Same bloke, four ways.
+"Can you give us a headshot?" That means I have to keep the photos of me somewhere, so why not on the website. Apparently every man is responsible for his own face after forty, so this is my fault. As is almost always the case, the [quote can't be totally bottomed out](https://quoteinvestigator.com/2020/08/17/face/). Maybe it was Lincoln.
 
 ---
 
