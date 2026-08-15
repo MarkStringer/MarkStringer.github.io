@@ -17,6 +17,33 @@ This is a single-page site. Blog posts, show reports. Performance dates. Everyth
 
 ---
 
+<a id="aug-15th-edinburgh"></a>
+## Saturday 15th August 2026
+
+## Everything Begins With S
+
+[![My first show of this year's Fringe](https://img.youtube.com/vi/bAqQ5owHIZk/0.jpg)](https://youtube.com/shorts/bAqQ5owHIZk)
+
+Tomorrow I go to Edinburgh. Very early in the morning, which always seems to be the way with these things.
+
+Then it's a run of shows from Monday through to the Saturday a fortnight later.
+
+The show is called *You Can Write a Book*. It exists because I have a book out — *Delivering the Impossible* — and I needed to do some publicity for it. For a while I thought the show should be called *Please Buy My Book*. Then I decided that was a bit on the nose.
+
+So instead, it's about how you can write one.
+
+Here is the whole thing, which I accept does not help ticket sales. Write something. Come back to it later, read it and edit it — that's the second thing, even though it obviously sounds like more than one thing. Show it to somebody else. Then finish it.
+
+That's the first stage. If you've essentially heard the show now, you don't really need to come. But it would be great if you could.
+
+There's rather more in the 50 minutes, most of it beginning with S for reasons I can't entirely account for. And where the ideas don't begin with S, I'm going to manipulate them until they do.
+
+---
+
+*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–29 August 2026 (not Sundays). Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+
+---
+
 <a id="photos-of-me"></a>
 ## Sunday 12th July 2026
 
@@ -38,7 +65,7 @@ And yes, that final close up is terrifying. Don't have nightmares.
 
 ---
 
-*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–26 August 2026. Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–29 August 2026 (not Sundays). Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
 
@@ -83,7 +110,7 @@ I'll be posting updates here every day. Like an old-fashioned serial.
 
 ---
 
-*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–26 August 2026. Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
+*[You Can Write a Book — Edinburgh Festival Fringe](https://www.edfringe.com/tickets/whats-on/you-can-write-a-book), 17–29 August 2026 (not Sundays). Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 *Work in progress shows — FREE — [The Cavendish Arms, Stockwell, London](https://www.eventbrite.com/e/you-can-write-a-book-tickets-1986985757890). Tuesday 16th & 30th June 2026, 9pm.*
 
@@ -373,7 +400,7 @@ Because if you don't, the project isn't going to make much sense.
 
 ---
 
-*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
 *Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
@@ -389,7 +416,7 @@ So, I had this friend who was passionate about music, loved music, and wanted to
 
 ---
 
-*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
 *Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
@@ -417,7 +444,7 @@ There are no mirrors. Only prisms.
 
 ---
 
-*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
 *Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
@@ -437,7 +464,7 @@ So maybe there's a better way of talking to people about my book without directl
 
 ---
 
-*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
 *Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
@@ -483,7 +510,7 @@ The first draft is supposed to be good. But it won't be. It will be bad. But it 
 
 ---
 
-*You Can Write a Book — Edinburgh Festival Fringe, 17–26 August 2026.*
+*You Can Write a Book — Edinburgh Festival Fringe, 17–29 August 2026 (not Sundays).*
 *Greenside @ Riddles Court, Clover Studio. 18:20, 50 minutes. £10 / £5 concession.*
 
 ---
