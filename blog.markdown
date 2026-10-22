@@ -1,19 +1,33 @@
 ---
 layout: default
-title: Home
+title: Blog
+permalink: /blog/
 ---
 
-# Mark Stringer
+# Blog
 
-**[The Least Interesting Case of Ernesto Klee](/ernesto-klee)** — my new novel, written chapter by chapter every weekday in May 2026.
+Posts and show reports, newest first.
 
-I'm a writer, performer and project manager.
+<ul id="post-index" class="post-index"></ul>
 
-[![Delivering the Impossible — book cover](/assets/DeliveringTheImpossible_cover.png)](https://amzn.to/4t4Pic8)
-
-This is a single-page site. Blog posts, show reports. Performance dates. Everything goes in this page.
-
-**Email: [mark.stringer@gmail.com](mailto:mark.stringer@gmail.com) — Phone: [+44 07803 257982](tel:+4407803257982)**
+<script>
+// Build the index from the posts below: each post is an anchor, a date heading, then a title heading.
+document.addEventListener('DOMContentLoaded', function () {
+  var list = document.getElementById('post-index');
+  document.querySelectorAll('main a[id]').forEach(function (a) {
+    var date = a.closest('p') ? a.closest('p').nextElementSibling : a.nextElementSibling;
+    var title = date && date.nextElementSibling;
+    if (!date || !title || title.tagName !== 'H2') return;
+    var li = document.createElement('li');
+    var link = document.createElement('a');
+    link.href = '#' + a.id;
+    link.textContent = title.textContent;
+    var d = document.createElement('span');
+    d.textContent = date.textContent;
+    li.appendChild(d); li.appendChild(link); list.appendChild(li);
+  });
+});
+</script>
 
 ---
 

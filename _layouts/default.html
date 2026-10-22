@@ -5,11 +5,69 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     {% if site.description %}<meta name="description" content="{{ site.description | escape }}" />{% endif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}" />
+    {% if site.description %}<meta property="og:description" content="{{ site.description | escape }}" />{% endif %}
+    <meta property="og:image" content="{{ '/assets/newCover.png' | absolute_url }}" />
+    <meta name="twitter:card" content="summary" />
+    <script>document.documentElement.className += ' js';</script>
+    <link rel="preconnect" href="https://api.fontshare.com" />
+    <link rel="preconnect" href="https://cdn.fontshare.com" crossorigin />
+    <link href="https://api.fontshare.com/v2/css?f[]=erode@400,500,600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
   </head>
-  <body>
+  <body class="{{ page.class }}">
+    <header class="site-nav">
+      <nav>
+        <a class="brand" href="{{ '/' | relative_url }}">Mark Stringer</a>
+        <span class="nav-links">
+          <a href="{{ '/book/' | relative_url }}">Book</a>
+          <a href="{{ '/show/' | relative_url }}">Show</a>
+          <a href="{{ '/ernesto-klee/' | relative_url }}">Novel</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a href="{{ '/watch/' | relative_url }}">Watch</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/newsletter/' | relative_url }}">Newsletter</a>
+        </span>
+      </nav>
+    </header>
     <main class="container">
       {{ content }}
     </main>
+    <footer class="site-footer">
+      <div class="footer-top">
+        <h2 class="footer-invite">Ask about the book or the show.</h2>
+        <a class="btn" href="mailto:mark.stringer@gmail.com">Email me</a>
+        <p class="footer-links">
+          <a href="https://amzn.to/4t4Pic8">Buy the book</a>
+          <a href="{{ '/topics/' | relative_url }}">Topics</a>
+          <a href="https://www.edfringe.com/tickets/whats-on/you-can-write-a-book">Fringe listing</a>
+          <a href="{{ '/privacy-policy/' | relative_url }}">Privacy</a>
+        </p>
+      </div>
+      <p class="footer-name" aria-hidden="true">Mark Stringer</p>
+    </footer>
+    <script>
+      document.querySelectorAll('.nav-links a').forEach(function (a) {
+        if (a.pathname === location.pathname) a.setAttribute('aria-current', 'page');
+      });
+      // A paragraph that is entirely italic (the Fringe show footer on posts) becomes a note.
+      document.querySelectorAll('main p').forEach(function (p) {
+        var em = p.children.length === 1 && p.children[0].tagName === 'EM' ? p.children[0] : null;
+        if (em && em.textContent.trim() === p.textContent.trim()) p.classList.add('note');
+      });
+      // Entrances: each part of a section rises in as it scrolls into view.
+      if (!document.body.classList.contains('home')) {
+        document.querySelectorAll('main > *').forEach(function (el, i) { if (i < 60 && el.offsetHeight < innerHeight * 0.7) el.setAttribute('data-reveal', ''); });
+      }
+      document.querySelectorAll('.vid-grid .vid, .hub-list li').forEach(function (el) { el.setAttribute('data-reveal', ''); });
+      var parts = document.querySelectorAll('[data-reveal]');
+      if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+        }, { rootMargin: '0px 0px -8% 0px' });
+        parts.forEach(function (el) { el.classList.add('pre'); io.observe(el); });
+      }
+    </script>
   </body>
 </html>

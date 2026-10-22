@@ -2,7 +2,13 @@
 
 ## Site structure
 
-Jekyll site. Single main page (`index.markdown`) using the `default` layout. All assets in `assets/`. Deployed via GitHub Pages.
+Jekyll site, several pages using the `default` layout (`_layouts/default.html`): home (`index.html`, plain HTML), `book.markdown`, `show.markdown`, `about.markdown`, `ernesto-klee.md` and the blog (`blog.markdown`, served at `/blog/`). All assets in `assets/`. Deployed via GitHub Pages.
+
+**New blog posts go in `blog.markdown`**, as the first entry after the post-index script and the first `---`. The post index at the top of the page builds itself from the posts. Old `/#anchor` links redirect to `/blog/#anchor`.
+
+The home page's "From the blog" section and the card deck (`#deck-list` in `index.html`) are hand-maintained: update them when you want a newer post featured.
+
+Markdown inside a raw `<div>` is not parsed by kramdown unless the div has `markdown="1"`. Home is plain HTML for that reason.
 
 ## The Least Interesting Case of Ernesto Klee — novel serial
 
